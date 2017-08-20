@@ -83,10 +83,7 @@
   * [Install Postman](https://www.getpostman.com/)
   * Read slides for next day
 
-
 ### Day 14
-
-### Day 15
 * [Express Lecture](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.p)
 * [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
 * [First Web Server](https://github.com/AustinCodingAcademy/advanced-first-web-server)
@@ -99,6 +96,7 @@
   * [Setup MLab](https://youtu.be/BWKaoCUdlBo)
   * [Install Robomongo](https://robomongo.org/)
 
+### Day 15
 ### Day 16
 * Lecture
   * [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit)
