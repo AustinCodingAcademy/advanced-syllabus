@@ -1,4 +1,7 @@
 
+* [Start on your final project](https://github.com/AustinCodingAcademy/advanced-heroku-app)
+
+
 ### Day 1
 * [Lecture Slides](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
 * [Setup Checklist](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
@@ -42,7 +45,7 @@
 
 
 ### Day 8
-* Start on redux
+* Redux Reducers
 
 ### Day 9
 * Redux Actions
@@ -55,13 +58,17 @@
 * [Get project done](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 
 ### Day 12
-* Get prepared for next class
+* Homework
   * [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
   * [Install Postman](https://www.getpostman.com/)
   * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
   * [themoviedb.org](https://www.themoviedb.org/?language=en)
 
-### Day 13
+### Day 13 
+1) Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
+2) Complete the [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-promise-practice) using the [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p) and examples. Tell me when you are done.
+3) I will use [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p) to complete the [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book) in class
+4) Start work on [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 * Lecture
   * [Server Slides](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
   * [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
@@ -71,43 +78,52 @@
   * [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
   * [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
   * [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
-* Projects
+* Class Projects
   * [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
   * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-promise-practice)
-* [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
-* [themoviedb.org](https://www.themoviedb.org/?language=en)
-* [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
-* [Checkpoint 1 Walkthrough Video](https://youtu.be/bMsq98aLHAA)
-* Prepare for next class
+* Homework
+  * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
+  * [themoviedb.org](https://www.themoviedb.org/?language=en)
+  * [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
+  * [Checkpoint 1 Walkthrough Video](https://youtu.be/bMsq98aLHAA)
   * [Intro Express Video](https://youtu.be/K3h4bfjIcp8?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm)
   * [Install Postman](https://www.getpostman.com/)
-  * Read slides for next day
+  * Review material for next day
 
 ### Day 14
 * [Express Lecture](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.p)
 * [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
 * [First Web Server](https://github.com/AustinCodingAcademy/advanced-first-web-server)
 * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
-* Prepare for next class
+* Homework
   * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
   * [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
   * [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
   * [Look at MLab](https://mlab.com/)
-  * [Setup MLab](https://youtu.be/BWKaoCUdlBo)
+  * [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
   * [Install Robomongo](https://robomongo.org/)
 
 ### Day 15
 ### Day 16
 * Lecture
   * [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit)
-* 
+* Checklist
+  * [MongoDB](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 
 ### Day 17
-* MongoDB
+
 * 
 
 ### Day 18
 * 
 ### Day 19
-
+* [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
 ### Day 20
+* [Final Project](https://github.com/AustinCodingAcademy/advanced-heroku-app)
+
+
+### Class Layout
+* Review previous project
+* Review current topic 
+* Walkthrough current project
+* Work on current project
