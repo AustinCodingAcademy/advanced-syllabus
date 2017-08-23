@@ -80,7 +80,8 @@
   * [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
 * Class Projects
   * [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
-  * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-promise-practice)
+  * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice)
+  * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
 * Homework
   * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
   * [themoviedb.org](https://www.themoviedb.org/?language=en)
