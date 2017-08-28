@@ -101,6 +101,9 @@
 
 ### Day 15
 1) [Install Postman](https://www.getpostman.com/)
+2) Quick lecture on [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+and [Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.p)
+3) Let's work through the [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 
 * Lecture
   * [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
