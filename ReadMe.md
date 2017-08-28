@@ -96,15 +96,26 @@
   * Review material for next day
 ### Day 14
 * Work Day
-* Have any questions you have on fetch or redux thunk ready
+* Have questions on fetch, checkpoint 1 or redux thunk ready
+
 
 ### Day 15
-* [Express Lecture](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.p)
-* [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-* [First Web Server](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-* [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
-* [Install Postman](https://www.getpostman.com/)
-* Homework
+1) [Install Postman](https://www.getpostman.com/)
+
+* Lecture
+  * [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+  * [Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.p)
+ 
+
+* Checklist
+  * [Express](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+
+* Projects
+  * [First Web Server](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+  * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+
+
+Homework
   * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
   * [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
   * [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
