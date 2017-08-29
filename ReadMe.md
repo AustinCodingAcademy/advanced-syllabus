@@ -126,22 +126,18 @@ Homework
   * [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
   * [Install Robomongo](https://robomongo.org/)
   
-
 ### Day 16
-* Work Day
-
-### Day 17
 * Lecture
   * [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit)
 * Checklist
   * [MongoDB](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 
 
-### Day 18
+### Day 17
 * Work day
-### Day 19
+### Day 18
 * [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
-### Day 20
+### Day 19
 * [Final Project](https://github.com/AustinCodingAcademy/advanced-heroku-app)
 
 
