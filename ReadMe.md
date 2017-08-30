@@ -119,6 +119,7 @@ and [Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4c
 
 
 Homework
+  * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
   * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
   * [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
   * [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
