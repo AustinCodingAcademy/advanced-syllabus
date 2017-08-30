@@ -128,19 +128,30 @@ Homework
   * [Install Robomongo](https://robomongo.org/)
   
 ### Day 16
+1) Let's get mongodb installed and running on everyone's computer.
+2) Use the mongodb checklist and get our server connected to the mongodb using mongoose. Do one of the models in the express practice.
+3) Continue working on the express practice now using the database.
+4) Review checkpoint 2.
+5) If you get done with express checklist then work on checkpoint 2.
+
 * Lecture
   * [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit)
 * Checklist
   * [MongoDB](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
+* Homework
+  * [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
+  * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 
 
 ### Day 17
-* Work day
-### Day 18
-* [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
-### Day 19
-* [Final Project](https://github.com/AustinCodingAcademy/advanced-heroku-app)
+* Client side routing
 
+### Day 18
+* Authentication
+### Day 19
+* Authentication
+
+### Day 20
 
 ### Class Layout
 * Review previous project
