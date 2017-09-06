@@ -141,13 +141,32 @@ Homework
 * Homework
   * [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+  * [Client Side Routing Video 1](https://youtu.be/_hmmh6mcebw)
+  * [Client Side Routing Video 2](https://youtu.be/TP-BqSxPHUc)
 
 
 ### Day 17
-* Client side routing
+1) Discuss what a spa is and the pros and cons.
+2) How does client side routing make spa's better.
+3) Walkthrough how to use React Router by doing the project.
+
+* Lecture
+  * [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
+* Checklist
+  * [React Router](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
+* Project
+  * [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
+  * [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
 
 ### Day 18
-* Authentication
+1) Discuss what authentication/authorization is.
+2) Discuss the process of sign up and sign in.
+3) What is a token.
+
+* Lecture
+  * [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
+* Project
+  * [Authentication Practice](https://github.com/AustinCodingAcademy/advanced-authentication-practice)
 ### Day 19
 * Authentication
 
