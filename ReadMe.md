@@ -157,6 +157,10 @@ Homework
 * Project
   * [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
   * [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
+* Homework
+  * [Auth Video 1](https://youtu.be/uWWRdL2whqo)
+  * [Auth Video 2](https://youtu.be/EZVDB2eDneY)
+  * [Auth Video 3](https://youtu.be/G0ti5XXpnlw)
 
 ### Day 18
 1) Discuss what authentication/authorization is.
@@ -165,12 +169,19 @@ Homework
 
 * Lecture
   * [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
+* Checklist
+  * [Authentication](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
 * Project
   * [Authentication Practice](https://github.com/AustinCodingAcademy/advanced-authentication-practice)
+
 ### Day 19
-* Authentication
+* Related Data
+* Homework
+  * [Setup Heroku](https://youtu.be/6c8xj-K0vK8)
+  * [Heroku App](https://github.com/AustinCodingAcademy/advanced-heroku-app)
 
 ### Day 20
+
 
 ### Class Layout
 * Review previous project
