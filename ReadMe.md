@@ -137,7 +137,7 @@ Homework
 * Lecture
   * [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit)
 * Checklist
-  * [MongoDB](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
+  * [Mongoose](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 * Homework
   * [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
