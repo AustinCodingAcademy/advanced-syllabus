@@ -8,10 +8,8 @@ Resources
 ### Day 1
 * [Lecture Slides](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
 * [Setup Checklist](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
-* [In class project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
 * [Homework project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
-* Testing Project
-* Get prepared for next class
+* Homework
   * Re watch class recording
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
   * [Video 1 - Intro to React 1](https://youtu.be/2_NrCK2SLvI)
@@ -24,18 +22,16 @@ Resources
 
 ### Day 2
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
-  * [React Checklist ??? ](-----)
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
-  * Get prepared for next class
+  * Homework
     * [Module Slides](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
     * [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
     * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 
 ### Day 3
   * [Modules](https://github.com/AustinCodingAcademy/advanced-module-practice)
-  * [Modules Checklist ??? ](https://github.com/AustinCodingAcademy/advanced-module-practice)
-   * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
-   * Get prepared for next class
+  * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
+  * Homework
      * [React Lecture](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.g1db0a937cc_0_0)
      * [React Video - Events and State](https://youtu.be/9sObwIzqh4k)
      * [React Video - Component Communication](https://youtu.be/E2lwKsezTUk)
@@ -46,6 +42,10 @@ Resources
 * [React Lecture - State](https://docs.google.com/presentation/d/1JS-PIgRHBKjo-MsG2QzZQpWtaRv7S8T69PpLq7mrbbs/edit#slide=id.g20311f1fcb_0_52)
 * [React Lecture - Component Communication](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.g1db0a937cc_0_0)
 
+### Day 5
+### Day 6
+### Day 7
+### Day 4
 
 
 ### Day 8
