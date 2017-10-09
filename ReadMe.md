@@ -36,6 +36,7 @@ Resources
      * [React Video - Events and State](https://youtu.be/9sObwIzqh4k)
      * [React Video - Component Communication](https://youtu.be/E2lwKsezTUk)
      * [React Project - Address Book](https://github.com/austincodingacademy/advanced-react-address-book)
+     * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
 
 ### Day 4
 * [React Project - Address Book](https://github.com/austincodingacademy/advanced-react-address-book)
