@@ -46,15 +46,15 @@ Resources
 * [Component Practice] (https://github.com/AustinCodingAcademy/advanced-react-component-practice)
 
 ### Day 5
- * [React State Practice] (https://github.com/AustinCodingAcademy/advanced-state-practice)
- * [React State Practice 2] (https://github.com/AustinCodingAcademy/advanced-state-practice-2)
+ * [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
+ * [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
 ### Day 6
   * Work Day
   * Extra Credit
     * https://github.com/AustinCodingAcademy/advanced-hangman-game
     * https://github.com/AustinCodingAcademy/advanced-react-tictactoe
 ### Day 7
- * [Redux] (https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
+ * [Redux](https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
 ### Day 8
 * Redux Reducers
 
