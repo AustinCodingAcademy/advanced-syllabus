@@ -43,7 +43,7 @@ Resources
 * [React Lecture - State](https://docs.google.com/presentation/d/1JS-PIgRHBKjo-MsG2QzZQpWtaRv7S8T69PpLq7mrbbs/edit#slide=id.g20311f1fcb_0_52)
 * [React Lecture - Component Communication](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.g1db0a937cc_0_0)
 * [Prop Practice](https://github.com/AustinCodingAcademy/advanced-prop-practice)
-* [Component Practice] (https://github.com/AustinCodingAcademy/advanced-react-component-practice)
+* [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
 
 ### Day 5
  * [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
@@ -51,8 +51,8 @@ Resources
 ### Day 6
   * Work Day
   * Extra Credit
-    * https://github.com/AustinCodingAcademy/advanced-hangman-game
-    * https://github.com/AustinCodingAcademy/advanced-react-tictactoe
+    * (Hangman Game)[https://github.com/AustinCodingAcademy/advanced-hangman-game]
+    * (Tic Tac Toe)[https://github.com/AustinCodingAcademy/advanced-react-tictactoe]
 ### Day 7
  * [Redux](https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
 ### Day 8
