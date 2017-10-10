@@ -18,8 +18,6 @@ Resources
   * [Video 4 - React and Map](https://youtu.be/CdCYk1WtqYE)
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 
-  
-
 ### Day 2
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
@@ -39,16 +37,24 @@ Resources
      * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
 
 ### Day 4
+* Review module practice, homework 1.
+* [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 * [React Project - Address Book](https://github.com/austincodingacademy/advanced-react-address-book)
 * [React Lecture - State](https://docs.google.com/presentation/d/1JS-PIgRHBKjo-MsG2QzZQpWtaRv7S8T69PpLq7mrbbs/edit#slide=id.g20311f1fcb_0_52)
 * [React Lecture - Component Communication](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.g1db0a937cc_0_0)
+* [Prop Practice](https://github.com/AustinCodingAcademy/advanced-prop-practice)
+* [Component Practice] (https://github.com/AustinCodingAcademy/advanced-react-component-practice)
 
 ### Day 5
+ * [React State Practice] (https://github.com/AustinCodingAcademy/advanced-state-practice)
+ * [React State Practice 2] (https://github.com/AustinCodingAcademy/advanced-state-practice-2)
 ### Day 6
+  * Work Day
+  * Extra Credit
+    * https://github.com/AustinCodingAcademy/advanced-hangman-game
+    * https://github.com/AustinCodingAcademy/advanced-react-tictactoe
 ### Day 7
-### Day 4
-
-
+ * [Redux] (https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
 ### Day 8
 * Redux Reducers
 
