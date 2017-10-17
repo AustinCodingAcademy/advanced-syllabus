@@ -51,6 +51,7 @@ Resources
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
 ### Day 6
   * Work Day
+  * [Review](https://docs.google.com/document/d/1KrCE1mOogCpxAdy6hlnKnH7g4df3cnHLuFSxY6i_Dyg/edit)
   * Extra Credit
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
