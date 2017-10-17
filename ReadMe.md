@@ -48,6 +48,7 @@ Resources
 ### Day 5
  * [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
  * [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
+ * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
 ### Day 6
   * Work Day
   * Extra Credit
