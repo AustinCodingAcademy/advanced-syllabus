@@ -7,7 +7,7 @@ Resources
 
 ### Day 1
 * [Let's discuss what this class is all about](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
-* [Let's go over what you should already know]
+* [Let's go over what you should already know](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
 * [Make sure our computers are setup properly](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
 * Go over testing and reusability
 * [Homework project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
