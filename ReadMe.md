@@ -6,11 +6,11 @@ Resources
 
 
 ### Day 1
-* [Let's discuss what this class is all about](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
-* [Quiz time](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
-* [Make sure our computers are setup properly](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
-* Go over testing and reusability
-* [Homework project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
+* 6:30 - 7:00 [Let's discuss what this class is all about](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
+* 7:00 - 7:30 [Quiz time](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
+* 7:30 - 8:00 [Make sure our computers are setup properly](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
+* 8:00 - 8:30 Go over testing and reusability
+* 8:30 - 9:00 [Homework project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
 * Homework
   * Re watch class recording
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
