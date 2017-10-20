@@ -16,8 +16,8 @@ Resources
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
   * [Video 1 - Intro to React 1](https://youtu.be/2_NrCK2SLvI)
   * [Video 2 - Intro to React 2](https://youtu.be/aChUw9WyP6w)
-  * [Video 3 - Intro to React 3](https://youtu.be/t-diOQsLLsI)
-  * [Video 4 - React and Map](https://youtu.be/CdCYk1WtqYE)
+  * [Video 3 - Intro to React 3](https://youtu.be/CdCYk1WtqYE)
+  * [Video 4 - React and Map](https://youtu.be/t-diOQsLLsI)
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 
 ### Day 2
