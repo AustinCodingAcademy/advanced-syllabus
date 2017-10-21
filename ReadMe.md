@@ -62,7 +62,8 @@ Resources
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
 ### Day 7
- * [How do we add the ability to create tweets](https://stackblitz.com/edit/react-n5gq8w)
+ * [Let's look at this code](https://stackblitz.com/edit/react-n5gq8w)
+ * [Intro to redux via twitter clone](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.p)
  * [Redux](https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
 ### Day 8
 * Redux Reducers
