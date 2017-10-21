@@ -54,8 +54,8 @@ Resources
  * [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
 ### Day 6
+  * 6:30 - 7:00 [Review - Let us go over the topics we have covered so far](https://docs.google.com/document/d/1KrCE1mOogCpxAdy6hlnKnH7g4df3cnHLuFSxY6i_Dyg/edit)
   * Work Day - No new topic. We have a lot of projects that we can be working on. Let's get them done so we are all on the same page for the next topic. Ask for help if you need it. If you are done with all the projects, work on extra credit. If you are done with extra credit then start working on your final project.
-  * [Review - Let us go over the topics we have covered so far](https://docs.google.com/document/d/1KrCE1mOogCpxAdy6hlnKnH7g4df3cnHLuFSxY6i_Dyg/edit)
   * Extra Credit
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
