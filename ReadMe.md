@@ -1,4 +1,4 @@
-Don't clone this repo. It is a dynaic online resource to be updated by me. If you want to know what we are doing each day this is how you will know.
+Don't clone this repo. It is a dynamic online resource to be updated by me. If you want to know what we are doing each day this is how you will know. Bookmark the url.
 
 Resources
 * [Video Playlist](https://www.youtube.com/watch?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&v=eoze1pmNoBg)
