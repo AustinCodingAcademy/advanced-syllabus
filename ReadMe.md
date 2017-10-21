@@ -6,6 +6,7 @@ Resources
 * [Start on your final project](https://github.com/AustinCodingAcademy/advanced-heroku-app)
 * [Discourse](https://discourse.austincodingacademy.com/c/austin-coding-academy/advanced-2)
 * [Stackblitz](https://stackblitz.com/)
+* [Watch and Code](https://watchandcode.com/p/practical-javascript)
 
 
 ### Day 1
