@@ -67,8 +67,9 @@ Resources
    * [Let's look at this code](https://stackblitz.com/edit/react-n5gq8w)
    * [twitter clone part 1](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.p)
  * 7:20 - 7:40 [Redux Lecture 1- 7](https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
- * 7:40 - 8:00 [Demo redux homework](https://github.com/AustinCodingAcademy/advanced-redux-practice)
- * 8:00 - 9:00 Work
+ * 7:40 - 8:20 [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p)
+ * 8:20 - 8:30 [Demo redux homework](https://github.com/AustinCodingAcademy/advanced-redux-practice)
+ * 8:30 - 9:00 Work
 ### Day 8
 * Redux Reducers
 
