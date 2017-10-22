@@ -65,7 +65,7 @@ Resources
  * 6:30 - 6:40 Discuss what stack blitz is
  * 6:40 - 7:20 Demo issues with using react as we have
    * [Let's look at this code](https://stackblitz.com/edit/react-n5gq8w)
-   * [twitter clone](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.p)
+   * [twitter clone part 1](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.p)
  * 7:20 - 7:40 [Redux Lecture](https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
  * 7:40 - 8:00 [Demo redux homework](https://github.com/AustinCodingAcademy/advanced-redux-practice)
  * 8:00 - 9:00 Work
