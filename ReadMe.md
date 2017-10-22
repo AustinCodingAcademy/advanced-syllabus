@@ -68,11 +68,13 @@ Resources
    * [twitter clone part 1](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.p)
  * 7:20 - 7:40 [Redux Lecture 1- 7](https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
  * 7:40 - 8:20 [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) Let's use this checklist to connect our app to a redux database in order to retrieve information.
- * 8:20 - 8:30 [Demo redux homework](https://github.com/AustinCodingAcademy/advanced-redux-practice)
- * 8:30 - 9:00 Work
+ * 8:20 - 8:30 [Demo redux practice](https://github.com/AustinCodingAcademy/advanced-redux-practice)
+ * 8:30 - 9:00 Work on redux practice
 ### Day 8
-* Redux Reducers
-
+* We looked at how to retrieve data from redux store. Now let's see how to change data in the redux store.
+* Continue using the twitter clone demo and the checklist
+  * [Twitter clone](https://stackblitz.com/edit/react-n5gq8w)
+  * [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) 
 ### Day 9
 * Redux Actions
 * Redux Mutation
