@@ -71,10 +71,12 @@ Resources
  * 8:20 - 8:30 [Demo redux practice](https://github.com/AustinCodingAcademy/advanced-redux-practice)
  * 8:30 - 9:00 Work on redux practice
 ### Day 8
-* We looked at how to retrieve data from redux store. Now let's see how to change data in the redux store.
-* Continue using the twitter clone demo and the checklist
+* 6:30 - 7:30 We looked at how to retrieve data from redux store. Now let's see how to change data in the redux store. Continue using the twitter clone demo and the checklist
+  * [Part 2](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.g28e6f883ce_1_5)
   * [Twitter clone](https://stackblitz.com/edit/react-n5gq8w)
   * [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) 
+* 7:30 - 8:00 [Walk through redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
+* 8:00 - 9:00 Start working on the redux action practice
 ### Day 9
 * Redux Actions
 * Redux Mutation
