@@ -75,6 +75,7 @@ Resources
   * [Part 2](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.g28e6f883ce_1_5)
   * [Twitter clone](https://stackblitz.com/edit/react-n5gq8w)
   * [Redux Checklist - Changing Data](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28e5e7e858_0_507) 
+* 7:30 - 8:00 [Rules of reducers](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142)
 * 7:30 - 8:00 [Walk through redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 * 8:00 - 9:00 Start working on the redux action practice
 ### Day 9
