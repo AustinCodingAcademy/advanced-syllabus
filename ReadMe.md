@@ -78,16 +78,12 @@ Resources
 * 7:30 - 8:00 [Rules of reducers](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142)
 * 7:30 - 8:00 [Walk through redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 * 8:00 - 9:00 Start working on the redux action practice
+
 ### Day 9
-* Redux Actions
-* Redux Mutation
-
-### Day 10
-
-### Day 11
 * Work day - Catch up on advanced-redux-actions-practice
 * [Get project done](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
-
+### Day 10
+### Day 11
 ### Day 12
 * Homework
   * [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
