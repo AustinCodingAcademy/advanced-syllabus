@@ -82,35 +82,39 @@ Resources
 ### Day 9
 * Work day - Catch up on advanced-redux-actions-practice
 * [Get project done](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
-### Day 10
-### Day 11
-### Day 12
 * Homework
   * [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
   * [Install Postman](https://www.getpostman.com/)
   * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
   * [themoviedb.org](https://www.themoviedb.org/?language=en)
+  
+### Day 10
+ * [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
+ * Complete the [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice) using the [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p) and examples. Tell me when you are done.
+ * [Async Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
+ * [Understanding Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
+ * [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
+ * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice)
+ * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+### Day 11
+### Day 12
+
 
 ### Day 13 
 1) Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
-2) Complete the [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice) using the [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p) and examples. Tell me when you are done.
+
 3) I will use [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p) to complete the [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book) in class
 4) Start work on [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 5) Start work on [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
 * Lecture
   * [Server Slides](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
-  * [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
-  * [Async Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
-  * [Understanding Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
-  * [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
 * Checklist
   * [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
   * [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
   * [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
 * Projects
   * [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
-  * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice)
-  * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+
 * Homework
   * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
   * [themoviedb.org](https://www.themoviedb.org/?language=en)
