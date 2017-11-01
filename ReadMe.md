@@ -95,6 +95,7 @@ Resources
  * [Understanding Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
  * [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
  * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice)
+ * [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
  * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
 ### Day 11
 ### Day 12
@@ -111,7 +112,7 @@ Resources
 * Checklist
   * [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
   * [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
-  * [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
+
 * Projects
   * [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
 
