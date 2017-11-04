@@ -96,32 +96,35 @@ Resources
  * [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
  * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice)
  * [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
- * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+ * Homework
+   * [Install Postman](https://www.getpostman.com/)
+   * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
+   * [themoviedb.org](https://www.themoviedb.org/?language=en)
+   * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+   * [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
+  
 ### Day 11
-### Day 12
+* Work Day - Get redux thunk practice done and work on checkpoint 1
+* Review [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+* Review [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
+* [Checkpoint 1 Walkthrough Video](https://youtu.be/bMsq98aLHAA)
 
+### Day 12
 
 ### Day 13 
 1) Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
 
-3) I will use [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p) to complete the [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book) in class
-4) Start work on [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 5) Start work on [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
 * Lecture
   * [Server Slides](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
 * Checklist
   * [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
-  * [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
+
 
 * Projects
   * [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
 
 * Homework
-  * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
-  * [themoviedb.org](https://www.themoviedb.org/?language=en)
-  * [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
-  * [Checkpoint 1 Walkthrough Video](https://youtu.be/bMsq98aLHAA)
-  * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
   * [Intro Express Video](https://youtu.be/K3h4bfjIcp8?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm)
   * [Install Postman](https://www.getpostman.com/)
   * Review material for next day
