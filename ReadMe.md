@@ -112,7 +112,19 @@ Resources
 * [Checkpoint 1 Walkthrough Video](https://youtu.be/bMsq98aLHAA)
 
 ### Day 12
+1) Discuss what a spa is and the pros and cons.
+2) How does client side routing make spa's better.
+3) Walkthrough how to use React Router by doing the project.
 
+* Lecture
+  * [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
+* Checklist
+  * [React Router](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
+* Project
+  * [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
+  * [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
+
+  
 ### Day 13 
 1) Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
 
@@ -182,21 +194,7 @@ Homework
 
 
 ### Day 17
-1) Discuss what a spa is and the pros and cons.
-2) How does client side routing make spa's better.
-3) Walkthrough how to use React Router by doing the project.
 
-* Lecture
-  * [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
-* Checklist
-  * [React Router](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
-* Project
-  * [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
-  * [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
-* Homework
-  * [Auth Video 1](https://youtu.be/uWWRdL2whqo)
-  * [Auth Video 2](https://youtu.be/EZVDB2eDneY)
-  * [Auth Video 3](https://youtu.be/G0ti5XXpnlw)
 
 ### Day 18
 1) Discuss what authentication/authorization is.
