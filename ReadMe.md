@@ -104,6 +104,8 @@ Resources
    * [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
   
 ### Day 11
+* [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
+* Children components
 * Work Day - Get redux thunk practice done and work on checkpoint 1
 * Review [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
 * Review [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
