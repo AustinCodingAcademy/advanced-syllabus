@@ -104,6 +104,7 @@ Resources
    * [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
   
 ### Day 11
+* [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
 * [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
 * [Children components](https://stackblitz.com/edit/react-kvzfvz)
 * Work Day - Get redux thunk practice done and work on checkpoint 1
