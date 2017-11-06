@@ -124,25 +124,20 @@ Resources
 * Project
   * [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
   * [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
-
-  
-### Day 13 
-Time to swtich gears. Everything we have done so far has been part of the concept of "Front End". Let's start learning about some "Back End" concepts.
-
-* Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
-* Lecture
-  * [Server Slides](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
-* Checklist
-  * [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
-
-
-* Projects
-  * [Fetch Address Book Project](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
-
 * Homework
   * [Intro Express Video](https://youtu.be/K3h4bfjIcp8?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm)
   * [Install Postman](https://www.getpostman.com/)
   * Review material for next day
+  
+### Day 13 
+Time to switch gears. Everything we have done so far has been part of the concept of "Front End". Let's start learning about some "Back End" concepts.
+* Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
+* [Server Slides](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
+* [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
+* [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+* Walkthrough homework project express practice.
+* [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+
 ### Day 14
 * Work Day
 * Have questions on fetch, checkpoint 1 or redux thunk ready
@@ -164,7 +159,7 @@ and [Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4c
 
 * Projects
   * [First Web Server](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-  * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+
 
 
 Homework
