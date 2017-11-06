@@ -111,6 +111,8 @@ Resources
 * Review [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
 * Review [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 * [Checkpoint 1 Walkthrough Video](https://youtu.be/bMsq98aLHAA)
+* [Client Side Routing Video 1](https://youtu.be/_hmmh6mcebw)
+* [Client Side Routing Video 2](https://youtu.be/TP-BqSxPHUc)
 
 ### Day 12
 1) Discuss what a spa is and the pros and cons.
@@ -132,36 +134,13 @@ Resources
 ### Day 13 
 Time to switch gears. Everything we have done so far has been part of the concept of "Front End". Let's start learning about some "Back End" concepts.
 * Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
-* [Server Slides](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
+* Talk about [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+* Talk about [Servers and Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
 * [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
 * [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
 * Walkthrough homework project express practice.
-* [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
-
-### Day 14
-* Work Day
-* Have questions on fetch, checkpoint 1 or redux thunk ready
-
-
-### Day 15
-1) [Install Postman](https://www.getpostman.com/)
-2) Quick lecture on [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-and [Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.p)
-3) Let's work through the [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
-
-* Lecture
-  * [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-  * [Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.p)
- 
-
-* Checklist
-  * [Express](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-
-* Projects
-  * [First Web Server](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-
-
-
+* Run through [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+* Install and talk about [Postman](https://www.getpostman.com/)
 Homework
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
   * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
@@ -185,8 +164,7 @@ Homework
 * Homework
   * [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
-  * [Client Side Routing Video 1](https://youtu.be/_hmmh6mcebw)
-  * [Client Side Routing Video 2](https://youtu.be/TP-BqSxPHUc)
+
 
 
 ### Day 17
