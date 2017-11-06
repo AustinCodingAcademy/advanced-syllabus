@@ -127,9 +127,9 @@ Resources
 
   
 ### Day 13 
-1) Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
+Time to swtich gears. Everything we have done so far has been part of the concept of "Front End". Let's start learning about some "Back End" concepts.
 
-5) Start work on [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+* Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
 * Lecture
   * [Server Slides](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
 * Checklist
