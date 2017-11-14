@@ -138,12 +138,12 @@ Time to switch gears. Everything we have done so far has been part of the concep
 * Talk about [Servers and Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
 * [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
 * [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-* Walkthrough homework project express practice.
+* Walkthrough homework project express practice part 1.
 * Run through [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 * Install and talk about [Postman](https://www.getpostman.com/)
 
 Homework
-  * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+  * [Express Practice Part 1](https://github.com/AustinCodingAcademy/advanced-express-practice)
   * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
   * [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
   * [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
