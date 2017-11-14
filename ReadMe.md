@@ -141,6 +141,7 @@ Time to switch gears. Everything we have done so far has been part of the concep
 * Walkthrough homework project express practice.
 * Run through [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 * Install and talk about [Postman](https://www.getpostman.com/)
+
 Homework
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
   * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
