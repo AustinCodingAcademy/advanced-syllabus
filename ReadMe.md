@@ -150,7 +150,11 @@ Homework
   * [Look at MLab](https://mlab.com/)
   * [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
   * [Install Robomongo](https://robomongo.org/)
-  
+
+### Day 14
+Let's continue with our web server and learn about routes and controllers.
+
+
 ### Day 16
 1) Let's get mongodb installed and running on everyone's computer.
 2) Use the mongodb checklist and get our server connected to the mongodb using mongoose. Do one of the models in the express practice.
