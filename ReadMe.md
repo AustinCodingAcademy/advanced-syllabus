@@ -154,6 +154,10 @@ Homework
 ### Day 14
 Let's continue with our web server and learn about routes and controllers.
 
+### Day 15
+Review debugging with chrome developer tools
+React testing
+
 
 ### Day 16
 1) Let's get mongodb installed and running on everyone's computer.
