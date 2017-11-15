@@ -157,6 +157,7 @@ Let's continue with our web server and learn about routes and controllers.
 ### Day 15
 Review debugging with chrome developer tools
 React testing
+https://youtu.be/mdITcX3-oE0?t=190
 
 
 ### Day 16
