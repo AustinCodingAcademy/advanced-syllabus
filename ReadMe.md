@@ -156,12 +156,6 @@ Homework
 Let's continue with our web server and learn about routes and controllers.
 
 ### Day 15
-* Review debugging with chrome developer tools
-* React testing
-* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
-
-
-### Day 16
 1) Let's get mongodb installed and running on everyone's computer.
 2) Use the mongodb checklist and get our server connected to the mongodb using mongoose. Do one of the models in the express practice.
 3) Continue working on the express practice now using the database.
@@ -175,7 +169,12 @@ Let's continue with our web server and learn about routes and controllers.
 * Homework
   * [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+  
 
+### Day 16
+* Review debugging with chrome developer tools
+* React testing
+* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
 
 
 ### Day 17
