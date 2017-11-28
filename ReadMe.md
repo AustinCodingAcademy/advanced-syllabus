@@ -156,11 +156,11 @@ Homework
 Let's continue with our web server and learn about routes and controllers.
 
 ### Day 15
-1) Let's get mongodb installed and running on everyone's computer.
+1) Let's get mongodb installed and running on everyone's computer. Hang in there, we just need to get through it.
 2) Use the mongodb checklist and get our server connected to the mongodb using mongoose. Do one of the models in the express practice.
 3) Continue working on the express practice now using the database.
 4) Review checkpoint 2.
-5) If you get done with express checklist then work on checkpoint 2.
+5) If you get done with express practice all partst,  then work on checkpoint 2.
 
 * Lecture
   * [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit)
@@ -172,13 +172,14 @@ Let's continue with our web server and learn about routes and controllers.
   
 
 ### Day 16
-* Review debugging with chrome developer tools
-* React testing
-* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
+* Let's review the express practice and go back over using mongoose to interact with the database.
+* Go over checkpoint 2
 
 
 ### Day 17
-
+* Review debugging with chrome developer tools
+* React testing
+* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
 
 ### Day 18
 1) Discuss what authentication/authorization is.
@@ -193,13 +194,13 @@ Let's continue with our web server and learn about routes and controllers.
   * [Authentication Practice](https://github.com/AustinCodingAcademy/advanced-authentication-practice)
 
 ### Day 19
+* Continue on discussing authentication
+
+### Day 20
 * Related Data
 * Homework
   * [Setup Heroku](https://youtu.be/6c8xj-K0vK8)
   * [Heroku App](https://github.com/AustinCodingAcademy/advanced-heroku-app)
-
-### Day 20
-
 
 ### Class Layout
 * Review previous project
