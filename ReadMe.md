@@ -173,6 +173,7 @@ Let's continue with our web server and learn about routes and controllers.
 
 ### Day 16
 * Let's review the express practice and go back over using mongoose to interact with the database.
+* Homework is the express practice with database.
 * Go over checkpoint 2
 
 
