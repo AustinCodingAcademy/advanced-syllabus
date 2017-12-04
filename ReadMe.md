@@ -180,6 +180,9 @@ Let's continue with our web server and learn about routes and controllers.
 * Review debugging with chrome developer tools
 * React testing
 * https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
+* Another Look at express
+* Checkpoint 2
+* Final Project
 
 ### Day 18
 1) Discuss what authentication/authorization is.
