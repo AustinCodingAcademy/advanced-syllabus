@@ -167,7 +167,7 @@ Let's continue with our web server and learn about routes and controllers.
 * Checklist
   * [Mongoose](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 * Homework
-  * [Checkpoint 2](https://discourse.austincodingacademy.com/t/checkpoint-2-project/428)
+  * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
   
 
