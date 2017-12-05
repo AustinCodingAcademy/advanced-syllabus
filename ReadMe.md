@@ -182,6 +182,7 @@ Let's continue with our web server and learn about routes and controllers.
 * https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
 * Another Look at express
 * Checkpoint 2
+* [Checkpoint 2 Walkthrough] (https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 * Final Project
 
 ### Day 18
