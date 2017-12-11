@@ -174,18 +174,11 @@ Let's continue with our web server and learn about routes and controllers.
 ### Day 16
 * Let's review the express practice and go back over using mongoose to interact with the database.
 * Homework is the express practice with database.
-
-
-### Day 17
-* Review debugging with chrome developer tools
-* React testing
-* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
-* Another Look at express
 * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 * [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 * Final Project
 
-### Day 18
+### Day 17
 1) Discuss what authentication/authorization is.
 2) Discuss the process of sign up and sign in.
 3) What is a token.
@@ -197,8 +190,16 @@ Let's continue with our web server and learn about routes and controllers.
 * Project
   * [Authentication Practice](https://github.com/AustinCodingAcademy/advanced-authentication-practice)
 
-### Day 19
+### Day 18
 * Continue on discussing authentication
+
+### Day 19
+* Review debugging with chrome developer tools
+* React testing
+* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
+* [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
+* [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
+* Final Project
 
 ### Day 20
 * Related Data
