@@ -18,7 +18,7 @@ Resources
 * 7:30 - 8:00 [Make sure our computers are setup properly](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
 * Do we remember how to fork, clone and install.
 * 8:00 - 8:30 [Go over reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
-* 8:30 - 9:00 [Homework project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
+* 8:30 - 9:00 [Testing project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
 * [yarn](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
 * Homework
   * Re watch class recording
