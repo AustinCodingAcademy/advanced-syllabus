@@ -9,6 +9,7 @@ Resources
 * [Watch and Code](https://watchandcode.com/p/practical-javascript)
 * [How to ask questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 * [Communication](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
+* [Office Hours](https://discourse.austincodingacademy.com/t/advanced-office-hours/327)
 
 ### Day 1
 * 6:30 - 7:00 [Let's discuss what this class is all about](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
