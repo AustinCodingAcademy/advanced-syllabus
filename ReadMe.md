@@ -17,6 +17,7 @@ Resources
 * 7:00 - 7:30 [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
 * 7:30 - 8:00 [Make sure our computers are setup properly](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
 * Do we remember how to fork, clone and install.
+* What does npm install actually do?
 * 8:00 - 8:30 [Go over reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
 * 8:30 - 9:00 [Testing project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
 * [yarn](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
@@ -30,6 +31,8 @@ Resources
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 
 ### Day 2
+  * Go back over testing project. Run through one of the functions.
+  * Go over pull request.
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
   * Homework
