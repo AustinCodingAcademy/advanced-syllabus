@@ -31,6 +31,7 @@ Resources
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 
 ### Day 2
+  * **** go back over reusability
   * Go back over testing project. Run through one of the functions. Discuss the point of these functions.
   * Go over pull request.
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
