@@ -22,6 +22,7 @@ Resources
 * 8:30 - 9:00 [Testing project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
 * [yarn](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
 * Homework
+  * Build the filter, find and map functions and build tests for them
   * Re watch class recording
   * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
   * [Video 1 - Intro to React 1](https://youtu.be/2_NrCK2SLvI)
