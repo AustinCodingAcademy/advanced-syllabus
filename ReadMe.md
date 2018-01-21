@@ -43,7 +43,7 @@ Resources
     * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 
 ### Day 3
-  * 6:30 - 7:00 [Modules](https://github.com/AustinCodingAcademy/advanced-module-practice)
+  * 6:30 - 7:00 [Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
   * 7:00 - 7:30 [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
   * Homework
      * [React Lecture](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.g1db0a937cc_0_0)
