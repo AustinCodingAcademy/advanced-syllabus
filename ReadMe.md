@@ -32,7 +32,6 @@ Resources
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 
 ### Day 2
-  * **** go back over reusability
   * Go back over testing project. Run through one of the functions. Discuss the point of these functions.
   * Discuss undefined error and understanding errors in general.
   * Go over pull request.
