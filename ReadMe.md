@@ -43,6 +43,7 @@ Resources
     * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 
 ### Day 3
+  * Demo Twitter Clone
   * 6:30 - 7:00 [Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
   * 7:00 - 7:30 [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
   * 7:30 - 8:00 [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
