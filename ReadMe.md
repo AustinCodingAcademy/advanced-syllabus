@@ -56,11 +56,11 @@ Resources
      * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
 
 ### Day 4
-* Review module practice, homework 1.
-* [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
-* [React Project - Address Book](https://github.com/austincodingacademy/advanced-react-address-book)
-* [React Lecture - State](https://docs.google.com/presentation/d/1JS-PIgRHBKjo-MsG2QzZQpWtaRv7S8T69PpLq7mrbbs/edit#slide=id.g20311f1fcb_0_52)
+* [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
+* 7:30 - 8:00 [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
+* 8:00 - 8:30 [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
 * [React Lecture - Component Communication](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.g1db0a937cc_0_0)
+* [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 * [Prop Practice](https://github.com/AustinCodingAcademy/advanced-prop-practice)
 * [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
 
