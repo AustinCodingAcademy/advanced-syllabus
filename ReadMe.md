@@ -53,6 +53,7 @@ Resources
      * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
 
 ### Day 4
+* [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
 * [Review Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
 * [Review Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
 * [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
