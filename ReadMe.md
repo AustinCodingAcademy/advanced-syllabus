@@ -62,7 +62,7 @@ Resources
 ### Day 5
 * 7:30 - 8:00 [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
 * 8:00 - 8:30 [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
-* [React Lecture - Component Communication](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.g1db0a937cc_0_0)
+* [React Component Communication](https://docs.google.com/presentation/d/1EAQuqmmqVDZd5eH-27DNWc1HJF1WX8-gnSZ7hF_TOt8/edit#slide=id.p)
  * [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
  * [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
