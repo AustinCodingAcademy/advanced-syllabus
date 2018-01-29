@@ -73,6 +73,7 @@ Resources
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
 ### Day 7
+ * [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p)
  * 6:30 - 6:40 Discuss stackblitz.com. What is it? Why would we use it?
  * 6:40 - 7:00 Demo issues with using react as we have. Step through slides.
    * [Let's look at this code](https://stackblitz.com/edit/react-n5gq8w)
