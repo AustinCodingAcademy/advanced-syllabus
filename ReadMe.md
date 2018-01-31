@@ -68,6 +68,7 @@ Resources
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
 ### Day 6
   * [Notes](https://gist.github.com/jw56578/b310bbfe762bec09016ecfce387efad5)
+  * ECommerce site discussion
   * [Understanding Internet Communication](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
   * [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
   * Complete the [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice) using the [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p) and examples. Tell me when you are done.
