@@ -1,8 +1,14 @@
 Don't clone this repo. It is a dynamic online resource to be updated by me. If you want to know what we are doing each day this is how you will know. Bookmark the url.
+- [Day 1](#day1)
+- [Day 2](#day2)
+- [Day 3](#day3)
+- [Day 4](#day4)
+- [Day 5](#day5)
+- [Day 6](#day6)
+- [Day 7](#day7)
 
 
-
-### Day 1
+## <a name="day1"></a> Day 1. Intro
 * 6:30 - 7:00 [Let's discuss what this class is all about](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
 * Discuss where we left off last class
 * 7:00 - 7:30 [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
@@ -22,7 +28,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
   * [Video 4 - React and Map](https://youtu.be/t-diOQsLLsI)
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 
-### Day 2
+## <a name="day2"></a> Day 2. Testing
   * Go back over testing project. Run through one of the functions. Discuss the point of these functions.
   * Discuss undefined error and understanding errors in general.
   * Go over pull request.
@@ -33,7 +39,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
     * [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
     * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 
-### Day 3
+## <a name="day3"></a> Day 3. Modules
   * Demo Twitter Clone
   * 6:30 - 7:00 [Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
   * 7:00 - 7:30 [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
@@ -41,7 +47,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
   * Homework
      * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
 
-### Day 4
+## <a name="day4"></a> Day 4. React
 * [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Review Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
@@ -50,14 +56,16 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
 * [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 
 
-### Day 5
+## <a name="day5"></a> Day 5. More React
 * [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
 * [React Component Communication](https://docs.google.com/presentation/d/1EAQuqmmqVDZd5eH-27DNWc1HJF1WX8-gnSZ7hF_TOt8/edit#slide=id.p)
 * [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
  * [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
  * [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
-### Day 6
+ 
+ 
+## <a name="day6"></a> Day 6. 
   * [Notes](https://gist.github.com/jw56578/b310bbfe762bec09016ecfce387efad5)
   * ECommerce site discussion
   * [Understanding Internet Communication](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
@@ -72,9 +80,9 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
     
     
     
+
     
-    
-## Day 7. Redux
+## <a name="day7"></a> Day 7. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
