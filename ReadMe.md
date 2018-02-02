@@ -94,6 +94,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
     + [react-redux](https://github.com/reactjs/react-redux)
     + [Redux Explained](https://medium.freecodecamp.org/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca)
     + [JS Default Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+    + [Shorthand Object Properties](https://dev.to/sarah_chima/enhanced-object-literals-in-es6-a9d)
 - :microscope: __Lab__:
     + [Explain this error](https://stackblitz.com/edit/react-om655w)
     + Fork this project. Use the checklist to add redux to this simple app.
