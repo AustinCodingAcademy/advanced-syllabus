@@ -69,13 +69,37 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
   * Extra Credit
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
-### Day 7
- * [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e)
- * [Explain this error](https://stackblitz.com/edit/react-om655w)
- * [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p)
- * 7:20 - 8:00 [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) Let's use this checklist to connect our app to a redux database in order to retrieve information.
- * 8:00 - 8:10 [Demo redux practice](https://github.com/AustinCodingAcademy/advanced-redux-practice)
- * 8:10 - 9:00 Work on redux practice
+    
+    
+    
+    
+    
+## Day 7. Redux
+
+- :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
+- :file_folder: __Notes__:
+    + [Food for Thought](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e) 
+    + [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p) (slides)
+    + [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) (slides)
+- :book: __Reading__:
+    + [Redux Docs](https://redux.js.org/)
+    + [Redux Explained](https://medium.freecodecamp.org/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca)
+- :microscope: __Lab__:
+    + [Explain this error](https://stackblitz.com/edit/react-om655w)
+- :newspaper: __Misc__:
+    + [Redux on npm](https://www.npmjs.com/package/redux)
+    + [20 Videos](https://learnredux.com/)
+    + [Online course by the guy who created redux](https://egghead.io/courses/getting-started-with-redux)
+- :bulb: __Cheat sheet__: 
+    + [Redux](https://devhints.io/redux)
+- :speaker: __To Do__: 
+    + Use checklist to complete one item of the homework project
+    + Project [Redux Reducers](https://github.com/AustinCodingAcademy/advanced-redux-practice) 
+
+
+-----    
+   
+ 
 ### Day 8
 * 6:30 - 7:30 We looked at how to retrieve data from redux store. Now let's see how to change data in the redux store. Continue using the twitter clone demo and the checklist
   * [Part 2](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.g28e6f883ce_1_5)
