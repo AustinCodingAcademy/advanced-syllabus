@@ -79,13 +79,9 @@ Resources
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
 ### Day 7
+ * [Notes] (https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e)
  * [Explain this error](https://stackblitz.com/edit/react-om655w)
  * [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p)
- * 6:30 - 6:40 Discuss stackblitz.com. What is it? Why would we use it?
- * 6:40 - 7:00 Demo issues with using react as we have. Step through slides.
-   * [Let's look at this code](https://github.com/AustinCodingAcademy/twitter-redux-example)
-   * [twitter clone part 1](https://docs.google.com/presentation/d/13mi8pj9dXddy22fWXZJq2eJG1OXR2f0Q4khtjSmNsFU/edit#slide=id.p)
- * 7:00 - 7:20 [Redux Lecture 1- 7](https://docs.google.com/presentation/d/1x3rMh3ASVOmzlJVmUEjcqMqsimGQfanQgDEiH47DlgA/edit#slide=id.p)
  * 7:20 - 8:00 [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) Let's use this checklist to connect our app to a redux database in order to retrieve information.
  * 8:00 - 8:10 [Demo redux practice](https://github.com/AustinCodingAcademy/advanced-redux-practice)
  * 8:10 - 9:00 Work on redux practice
