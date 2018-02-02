@@ -106,6 +106,8 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
 - :bulb: __Cheat sheet__: 
     + [Redux](https://devhints.io/redux)
 - :speaker: __To Do__: 
+    + Lecture Slides
+    + Do Lab
     + Use the checklist to complete the homework project
     + Project [Redux Reducers](https://github.com/AustinCodingAcademy/advanced-redux-practice) 
 
