@@ -94,6 +94,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
     + [Redux Explained](https://medium.freecodecamp.org/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca)
 - :microscope: __Lab__:
     + [Explain this error](https://stackblitz.com/edit/react-om655w)
+    + Fork this project. Use the checklist to add redux to this simple app.
 - :newspaper: __Misc__:
     + [Redux on npm](https://www.npmjs.com/package/redux)
     + [20 Videos](https://learnredux.com/)
@@ -101,7 +102,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
 - :bulb: __Cheat sheet__: 
     + [Redux](https://devhints.io/redux)
 - :speaker: __To Do__: 
-    + Use checklist to complete one item of the homework project
+    + Use the checklist to complete the homework project
     + Project [Redux Reducers](https://github.com/AustinCodingAcademy/advanced-redux-practice) 
 
 
