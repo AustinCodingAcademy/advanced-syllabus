@@ -96,7 +96,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
     + [Explain this error](https://stackblitz.com/edit/react-om655w)
     + Fork this project. Use the checklist to add redux to this simple app.
 - :newspaper: __Misc__:
-    + [Screencast](https://youtu.be/Lirz9MDvOAA)
+    + [Screencast From Last Class](https://youtu.be/Lirz9MDvOAA)
     + [Redux on npm](https://www.npmjs.com/package/redux)
     + [20 Videos](https://learnredux.com/)
     + [Online course by the guy who created redux](https://egghead.io/courses/getting-started-with-redux)
