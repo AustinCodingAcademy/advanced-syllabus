@@ -79,7 +79,7 @@ Resources
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
 ### Day 7
- * [Notes] (https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e)
+ * [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e)
  * [Explain this error](https://stackblitz.com/edit/react-om655w)
  * [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p)
  * 7:20 - 8:00 [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) Let's use this checklist to connect our app to a redux database in order to retrieve information.
