@@ -1,11 +1,11 @@
 Don't clone this repo. It is a dynamic online resource to be updated by me. If you want to know what we are doing each day this is how you will know. Bookmark the url.
-- [Day 1](#day1)
-- [Day 2](#day2)
-- [Day 3](#day3)
-- [Day 4](#day4)
-- [Day 5](#day5)
+- [Day 1. Intro](#day1)
+- [Day 2. Testing](#day2)
+- [Day 3. Modules](#day3)
+- [Day 4. React](#day4)
+- [Day 5. More React](#day5)
 - [Day 6](#day6)
-- [Day 7](#day7)
+- [Day 7. Redux](#day7)
 
 
 ## <a name="day1"></a> Day 1. Intro
