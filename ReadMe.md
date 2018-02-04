@@ -1,11 +1,15 @@
 Don't clone this repo. It is a dynamic online resource to be updated by me. If you want to know what we are doing each day this is how you will know. Bookmark the url.
-- [Day 1. Intro](#day1)
-- [Day 2. Testing](#day2)
-- [Day 3. Modules](#day3)
-- [Day 4. React](#day4)
-- [Day 5. More React](#day5)
-- [Day 6](#day6)
-- [Day 7. Redux](#day7)
+
+
+| ||||
+| ------------- |-------------| -----|------|
+| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. ](#day11) |[Day 16. ](#day16)
+| [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. ](#day12) |[Day 17. ](#day17)
+| [Day 3. Modules](#day3) | [Day 8. Redux](#day8)       |    [Day 13. ](#day13) |[Day 18. ](#day18)
+| [Day 4. React](#day4) | [Day 9. Redux](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
+| [Day 5. More React](#day5) | [Day 10. Redux](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
+
+
 
 
 ## <a name="day1"></a> Day 1. Intro
@@ -118,7 +122,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
 
 -----    
    
-## <a name="day7"></a> Day 8. Redux Actions
+## <a name="day8"></a> Day 8. Redux Actions
 
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
