@@ -128,6 +128,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [Screencast From Last Class](https://youtu.be/qTnGUsdrb4I)
+    + [Demo Video](https://youtu.be/km17xRh9G14)
 - :bulb: __Cheat sheet__: 
     + [Redux](https://devhints.io/redux)
 - :speaker: __To Do__: 
