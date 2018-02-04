@@ -91,6 +91,7 @@ Don't clone this repo. It is a dynamic online resource to be updated by me. If y
     + [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) (slides)
 - :book: __Reading__:
     + [Redux Docs](https://redux.js.org/)
+    + [Redux Source Code](https://github.com/reactjs/redux)
     + [Reducers](https://redux.js.org/docs/basics/Reducers.html)
     + [react-redux](https://github.com/reactjs/react-redux)
     + [Redux Explained](https://medium.freecodecamp.org/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca)
