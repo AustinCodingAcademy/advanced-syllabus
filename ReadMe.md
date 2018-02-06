@@ -92,7 +92,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e) 
     + [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p) (slides)
-    + [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p) (slides)
+    + [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p)  (slides)
 - :book: __Reading__:
     + [Redux Docs](https://redux.js.org/)
     + [Redux Source Code](https://github.com/reactjs/redux)
@@ -141,6 +141,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :bulb: __Cheat sheet__: 
     + [Redux](https://devhints.io/redux)
 - :speaker: __To Do__: 
+    + Lab
     + [ redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 
 
