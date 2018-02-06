@@ -130,6 +130,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Rules of reducers](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142) (slides)
 - :book: __Reading__:
     + [Actions](https://redux.js.org/docs/basics/Actions.html)
+    + [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+    + [Immutable Update Patterns](https://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html)
 - :microscope: __Lab__:
     + [Let's Add a Tweet](https://stackblitz.com/edit/react-dgrd7w)
 - :newspaper: __Misc__:
