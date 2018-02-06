@@ -131,6 +131,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
     + [Actions](https://redux.js.org/docs/basics/Actions.html)
 - :microscope: __Lab__:
+    + [Let's Add a Tweet](https://stackblitz.com/edit/react-dgrd7w)
 - :newspaper: __Misc__:
     + [Screencast From Last Class](https://youtu.be/qTnGUsdrb4I)
     + [Demo Video](https://youtu.be/km17xRh9G14)
