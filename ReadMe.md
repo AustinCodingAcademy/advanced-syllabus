@@ -6,7 +6,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. ](#day11) |[Day 16. ](#day16)
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. ](#day12) |[Day 17. ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. ](#day13) |[Day 18. ](#day18)
-| [Day 4. React](#day4) | [Day 9. Redux](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
+| [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
 | [Day 5. More React](#day5) | [Day 10. Redux](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
 
 
@@ -149,15 +149,34 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----    
  
 
+## <a name="day9"></a> Day 9. React and Fetch
 
-### Day 9
-* Work day - Catch up on advanced-redux-actions-practice
-* [Get project done](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
-* Homework
-  * [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
-  * [Install Postman](https://www.getpostman.com/)
-  * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
-  * [themoviedb.org](https://www.themoviedb.org/?language=en)
+- :paperclip: __Topics__: How do you use fetch with React.
+- :file_folder: __Notes__:
+    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
+    + [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
+    + [Async Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
+    + [Understanding Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
+- :book: __Reading__:
+    + [componentdidmount](https://reactjs.org/docs/react-component.html#componentdidmount)
+    + [Lifecycle methods](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+    + [HTTP](https://dzone.com/refcardz/http-hypertext-transfer-0)
+- :microscope: __Lab__:
+    + [Address Book](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
+- :newspaper: __Misc__:
+    + [Demo Video](https://youtu.be/EI_B_ncG1x4)
+    + [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
+    + [Install Postman](https://www.getpostman.com/)
+    + [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
+    + [themoviedb.org](https://www.themoviedb.org/?language=en)
+- :bulb: __Cheat sheet__: 
+    + [Fetch](https://devhints.io/js-fetch)
+- :speaker: __To Do__: 
+    + Lab
+
+
+-----  
+
   
 ### Day 10
  * [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
