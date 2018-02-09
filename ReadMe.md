@@ -161,6 +161,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [componentdidmount](https://reactjs.org/docs/react-component.html#componentdidmount)
     + [Lifecycle methods](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
     + [HTTP](https://dzone.com/refcardz/http-hypertext-transfer-0)
+    + [How the Web Works](https://fullstack.austincodingacademy.com/_book/web.html)
 - :microscope: __Lab__:
     + [Address Book](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
 - :newspaper: __Misc__:
