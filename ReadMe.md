@@ -153,6 +153,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: How do you use fetch with React.
 - :file_folder: __Notes__:
+    + [Component Lifecycle](https://gist.github.com/jw56578/94f6bbb1bcf4f12be4fa68d99c322136)
     + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
     + [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
     + [Async Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
