@@ -7,7 +7,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. ](#day12) |[Day 17. ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. ](#day13) |[Day 18. ](#day18)
 | [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
-| [Day 5. More React](#day5) | [Day 10. Redux](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
+| [Day 5. More React](#day5) | [Day 10. Redux and Fetch](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
 
 
 
@@ -179,21 +179,31 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 -----  
 
-  
-### Day 10
- * [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
- * Complete the [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice) using the [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p) and examples. Tell me when you are done.
- * [Async Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
- * [Understanding Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
- * [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
- * [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice)
- * [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
- * Homework
-   * [Install Postman](https://www.getpostman.com/)
-   * [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
-   * [themoviedb.org](https://www.themoviedb.org/?language=en)
-   * [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
-   * [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
+
+## <a name="day10"></a> Day 10. Redux Thunk (Redux + Fetch)
+
+- :paperclip: __Topics__: How do you use fetch with Redux. By default you cannot. We need to use another tool.
+- :file_folder: __Notes__:
+    + [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
+    + [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
+- :book: __Reading__:
+    + [redux-thunk](https://github.com/gaearon/redux-thunk)
+- :microscope: __Lab__:
+    + [Address Book](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
+- :newspaper: __Misc__:
+    + [Demo Video](https://youtu.be/EI_B_ncG1x4)
+    + [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
+    + [Install Postman](https://www.getpostman.com/)
+    + [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
+    + [themoviedb.org](https://www.themoviedb.org/?language=en)
+- :bulb: __Cheat sheet__: 
+    + [Fetch](https://devhints.io/js-fetch)
+- :speaker: __To Do__: 
+    + Lab
+    + [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+    + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
+
+-----  
   
 ### Day 11
 * [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
