@@ -167,6 +167,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Find the Error](https://stackblitz.com/edit/react-ak8p9s)
     + [Address Book](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
 - :newspaper: __Misc__:
+    + [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
     + [Demo Video](https://youtu.be/EI_B_ncG1x4)
     + [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
     + [Install Postman](https://www.getpostman.com/)
