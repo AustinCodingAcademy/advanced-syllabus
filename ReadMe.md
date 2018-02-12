@@ -164,6 +164,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [HTTP](https://dzone.com/refcardz/http-hypertext-transfer-0)
     + [How the Web Works](https://fullstack.austincodingacademy.com/_book/web.html)
 - :microscope: __Lab__:
+    + [Find the Error](https://stackblitz.com/edit/react-ak8p9s)
     + [Address Book](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
 - :newspaper: __Misc__:
     + [Demo Video](https://youtu.be/EI_B_ncG1x4)
