@@ -171,9 +171,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Install Postman](https://www.getpostman.com/)
     + [themoviedb.org](https://www.themoviedb.org/?language=en)
 - :video_camera: __Vidoes__
-     + [Demo Video](https://youtu.be/EI_B_ncG1x4)
-     + [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
-     + [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
+     + [Demo](https://youtu.be/EI_B_ncG1x4)
+     + [Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
 - :bulb: __Cheat sheet__: 
     + [Fetch](https://devhints.io/js-fetch)
 - :speaker: __To Do__: 
