@@ -170,7 +170,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
     + [Install Postman](https://www.getpostman.com/)
     + [themoviedb.org](https://www.themoviedb.org/?language=en)
-- :video_camera: __Vidoes__
+- :video_camera: __Videos__
      + [Demo](https://youtu.be/EI_B_ncG1x4)
      + [Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
 - :bulb: __Cheat sheet__: 
