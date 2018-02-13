@@ -304,14 +304,44 @@ Let's continue with our web server and learn about routes and controllers.
 * [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 * Final Project
 
-### Day 20
-* Related Data
-* Homework
-  * [Setup Heroku](https://youtu.be/6c8xj-K0vK8)
-  * [Heroku App](https://github.com/AustinCodingAcademy/advanced-heroku-app)
+## <a name="day20"></a> Day 20. Heroku
 
-### Class Layout
-* Review previous project
-* Review current topic 
-* Walkthrough current project
-* Work on current project
+- :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
+- :file_folder: __Notes__:
+    + 
+- :book: __Reading__:
+    + 
+- :microscope: __Lab__:
+    + [
+- :newspaper: __Misc__:
+    + 
+- :video_camera: __Videos__
+     + [Demo](https://youtu.be/6c8xj-K0vK8)
+- :bulb: __Cheat sheet__: 
+    + 
+- :speaker: __To Do__: 
+    + Lab
+
+
+
+-----   
+
+   
+## <a name="extras"></a> Extras
+
+- :paperclip: __Topics__: How do you change data in Redux.
+- :file_folder: __Notes__:
+    + 
+- :book: __Reading__:
+    + 
+- :microscope: __Lab__:
+    + 
+- :newspaper: __Misc__:
+    + [
+- :bulb: __Cheat sheet__: 
+    + 
+- :speaker: __To Do__: 
+    + 
+
+
+-----   
