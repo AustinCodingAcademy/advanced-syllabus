@@ -149,24 +149,28 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----    
  
 
-## <a name="day9"></a> Day 9. React and Fetch
+## <a name="day9"></a> Day 9. React, Redux and Fetch
 
-- :paperclip: __Topics__: How do you use fetch with React.
+- :paperclip: __Topics__: How do you use fetch with React. How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
     + [Component Lifecycle](https://gist.github.com/jw56578/94f6bbb1bcf4f12be4fa68d99c322136)
     + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
     + [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
     + [Async Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
     + [Understanding Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
+    + [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
+    + [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
 - :book: __Reading__:
     + [componentdidmount](https://reactjs.org/docs/react-component.html#componentdidmount)
     + [Lifecycle methods](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
     + [HTTP](https://dzone.com/refcardz/http-hypertext-transfer-0)
     + [How the Web Works](https://fullstack.austincodingacademy.com/_book/web.html)
+    + [redux-thunk](https://github.com/gaearon/redux-thunk)
 - :microscope: __Lab__:
     + [Find the Error](https://stackblitz.com/edit/react-ak8p9s)
     + [Address Book](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
 - :newspaper: __Misc__:
+    + [redux-thunk](https://www.npmjs.com/package/redux-thunk)
     + [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
     + [Install Postman](https://www.getpostman.com/)
     + [themoviedb.org](https://www.themoviedb.org/?language=en)
@@ -177,32 +181,27 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Fetch](https://devhints.io/js-fetch)
 - :speaker: __To Do__: 
     + Lab
+    + [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
+    + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 
 
 -----  
 
 
-## <a name="day10"></a> Day 10. Redux Thunk (Redux + Fetch)
+## <a name="day10"></a> Day 10. Checkpoint 1
 
-- :paperclip: __Topics__: How do you use fetch with Redux. By default you cannot. We need to use another tool.
+- :paperclip: __Topics__: Let's design a system from scratch.
 - :file_folder: __Notes__:
-    + [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
-    + [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
+    + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
 - :book: __Reading__:
-    + [redux-thunk](https://github.com/gaearon/redux-thunk)
+    
 - :microscope: __Lab__:
-    + [Address Book](https://github.com/AustinCodingAcademy/advanced-ajax-address-book)
+    + 
 - :newspaper: __Misc__:
-    + [Demo Video](https://youtu.be/EI_B_ncG1x4)
-    + [Video on Redux Thunk](https://youtu.be/EI_B_ncG1x4)
-    + [Install Postman](https://www.getpostman.com/)
-    + [Video - Sign up for MovieDB](https://youtu.be/XSX2w8VPID0)
-    + [themoviedb.org](https://www.themoviedb.org/?language=en)
+    + 
+    + 
 - :bulb: __Cheat sheet__: 
-    + [Fetch](https://devhints.io/js-fetch)
 - :speaker: __To Do__: 
-    + Lab
-    + [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
     + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 
 -----  
