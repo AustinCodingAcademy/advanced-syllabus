@@ -190,7 +190,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 ## <a name="day10"></a> Day 10. Checkpoint 1
 
-- :paperclip: __Topics__: Let's design a system from scratch.
+- :paperclip: __Topics__: Let's design a web software system.
 - :file_folder: __Notes__:
     + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
 - :book: __Reading__:
