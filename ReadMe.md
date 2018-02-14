@@ -194,7 +194,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :file_folder: __Notes__:
     + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
 - :video_camera: __Videos__
-    + https://youtu.be/bMsq98aLHAA
+    + [Demo](https://youtu.be/bMsq98aLHAA)
 - :speaker: __To Do__: 
     + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 
