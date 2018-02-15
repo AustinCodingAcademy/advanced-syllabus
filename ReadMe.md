@@ -207,6 +207,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :file_folder: __Notes__:
     + [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
     + [Checklist](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
+- :book: __Reading__:
+    + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
 - :video_camera: __Videos__
     + [Demo 1](https://youtu.be/_hmmh6mcebw)
     + [Demo 2](https://youtu.be/TP-BqSxPHUc)
