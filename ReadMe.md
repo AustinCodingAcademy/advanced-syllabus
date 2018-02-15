@@ -296,6 +296,7 @@ Let's continue with our web server and learn about routes and controllers.
 * [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 * React testing
 * https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
+* Search All files
 * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 * [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 * Final Project
