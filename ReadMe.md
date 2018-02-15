@@ -3,11 +3,11 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. ](#day11) |[Day 16. ](#day16)
+| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Client Side Routing ](#day11) |[Day 16. ](#day16)
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. ](#day12) |[Day 17. ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. ](#day13) |[Day 18. ](#day18)
 | [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
-| [Day 5. More React](#day5) | [Day 10. Redux and Fetch](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
+| [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
 
 
 
@@ -200,8 +200,23 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 
 -----  
+
+## <a name="day11"></a> Day 11. Client Side Routing
+
+- :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
+- :file_folder: __Notes__:
+    + [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
+    + [Checklist](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/_hmmh6mcebw)
+    + [Demo 2](https://youtu.be/TP-BqSxPHUc)
+- :speaker: __To Do__: 
+    + [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
+    + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
+
+-----  
   
-### Day 11
+### Day 12
 * [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
 * [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
 * [Children components](https://stackblitz.com/edit/react-kvzfvz)
@@ -212,22 +227,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 * [Client Side Routing Video 1](https://youtu.be/_hmmh6mcebw)
 * [Client Side Routing Video 2](https://youtu.be/TP-BqSxPHUc)
 
-### Day 12
-1) Discuss what a spa is and the pros and cons.
-2) How does client side routing make spa's better.
-3) Walkthrough how to use React Router by doing the project.
 
-* Lecture
-  * [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
-* Checklist
-  * [React Router](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
-* Project
-  * [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
-  * [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
-* Homework
-  * [Intro Express Video](https://youtu.be/K3h4bfjIcp8?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm)
-  * [Install Postman](https://www.getpostman.com/)
-  * Review material for next day
   
 ### Day 13 
 Time to switch gears. Everything we have done so far has been part of the concept of "Front End". Let's start learning about some "Back End" concepts.
