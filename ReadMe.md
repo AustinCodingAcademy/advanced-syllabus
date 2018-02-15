@@ -292,6 +292,7 @@ Let's continue with our web server and learn about routes and controllers.
 
 ### Day 19
 * Review debugging with chrome developer tools
+* [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 * React testing
 * https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
 * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
