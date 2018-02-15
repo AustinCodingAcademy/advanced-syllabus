@@ -192,6 +192,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: Let's design a web app that is similiar to Netflix.
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/66bdabf8c05fc61f4ddb5796d0a92b94)
     + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
 - :video_camera: __Videos__
     + [Demo](https://youtu.be/bMsq98aLHAA)
