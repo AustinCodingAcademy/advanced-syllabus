@@ -291,6 +291,7 @@ Let's continue with our web server and learn about routes and controllers.
 * Continue on discussing authentication
 
 ### Day 19
+* Review debugging with vs code
 * Review debugging with chrome developer tools
 * [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 * React testing
