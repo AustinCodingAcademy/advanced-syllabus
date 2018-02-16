@@ -4,7 +4,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | ||||
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. ](#day16)
-| [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. ](#day12) |[Day 17. ](#day17)
+| [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. ](#day13) |[Day 18. ](#day18)
 | [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
 | [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
