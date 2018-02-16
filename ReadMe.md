@@ -135,6 +135,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Actions](https://redux.js.org/docs/basics/Actions.html)
     + [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
     + [Immutable Update Patterns](https://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html)
+    + [dispatch source code](https://github.com/reactjs/redux/blob/master/src/createStore.js#L165)
 - :microscope: __Lab__:
     + [Let's Add a Tweet](https://stackblitz.com/edit/react-dgrd7w)
 - :newspaper: __Misc__:
