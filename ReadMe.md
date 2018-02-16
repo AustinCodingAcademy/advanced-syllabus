@@ -215,6 +215,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
 - :video_camera: __Videos__
     + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
+    + [Tutorial](https://youtu.be/x4q86IjJFag)
     + [Class Video](https://youtu.be/d7Qo067JbOc)
 - :microscope: __Lab__:
     + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
@@ -223,7 +224,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + Search All files
     + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 - :speaker: __To Do__: 
-    + 
+    
 
 -----  
 
