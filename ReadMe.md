@@ -207,8 +207,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
 - :file_folder: __Notes__:
-    + [Debugging]()https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p (slides)
+    + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
 - :book: __Reading__:
+    + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
     + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
     + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
     + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
@@ -216,21 +217,13 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
     + [Class Video](https://youtu.be/d7Qo067JbOc)
 - :microscope: __Lab__:
+    + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
     + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
     + Debug redux action practice
+    + Search All files
     + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 - :speaker: __To Do__: 
     + 
-
-
-
-* Review debugging with chrome developer tools
-* [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
-* React testing
-* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
-* Search All files
-
-
 
 -----  
 
