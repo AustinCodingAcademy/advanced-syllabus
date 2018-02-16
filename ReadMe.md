@@ -3,7 +3,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Client Side Routing ](#day11) |[Day 16. ](#day16)
+| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. ](#day16)
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. ](#day12) |[Day 17. ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. ](#day13) |[Day 18. ](#day18)
 | [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
@@ -203,7 +203,38 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 -----  
 
-## <a name="day11"></a> Day 11. Client Side Routing
+## <a name="day11"></a> Day 11. Debugging
+
+- :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
+- :file_folder: __Notes__:
+    + 
+- :book: __Reading__:
+    + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
+    + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
+    + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+- :video_camera: __Videos__
+    + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
+    + [Class Video](https://youtu.be/d7Qo067JbOc)
+- :microscope: __Lab__:
+    + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
+    + Debug redux action practice
+    + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
+- :speaker: __To Do__: 
+    + 
+
+
+
+* Review debugging with chrome developer tools
+* [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
+* React testing
+* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
+* Search All files
+
+
+
+-----  
+
+## <a name="day12"></a> Day 12. Client Side Routing
 
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
@@ -220,7 +251,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 -----  
   
-### Day 12
+### Day 13
 * [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
 * [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
 * [Children components](https://stackblitz.com/edit/react-kvzfvz)
@@ -233,7 +264,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
   
-### Day 13 
+### Day 14 
 Time to switch gears. Everything we have done so far has been part of the concept of "Front End". Let's start learning about some "Back End" concepts.
 * Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
 * Talk about [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
@@ -253,10 +284,10 @@ Homework
   * [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
   * [Install Robomongo](https://robomongo.org/)
 
-### Day 14
+### Day 15
 Let's continue with our web server and learn about routes and controllers.
 
-### Day 15
+### Day 16
 1) Let's get mongodb installed and running on everyone's computer. Hang in there, we just need to get through it.
 2) Use the mongodb checklist and get our server connected to the mongodb using mongoose. Do one of the models in the express practice.
 3) Continue working on the express practice now using the database.
