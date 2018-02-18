@@ -93,6 +93,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e) 
     + [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p) (slides)
     + [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p)  (slides)
+    + [Redux Bank Analogy](https://docs.google.com/presentation/d/1lFbDzokiowkZttmnZWND5U2tizgcnjuZrJzmXVcTD8c/edit#slide=id.p)
 - :book: __Reading__:
     + [Redux Docs](https://redux.js.org/)
     + [Redux Source Code](https://github.com/reactjs/redux)
@@ -131,7 +132,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Types of Components](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g309b73ba6c_0_0) (slides)
     + [Containers](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28fe054e69_0_115) (slides)
     + [dispatch quasi source code](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_0)
-    + [Redux Bank Analogy](https://docs.google.com/presentation/d/1lFbDzokiowkZttmnZWND5U2tizgcnjuZrJzmXVcTD8c/edit#slide=id.p)
+
 - :book: __Reading__:
     + [Actions](https://redux.js.org/docs/basics/Actions.html)
     + [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
