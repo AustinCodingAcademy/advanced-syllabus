@@ -210,6 +210,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
     + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
 - :book: __Reading__:
     + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
