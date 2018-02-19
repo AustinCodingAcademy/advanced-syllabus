@@ -131,6 +131,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Rules of reducers](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142) (slides)
     + [Types of Components](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g309b73ba6c_0_0) (slides)
     + [Containers](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28fe054e69_0_115) (slides)
+    + [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
     + [dispatch quasi source code](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_0)
 
 - :book: __Reading__:
@@ -238,6 +239,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Checklist](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
 - :book: __Reading__:
     + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
+    + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
+    + [Children components](https://stackblitz.com/edit/react-kvzfvz)
 - :video_camera: __Videos__
     + [Demo 1](https://youtu.be/_hmmh6mcebw)
     + [Demo 2](https://youtu.be/TP-BqSxPHUc)
@@ -246,39 +249,40 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
 
 -----  
-  
-### Day 13
-* [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
-* [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
-* [Children components](https://stackblitz.com/edit/react-kvzfvz)
-* Work Day - Get redux thunk practice done and work on checkpoint 1
-* Review [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
-* Review [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
-* [Checkpoint 1 Walkthrough Video](https://youtu.be/bMsq98aLHAA)
-* [Client Side Routing Video 1](https://youtu.be/_hmmh6mcebw)
-* [Client Side Routing Video 2](https://youtu.be/TP-BqSxPHUc)
 
+
+
+
+
+
+## <a name="day13"></a> Day 13. Creating a Server
+
+- :paperclip: __Topics__: How do you make your own server.
+- :file_folder: __Notes__:
+    + [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
+    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+    + [Servers and Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
+    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+- :book: __Reading__:
+
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/_hmmh6mcebw)
+    + [Demo 2](https://youtu.be/TP-BqSxPHUc)
+- :speaker: __To Do__: 
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+-----  
+  
+  
+  
+  
+  
+ 
 
   
 ### Day 14 
-Time to switch gears. Everything we have done so far has been part of the concept of "Front End". Let's start learning about some "Back End" concepts.
-* Let's fill out the [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) ourselves. 
-* Talk about [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-* Talk about [Servers and Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
-* [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1)
-* [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-* Walkthrough homework project express practice part 1.
-* Run through [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
-* Install and talk about [Postman](https://www.getpostman.com/)
 
-Homework
-  * [Express Practice Part 1](https://github.com/AustinCodingAcademy/advanced-express-practice)
-  * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
-  * [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
-  * [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
-  * [Look at MLab](https://mlab.com/)
-  * [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
-  * [Install Robomongo](https://robomongo.org/)
+
+
 
 ### Day 15
 Let's continue with our web server and learn about routes and controllers.
@@ -298,6 +302,12 @@ Let's continue with our web server and learn about routes and controllers.
   * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
   * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
   
+  * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
+  * [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
+  * [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
+  * [Look at MLab](https://mlab.com/)
+  * [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
+  * [Install Robomongo](https://robomongo.org/)
 
 ### Day 16
 * Let's review the express practice and go back over using mongoose to interact with the database.
