@@ -266,9 +266,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
 
 - :video_camera: __Videos__
-    + [Demo 1](https://youtu.be/_hmmh6mcebw)
-    + [Demo 2](https://youtu.be/TP-BqSxPHUc)
+    + 
 - :speaker: __To Do__: 
+    + https://github.com/AustinCodingAcademy/advanced-first-web-server
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 -----  
   
