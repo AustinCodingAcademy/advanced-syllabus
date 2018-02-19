@@ -369,7 +369,7 @@ Let's continue with our web server and learn about routes and controllers.
 -----   
 
    
-## <a name="extras"></a> Extras
+## <a name="extras"></a> Mobile Development
 
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
@@ -377,7 +377,7 @@ Let's continue with our web server and learn about routes and controllers.
 - :book: __Reading__:
     + 
 - :microscope: __Lab__:
-    + 
+    + [Repl](https://repl.it/site/languages/react_native)
 - :newspaper: __Misc__:
     + [
 - :bulb: __Cheat sheet__: 
