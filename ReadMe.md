@@ -273,6 +273,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Express npm](https://www.npmjs.com/package/express)
 - :video_camera: __Videos__
     + [REST](https://youtu.be/7YcW25PHnAA)
+- :bulb: __Cheat sheet__: 
+    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
 - :speaker: __To Do__: 
     + [Server Starter Code]https://github.com/AustinCodingAcademy/advanced-first-web-server
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
