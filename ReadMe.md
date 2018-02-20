@@ -5,7 +5,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. ](#day16)
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. ](#day17)
-| [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. ](#day13) |[Day 18. ](#day18)
+| [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. Creating A Server ](#day13) |[Day 18. ](#day18)
 | [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
 | [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
 
@@ -269,6 +269,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + What is next()?
 - :book: __Reading__:
     + [Express](https://expressjs.com/)
+    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
 - :newspaper: __Misc__:
     + [Express npm](https://www.npmjs.com/package/express)
 - :video_camera: __Videos__
@@ -276,7 +277,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :bulb: __Cheat sheet__: 
     + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
 - :speaker: __To Do__: 
-    + [Server Starter Code]https://github.com/AustinCodingAcademy/advanced-first-web-server
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 -----  
   
