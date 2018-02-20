@@ -270,6 +270,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
     + [Express](https://expressjs.com/)
     + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - :newspaper: __Misc__:
     + [Express npm](https://www.npmjs.com/package/express)
 - :video_camera: __Videos__
