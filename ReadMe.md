@@ -262,12 +262,12 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :paperclip: __Topics__: How do you make your own server.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
+    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
+    + [Servers and Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
     + [Client Server Comm Checklist](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
     + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [Servers and Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
     + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
     + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
     + What is next()?
 - :book: __Reading__:
