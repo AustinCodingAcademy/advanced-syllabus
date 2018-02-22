@@ -268,6 +268,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Servers and Express](https://docs.google.com/presentation/d/16JVz1WqGjzBuM52174l0PudL4cIdZHuKj9VC2pgTS1c/edit#slide=id.g22932e03c5_0_10)
     + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
     + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
+    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
     + What is next()?
 - :book: __Reading__:
     + [Express](https://expressjs.com/)
