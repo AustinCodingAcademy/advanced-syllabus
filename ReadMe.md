@@ -275,6 +275,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
     + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
     + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
 - :newspaper: __Misc__:
     + [Express npm](https://www.npmjs.com/package/express)
 - :video_camera: __Videos__
