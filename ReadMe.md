@@ -269,7 +269,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
     + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
     + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
-    + What is next()?
 - :book: __Reading__:
     + [Express](https://expressjs.com/)
     + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
