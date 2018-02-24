@@ -7,7 +7,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. Creating A Server with Express ](#day13) |[Day 18. ](#day18)
 | [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. Express MVC](#day14) |[Day 19. ](#day19)
-| [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
+| [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Database ](#day15) |[Day 20. ](#day20)
 
 
 
@@ -326,7 +326,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 ## <a name="day14"></a> Day 15. Database with Mongo DB
 
-- :paperclip: __Topics__: How do you store information on your server. Which database should we use? Let's install a database. 
+- :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's install a database. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
     + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit) (slides)
