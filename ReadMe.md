@@ -324,30 +324,35 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-### Day 15
-Let's continue with our web server and learn about routes and controllers.
+## <a name="day14"></a> Day 15. Database with Mongo DB
 
-### Day 16
-1) Let's get mongodb installed and running on everyone's computer. Hang in there, we just need to get through it.
-2) Use the mongodb checklist and get our server connected to the mongodb using mongoose. Do one of the models in the express practice.
-3) Continue working on the express practice now using the database.
-4) Review checkpoint 2.
-5) If you get done with express practice all partst,  then work on checkpoint 2.
+- :paperclip: __Topics__: How do you store information on your server. Which database should we use? Let's install a database. 
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
+    + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit) (slides)
+    + [Mongoose Checklist](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
+- :book: __Reading__:
+    + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+    + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+- :microscope: __Lab__:
+    + 
+- :newspaper: __Misc__:
+    + [Look at MLab](https://mlab.com/)
+    + [Install Robomongo](https://robomongo.org/)
+- :video_camera: __Videos__
+     + [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
+     + [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
+     + [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
+     + [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
+- :bulb: __Cheat sheet__: 
+    + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
+- :speaker: __To Do__: 
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 
-* Lecture
-  * [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit)
-* Checklist
-  * [Mongoose](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
-* Homework
-  * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
-  * [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
-  
-  * [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
-  * [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
-  * [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
-  * [Look at MLab](https://mlab.com/)
-  * [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
-  * [Install Robomongo](https://robomongo.org/)
+
+
+-----   
+
 
 ### Day 16
 * Let's review the express practice and go back over using mongoose to interact with the database.
