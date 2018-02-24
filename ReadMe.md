@@ -348,12 +348,7 @@ Let's continue with our web server and learn about routes and controllers.
 * Continue on discussing authentication
 
 ### Day 19
-* Review debugging with vs code
-* Review debugging with chrome developer tools
-* [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 * React testing
-* https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934
-* Search All files
 * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 * [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 * Final Project
@@ -383,7 +378,7 @@ Let's continue with our web server and learn about routes and controllers.
    
 ## <a name="extras"></a> Mobile Development
 
-- :paperclip: __Topics__: How do you change data in Redux.
+- :paperclip: __Topics__: 
 - :file_folder: __Notes__:
     + 
 - :book: __Reading__:
