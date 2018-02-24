@@ -5,8 +5,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. ](#day16)
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. ](#day17)
-| [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. Creating A Server ](#day13) |[Day 18. ](#day18)
-| [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. ](#day14) |[Day 19. ](#day19)
+| [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. Creating A Server with Express ](#day13) |[Day 18. ](#day18)
+| [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. Express MVC](#day14) |[Day 19. ](#day19)
 | [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. ](#day15) |[Day 20. ](#day20)
 
 
@@ -302,7 +302,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+    + [Express Checklist Controllers](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.g2ad7342cfc_0_34)
 - :book: __Reading__:
     + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
     + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
