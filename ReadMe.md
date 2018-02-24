@@ -339,6 +339,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :newspaper: __Misc__:
     + [Look at MLab](https://mlab.com/)
     + [Install Robomongo](https://robomongo.org/)
+    + [DB vs File System](https://youtu.be/5t0Y13AkWgc)
 - :video_camera: __Videos__
      + [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
      + [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
