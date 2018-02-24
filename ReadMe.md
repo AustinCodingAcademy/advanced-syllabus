@@ -275,6 +275,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
     + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
     + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
+- :microscope: __Lab__:
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
 - :newspaper: __Misc__:
     + [Express npm](https://www.npmjs.com/package/express)
 - :video_camera: __Videos__
@@ -294,7 +296,30 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
  
 
   
-### Day 14 
+## <a name="day14"></a> Day 14. MVC
+
+- :paperclip: __Topics__: How do you organize your server code. 
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+- :book: __Reading__:
+    + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+    + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+- :microscope: __Lab__:
+    + 
+- :newspaper: __Misc__:
+    + 
+- :video_camera: __Videos__
+     + 
+- :bulb: __Cheat sheet__: 
+    + 
+- :speaker: __To Do__: 
+    + Lab
+
+
+
+-----   
 
 
 
