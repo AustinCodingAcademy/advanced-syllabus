@@ -326,19 +326,20 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 ## <a name="day15"></a> Day 15. Database with Mongo DB
 
-- :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's install a database. 
+- :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
-    + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec/edit) (slides)
+    + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec) (slides)
+    + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
     + [Mongoose Checklist](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 - :book: __Reading__:
-    + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-    + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+    + [Mongodb.com](https://www.mongodb.com/)
+    + [Document databases](https://en.wikipedia.org/wiki/Document-oriented_database)
 - :microscope: __Lab__:
-    + 
+    + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
 - :newspaper: __Misc__:
-    + [Look at MLab](https://mlab.com/)
-    + [Install Robomongo](https://robomongo.org/)
+    + [MLab](https://mlab.com/)
+    + [Install Robo 3T](https://robomongo.org/)
     + [DB vs File System](https://youtu.be/5t0Y13AkWgc)
 - :video_camera: __Videos__
      + [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
