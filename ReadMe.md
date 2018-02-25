@@ -314,7 +314,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :bulb: __Cheat sheet__: 
     + 
 - :speaker: __To Do__: 
-    + Lab
+    + [Sign up for MLab](https://mlab.com/)
 
 
 
