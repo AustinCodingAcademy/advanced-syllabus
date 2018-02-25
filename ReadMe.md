@@ -332,6 +332,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
     + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 - :book: __Reading__:
+    + [Why databases](http://www.softwaretestingclass.com/what-is-database-and-why-do-we-need-them/)
     + [Mongodb.com](https://www.mongodb.com/)
     + [Document databases](https://en.wikipedia.org/wiki/Document-oriented_database)
     + [MongooseJS](http://mongoosejs.com/docs/guide.html)
