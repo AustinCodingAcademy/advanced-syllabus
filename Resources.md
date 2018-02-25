@@ -11,3 +11,4 @@ Resources
 * [Office Hours](https://discourse.austincodingacademy.com/t/advanced-office-hours/327)
 * [Code Sandbox](https://codesandbox.io/s/new)
 * [scrimba](https://scrimba.com)
+* [codeanalogies](https://www.codeanalogies.com/)
