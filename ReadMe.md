@@ -334,15 +334,16 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
     + [Mongodb.com](https://www.mongodb.com/)
     + [Document databases](https://en.wikipedia.org/wiki/Document-oriented_database)
+    + [MongooseJS](http://mongoosejs.com/docs/guide.html)
 - :microscope: __Lab__:
     + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
 - :newspaper: __Misc__:
     + [MLab](https://mlab.com/)
     + [Install Robo 3T](https://robomongo.org/)
     + [DB vs File System](https://youtu.be/5t0Y13AkWgc)
+    + [Mongoose](https://www.npmjs.com/package/mongoose)
 - :video_camera: __Videos__
      + [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
-     + [Install MongoDB Instructions](http://austincodingacademy.github.io/fullstack-gitbook/lesson-8/lesson-8-installing-mongo.html)
      + [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
      + [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
 - :bulb: __Cheat sheet__: 
