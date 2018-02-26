@@ -360,7 +360,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__:  Discuss authentication. Go over building a sign-up/sign-in process. Make sure we are familiar with concepts such as hashing, tokens and encryption.
 - :file_folder: __Notes__:
-    +[Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)       +[Checklist](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
+    + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)     + [Checklist](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
 - :book: __Reading__:
 
 - :microscope: __Lab__:
