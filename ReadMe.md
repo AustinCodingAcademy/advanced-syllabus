@@ -3,7 +3,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. ](#day16)
+| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. Authentication](#day16)
 | [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. Creating A Server with Express ](#day13) |[Day 18. ](#day18)
 | [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. Express MVC](#day14) |[Day 19. ](#day19)
@@ -356,29 +356,33 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
+## <a name="day16"></a> Day 16. Authentication
+
+- :paperclip: __Topics__:  Discuss authentication. Go over building a sign-up/sign-in process. Make sure we are familiar with concepts such as hashing, tokens and encryption.
+- :file_folder: __Notes__:
+    +[Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)       +[Checklist](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
+- :book: __Reading__:
+
+- :microscope: __Lab__:
+    + 
+- :newspaper: __Misc__:
+    + 
+- :video_camera: __Videos__
+     + 
+- :bulb: __Cheat sheet__: 
+    + 
+- :speaker: __To Do__: 
+    + [Authentication Practice](https://github.com/AustinCodingAcademy/advanced-authentication-practice)
 
 
-### Day 16
+
+
+### Day 18
 * Let's review the express practice and go back over using mongoose to interact with the database.
 * Homework is the express practice with database.
 * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 * [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 * Final Project
-
-### Day 17
-1) Discuss what authentication/authorization is.
-2) Discuss the process of sign up and sign in.
-3) What is a token.
-
-* Lecture
-  * [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
-* Checklist
-  * [Authentication](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
-* Project
-  * [Authentication Practice](https://github.com/AustinCodingAcademy/advanced-authentication-practice)
-
-### Day 18
-* Continue on discussing authentication
 
 ### Day 19
 * React testing
