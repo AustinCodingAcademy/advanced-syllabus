@@ -259,7 +259,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 ## <a name="day13"></a> Day 13. Creating a Server
 
-- :paperclip: __Topics__: How do you make your own server.
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
     + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
@@ -358,7 +358,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----   
 ## <a name="day16"></a> Day 16. Authentication
 
-- :paperclip: __Topics__:  Discuss authentication. Go over building a sign-up/sign-in process. Make sure we are familiar with concepts such as hashing, tokens and encryption.
+- :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
     + [Checklist](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
