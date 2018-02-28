@@ -398,6 +398,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [hashing](https://en.wikipedia.org/wiki/Hash_function)
     + [cryptographic hashing](https://simple.wikipedia.org/wiki/Cryptographic_hash_function)
     + [bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
+    + [JWT](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 - :microscope: __Lab__:
     + 
 - :newspaper: __Misc__:
