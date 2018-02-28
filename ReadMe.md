@@ -309,7 +309,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
 - :microscope: __Lab__:
     + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-    + ACA Chat
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
 - :newspaper: __Misc__:
     + [Express npm](https://www.npmjs.com/package/express)
 - :video_camera: __Videos__
