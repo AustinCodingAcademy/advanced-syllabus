@@ -394,7 +394,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
     + [Checklist](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
 - :book: __Reading__:
-
+    + [hashing](https://en.wikipedia.org/wiki/Hash_function)
+    + [cryptographic hashing](https://simple.wikipedia.org/wiki/Cryptographic_hash_function)
+    + [bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
 - :microscope: __Lab__:
     + 
 - :newspaper: __Misc__:
