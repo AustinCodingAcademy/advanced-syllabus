@@ -329,7 +329,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
   
 ## <a name="day15"></a> Day 15. MVC
 
-- :paperclip: __Topics__: How do you organize your server code. 
+- :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
