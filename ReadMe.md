@@ -404,7 +404,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :bulb: __Cheat sheet__: 
     + 
 - :speaker: __To Do__: 
-    + [Authentication Practice](https://github.com/AustinCodingAcademy/advanced-authentication-practice)
+    + [Authentication Starter Project](https://github.com/AustinCodingAcademy/advanced-authentication-starter)
 
 
 
