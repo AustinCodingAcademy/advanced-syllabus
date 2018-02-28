@@ -3,11 +3,11 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. Authentication](#day16)
-| [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. ](#day17)
+| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. Database](#day16)
+| [Day 2. Testing](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. Authenication ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. Creating A Server with Express ](#day13) |[Day 18. ](#day18)
-| [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. Express MVC](#day14) |[Day 19. ](#day19)
-| [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Database ](#day15) |[Day 20. ](#day20)
+| [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. Creating A Server with Express II](#day14) |[Day 19. ](#day19)
+| [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Express MVC ](#day15) |[Day 20. ](#day20)
 
 
 
@@ -289,14 +289,45 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 -----  
   
-  
+## <a name="day14"></a> Day 14. Creating a Server II
+
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
+    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
+    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
+- :book: __Reading__:
+    + [Express](https://expressjs.com/)
+    + [use](http://expressjs.com/en/api.html#app.use)
+    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
+- :microscope: __Lab__:
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+    + ACA Chat
+- :newspaper: __Misc__:
+    + [Express npm](https://www.npmjs.com/package/express)
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
+    + [REST](https://youtu.be/7YcW25PHnAA)
+- :bulb: __Cheat sheet__: 
+    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
+- :speaker: __To Do__: 
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+-----  
   
   
   
  
 
   
-## <a name="day14"></a> Day 14. MVC
+## <a name="day15"></a> Day 15. MVC
 
 - :paperclip: __Topics__: How do you organize your server code. 
 - :file_folder: __Notes__:
@@ -324,7 +355,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-## <a name="day15"></a> Day 15. Database with Mongo DB
+## <a name="day16"></a> Day 16. Database with Mongo DB
 
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
@@ -356,7 +387,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
-## <a name="day16"></a> Day 16. Authentication
+## <a name="day17"></a> Day 17. Authentication
 
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
