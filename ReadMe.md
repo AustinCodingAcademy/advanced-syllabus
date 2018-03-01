@@ -344,9 +344,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :newspaper: __Misc__:
     + 
 - :video_camera: __Videos__
-     + 
+     + [MVC](https://www.youtube.com/results?search_query=mvc)
 - :bulb: __Cheat sheet__: 
-    + 
+    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4) 
 - :speaker: __To Do__: 
     + Express Practice Part 2,3 and 4
     + [Sign up for MLab](https://mlab.com/)
