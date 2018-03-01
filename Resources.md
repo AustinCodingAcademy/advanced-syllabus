@@ -12,3 +12,4 @@ Resources
 * [Code Sandbox](https://codesandbox.io/s/new)
 * [scrimba](https://scrimba.com)
 * [codeanalogies](https://www.codeanalogies.com/)
+* [build-a-computer](https://www.coursera.org/learn/build-a-computer)
