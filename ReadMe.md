@@ -337,6 +337,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
     + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
     + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+    + [MIWMIRMIF](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
 - :microscope: __Lab__:
     + 
 - :newspaper: __Misc__:
