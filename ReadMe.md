@@ -340,7 +340,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
     + [MIWMIRMIF](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
 - :microscope: __Lab__:
-    + 
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice) 
 - :newspaper: __Misc__:
     + 
 - :video_camera: __Videos__
@@ -348,6 +348,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :bulb: __Cheat sheet__: 
     + 
 - :speaker: __To Do__: 
+    + Express Practice Part 2,3 and 4
     + [Sign up for MLab](https://mlab.com/)
 
 
