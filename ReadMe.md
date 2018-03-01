@@ -331,7 +331,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
+    + [Notes](https://gist.github.com/jw56578/91835f18580364fb1c3755230fe040b0)
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
     + [Express Checklist Controllers](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.g2ad7342cfc_0_34)
 - :book: __Reading__:
