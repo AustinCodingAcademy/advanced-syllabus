@@ -342,6 +342,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [MIWMIRMIF](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
 - :microscope: __Lab__:
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice) 
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
 - :newspaper: __Misc__:
     + 
 - :video_camera: __Videos__
