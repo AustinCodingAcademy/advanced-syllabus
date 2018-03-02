@@ -454,9 +454,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
-
-   
-## <a name="extras"></a> Mobile Development
+## <a name="extras"></a> Mobile Dev
 
 - :paperclip: __Topics__: 
 - :file_folder: __Notes__:
@@ -465,6 +463,25 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + 
 - :microscope: __Lab__:
     + [Repl](https://repl.it/site/languages/react_native)
+- :newspaper: __Misc__:
+    + [
+- :bulb: __Cheat sheet__: 
+    + 
+- :speaker: __To Do__: 
+    + 
+
+
+-----   
+   
+## <a name="extras"></a> HTTPS
+
+- :paperclip: __Topics__: 
+- :file_folder: __Notes__:
+    + [Demo](https://docs.google.com/presentation/d/1xd56z0dxGKGW7vw5sqWFqAJjryMjm5lEeAvXbnh1-9w/edit#slide=id.p)
+- :book: __Reading__:
+    + 
+- :microscope: __Lab__:
+    + 
 - :newspaper: __Misc__:
     + [
 - :bulb: __Cheat sheet__: 
