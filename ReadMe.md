@@ -337,6 +337,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Express Checklist Controllers](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.g2ad7342cfc_0_34)
 - :book: __Reading__:
     + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+    + [MVC Analogy](https://medium.freecodecamp.org/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053)
     + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
     + [MIWMIRMIF](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
 - :microscope: __Lab__:
