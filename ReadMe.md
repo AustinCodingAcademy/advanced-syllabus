@@ -405,6 +405,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [cryptographic hashing](https://simple.wikipedia.org/wiki/Cryptographic_hash_function)
     + [bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
     + [JWT](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+    + [Authorization](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 - :microscope: __Lab__:
     + 
 - :newspaper: __Misc__:
