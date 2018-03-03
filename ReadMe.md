@@ -464,7 +464,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :microscope: __Lab__:
     + [Repl](https://repl.it/site/languages/react_native)
 - :newspaper: __Misc__:
-    + [
+    + 
 - :bulb: __Cheat sheet__: 
     + 
 - :speaker: __To Do__: 
@@ -483,7 +483,25 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :microscope: __Lab__:
     + 
 - :newspaper: __Misc__:
-    + [
+    + 
+- :bulb: __Cheat sheet__: 
+    + 
+- :speaker: __To Do__: 
+    + 
+
+
+-----   
+## <a name="extras"></a> Performance Tuning
+
+- :paperclip: __Topics__: 
+- :file_folder: __Notes__:
+    + 
+- :book: __Reading__:
+    + 
+- :microscope: __Lab__:
+    + 
+- :newspaper: __Misc__:
+    + 
 - :bulb: __Cheat sheet__: 
     + 
 - :speaker: __To Do__: 
