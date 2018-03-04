@@ -475,19 +475,15 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
    
 ## <a name="extras"></a> HTTPS
 
-- :paperclip: __Topics__: 
+- :paperclip: __Topics__: The S in httpS. Public key encryption.
 - :file_folder: __Notes__:
     + [Demo](https://docs.google.com/presentation/d/1xd56z0dxGKGW7vw5sqWFqAJjryMjm5lEeAvXbnh1-9w/edit#slide=id.p)
 - :book: __Reading__:
-    + 
-- :microscope: __Lab__:
-    + 
-- :newspaper: __Misc__:
-    + 
-- :bulb: __Cheat sheet__: 
-    + 
+    + [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- :video_camera: __Videos__
+     + [HTTPS](https://www.youtube.com/playlist?list=PLj_QbToz3dk58YFCcIA3vIGBCfBdoLo7c)
 - :speaker: __To Do__: 
-    + 
+    + Demo
 
 
 -----   
