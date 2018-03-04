@@ -463,7 +463,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
     + 
 - :microscope: __Lab__:
-    + [Repl](https://repl.it/site/languages/react_native)
+    + [React Native Repl Example](https://repl.it/@jw56578/SpringgreenSurprisedAutoexec)
 - :newspaper: __Misc__:
     + 
 - :bulb: __Cheat sheet__: 
