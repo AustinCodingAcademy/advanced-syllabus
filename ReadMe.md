@@ -409,7 +409,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :microscope: __Lab__:
     + 
 - :newspaper: __Misc__:
-    + 
+    + [jwt-simple npm](https://www.npmjs.com/package/jwt-simple)
 - :video_camera: __Videos__
      + 
 - :bulb: __Cheat sheet__: 
