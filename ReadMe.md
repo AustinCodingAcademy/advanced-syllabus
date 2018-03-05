@@ -492,7 +492,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: 
 - :file_folder: __Notes__:
-    + 
+    + [Step by Step](https://docs.google.com/presentation/d/1vIVtIY3VWjCkq6bxIrpsFG2CB5SPVl2zbRALKYyRMac/edit#slide=id.p)
 - :book: __Reading__:
     + 
 - :microscope: __Lab__:
