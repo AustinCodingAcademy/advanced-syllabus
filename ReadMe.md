@@ -471,7 +471,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 ## <a name="day20"></a> Day 20. Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
-    + 
+    + [Setup](https://docs.google.com/presentation/d/1DkMr5yVVzLi2tMhCQ_kMyuSGNvbtSmHkqKW4c4SuajQ/edit#slide=id.p)
 - :book: __Reading__:
     + 
 - :microscope: __Lab__:
