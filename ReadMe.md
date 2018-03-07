@@ -434,14 +434,13 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 * Final Project
 
 ## <a name="day20"></a> Day 20. Heroku
-
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
     + 
 - :book: __Reading__:
     + 
 - :microscope: __Lab__:
-    + [
+    + 
 - :newspaper: __Misc__:
     + 
 - :video_camera: __Videos__
@@ -456,20 +455,12 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----   
 ## <a name="extras"></a> Mobile Dev
 
-- :paperclip: __Topics__: 
+- :paperclip: __Topics__: Make an app for iOS. Make an app for React Native
 - :file_folder: __Notes__:
     + [iOS Quick Start](https://docs.google.com/presentation/d/1jQh9OujlUeyFXuDYntiVfE2PNri-vrZJsJPdC5xJmWo/edit#slide=id.p)
     + [React Native Repl](https://gist.github.com/jw56578/db7269742d42182fd79980f7f98dd3ad)
-- :book: __Reading__:
-    + 
 - :microscope: __Lab__:
     + [React Native Repl Example](https://repl.it/@jw56578/SpringgreenSurprisedAutoexec)
-- :newspaper: __Misc__:
-    + 
-- :bulb: __Cheat sheet__: 
-    + 
-- :speaker: __To Do__: 
-    + 
 
 
 -----   
@@ -483,26 +474,17 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 - :video_camera: __Videos__
      + [HTTPS](https://www.youtube.com/playlist?list=PLj_QbToz3dk58YFCcIA3vIGBCfBdoLo7c)
-- :speaker: __To Do__: 
-    + Demo
 
 
 -----   
 ## <a name="extras"></a> Performance Tuning
 
-- :paperclip: __Topics__: 
+- :paperclip: __Topics__: Let's make it fast.
 - :file_folder: __Notes__:
     + [Step by Step](https://docs.google.com/presentation/d/1vIVtIY3VWjCkq6bxIrpsFG2CB5SPVl2zbRALKYyRMac/edit#slide=id.p)
-- :book: __Reading__:
-    + 
 - :microscope: __Lab__:
     + [Project](https://github.com/AustinCodingAcademy/performance-tuning)
-- :newspaper: __Misc__:
-    + 
-- :bulb: __Cheat sheet__: 
-    + 
-- :speaker: __To Do__: 
-    + 
+
 
 
 -----   
