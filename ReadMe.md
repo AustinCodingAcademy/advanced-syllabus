@@ -411,7 +411,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :newspaper: __Misc__:
     + [jwt-simple npm](https://www.npmjs.com/package/jwt-simple)
 - :video_camera: __Videos__
-     + 
+     + [bcrypt](https://www.youtube.com/watch?v=O6cmuiTBZVs)
 - :bulb: __Cheat sheet__: 
     + 
 - :speaker: __To Do__: 
