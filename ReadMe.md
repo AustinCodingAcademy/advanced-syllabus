@@ -449,19 +449,24 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
+## <a name="day19"></a> Day 19. Misc
+- :paperclip: __Topics__: HTTPS, Mobile, Performance
+- :file_folder: __Notes__:
+    + 
+- :book: __Reading__:
+    + 
+- :microscope: __Lab__:
+    + 
+- :newspaper: __Misc__:
+    + 
+- :video_camera: __Videos__
+- :bulb: __Cheat sheet__: 
+    + 
+- :speaker: __To Do__: 
 
-### Day 19
-* Let's review the express practice and go back over using mongoose to interact with the database.
-* Homework is the express practice with database.
-* [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
-* [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
-* Final Project
 
-### Day 20
-* React testing
-* [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
-* [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
-* Final Project
+
+
 
 ## <a name="day20"></a> Day 20. Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
