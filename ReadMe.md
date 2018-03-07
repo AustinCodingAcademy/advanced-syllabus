@@ -367,19 +367,16 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
     + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec) (slides)
     + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
-    + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 - :book: __Reading__:
     + [Why databases](http://www.softwaretestingclass.com/what-is-database-and-why-do-we-need-them/)
     + [Mongodb.com](https://www.mongodb.com/)
     + [Document databases](https://en.wikipedia.org/wiki/Document-oriented_database)
-    + [MongooseJS](http://mongoosejs.com/docs/guide.html)
 - :microscope: __Lab__:
     + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
 - :newspaper: __Misc__:
     + [MLab](https://mlab.com/)
     + [Install Robo 3T](https://robomongo.org/)
     + [DB vs File System](https://youtu.be/5t0Y13AkWgc)
-    + [Mongoose](https://www.npmjs.com/package/mongoose)
 - :video_camera: __Videos__
      + [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
      + [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
@@ -390,9 +387,42 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 
 
+-----   
+
+## <a name="checkpoint2"></a> Checkpoint 2
+- :paperclip: __Topics__: Let's start working on checkpoint 2 
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/47ebc2d9856f561c1b5d464e2d414b33)
+- :video_camera: __Videos__
+    + [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
+- :speaker: __To Do__: 
+    + [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
+
+
+-----  
+
+
+
+## <a name="day17"></a> Day 17. Mongoose
+
+- :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
+    + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
+- :book: __Reading__:
+    + [MongooseJS](http://mongoosejs.com/docs/guide.html)
+- :newspaper: __Misc__:
+    + [Mongoose](https://www.npmjs.com/package/mongoose)
+- :video_camera: __Videos__
+- :bulb: __Cheat sheet__: 
+    + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
+- :speaker: __To Do__: 
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+
+
 
 -----   
-## <a name="day17"></a> Day 17. Authentication
+## <a name="day17"></a> Day 18. Authentication
 
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
@@ -420,14 +450,14 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-### Day 18
+### Day 19
 * Let's review the express practice and go back over using mongoose to interact with the database.
 * Homework is the express practice with database.
 * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 * [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 * Final Project
 
-### Day 19
+### Day 20
 * React testing
 * [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 * [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
