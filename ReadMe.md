@@ -541,3 +541,21 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
+## <a name="npm"></a> NPM
+
+- :paperclip: __Topics__: npm. 
+- :file_folder: __Notes__:
+    + [What is NPM](https://docs.google.com/presentation/d/1X2hFMU0qDRTNkaJzZsPiqbf2iGGJcMdgAkIDvyEL-5w/edit#slide=id.p)
+- :book: __Reading__:
+    + [Node](https://docs.npmjs.com/getting-started/what-is-npm)
+- :microscope: __Lab__:
+    + [Project](https://github.com/AustinCodingAcademy/performance-tuning)
+- :newspaper: __Misc__:
+    + [Node Source Code](https://github.com/nodejs/node)
+- :video_camera: __Videos__
+     + [Playlist](https://www.youtube.com/playlist?list=PLj_QbToz3dk5M4Nsc-sGfu_L3GFQc6Hs9)
+- :speaker: __To Do__: 
+    + 
+
+
+-----   
