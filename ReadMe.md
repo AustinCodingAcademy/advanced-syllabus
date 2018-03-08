@@ -540,13 +540,13 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
-## <a name="npm"></a> NPM
+## <a name="npm"></a> npm
 
 - :paperclip: __Topics__: npm. 
 - :file_folder: __Notes__:
     + [What is NPM](https://docs.google.com/presentation/d/1X2hFMU0qDRTNkaJzZsPiqbf2iGGJcMdgAkIDvyEL-5w/edit#slide=id.p)
 - :book: __Reading__:
-    + [Node](https://docs.npmjs.com/getting-started/what-is-npm)
+    + [npm](https://docs.npmjs.com/getting-started/what-is-npm)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [npmjs.com](https://www.npmjs.com/)
