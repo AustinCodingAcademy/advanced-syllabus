@@ -529,7 +529,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :file_folder: __Notes__:
     + [What is NodeJS](https://docs.google.com/presentation/d/1t3O38JqLdG27LsHeKhdyBoNCTKCXcWwpe3Dn7hYQflE/edit#slide=id.p)
 - :book: __Reading__:
-    + 
+    + [Node](https://en.wikipedia.org/wiki/Node.js)
 - :microscope: __Lab__:
     + [Project](https://github.com/AustinCodingAcademy/performance-tuning)
 - :newspaper: __Misc__:
