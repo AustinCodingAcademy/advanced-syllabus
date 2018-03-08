@@ -553,7 +553,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :newspaper: __Misc__:
     + [Node Source Code](https://github.com/nodejs/node)
 - :video_camera: __Videos__
-     + [Playlist](https://www.youtube.com/playlist?list=PLj_QbToz3dk5M4Nsc-sGfu_L3GFQc6Hs9)
+     + [NPM](https://youtu.be/x03fjb2VlGY)
 - :speaker: __To Do__: 
     + 
 
