@@ -531,7 +531,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
     + [Node](https://en.wikipedia.org/wiki/Node.js)
 - :microscope: __Lab__:
-    + [Project](https://github.com/AustinCodingAcademy/performance-tuning)
 - :newspaper: __Misc__:
     + [Node Source Code](https://github.com/nodejs/node)
 - :video_camera: __Videos__
@@ -549,9 +548,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :book: __Reading__:
     + [Node](https://docs.npmjs.com/getting-started/what-is-npm)
 - :microscope: __Lab__:
-    + [Project](https://github.com/AustinCodingAcademy/performance-tuning)
 - :newspaper: __Misc__:
-    + [Node Source Code](https://github.com/nodejs/node)
+    + [npmjs.com](https://www.npmjs.com/)
 - :video_camera: __Videos__
      + [NPM](https://youtu.be/x03fjb2VlGY)
 - :speaker: __To Do__: 
