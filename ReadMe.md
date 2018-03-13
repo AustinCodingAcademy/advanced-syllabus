@@ -564,6 +564,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [What is NPM](https://docs.google.com/presentation/d/1X2hFMU0qDRTNkaJzZsPiqbf2iGGJcMdgAkIDvyEL-5w/edit#slide=id.p)
 - :book: __Reading__:
     + [npm](https://docs.npmjs.com/getting-started/what-is-npm)
+    + [folders](https://docs.npmjs.com/files/folders)
+    + [package.json](https://docs.npmjs.com/files/package.json)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [npmjs.com](https://www.npmjs.com/)
