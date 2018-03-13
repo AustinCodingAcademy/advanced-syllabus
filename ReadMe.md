@@ -21,6 +21,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
     + [npm](#npm)
+    + [nodejs](#nodejs)
 - :book: __Reading__:
     + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
     + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
