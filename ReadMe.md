@@ -10,18 +10,34 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Express MVC ](#day15) |[Day 20. Heroku](#day20)
 
 
-
-
 ## <a name="day1"></a> Day 1. Intro
-* 6:30 - 7:00 [Let's discuss what this class is all about](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
-* Discuss where we left off last class
-* 7:00 - 7:30 [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
-* 7:30 - 8:00 [Make sure our computers are setup properly](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
+
+- :paperclip: __Topics__: Why does this class exist. What will we learn.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
+    + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
+    + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
+    + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
+    + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
+    + [yarn](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
+- :book: __Reading__:
+    + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
+    + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
+    + [Children components](https://stackblitz.com/edit/react-kvzfvz)
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/_hmmh6mcebw)
+    + [Demo 2](https://youtu.be/TP-BqSxPHUc)
+- :speaker: __To Do__: 
+    + NodeJS
+    + npm
+    + Fork clone and install
+    + [Testing project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
+
+-----  
+
 * Do we remember how to fork, clone and install.
 * What does npm install actually do?
-* 8:00 - 8:30 [Go over reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
-* 8:30 - 9:00 [Testing project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
-* [yarn](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
+
 * Homework
   * Build the filter, find and map functions and build tests for them
   * Re watch class recording
