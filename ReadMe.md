@@ -20,7 +20,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
-    + [yarn](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
+    + [npm](#npm)
 - :book: __Reading__:
     + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
     + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
@@ -562,6 +562,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :paperclip: __Topics__: npm. 
 - :file_folder: __Notes__:
     + [What is NPM](https://docs.google.com/presentation/d/1X2hFMU0qDRTNkaJzZsPiqbf2iGGJcMdgAkIDvyEL-5w/edit#slide=id.p)
+    + [Step by Step](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
 - :book: __Reading__:
     + [npm](https://docs.npmjs.com/getting-started/what-is-npm)
     + [folders](https://docs.npmjs.com/files/folders)
