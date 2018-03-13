@@ -15,6 +15,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :paperclip: __Topics__: Why does this class exist. What will we learn.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
+    + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
     + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
