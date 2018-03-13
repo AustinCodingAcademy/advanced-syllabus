@@ -423,7 +423,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
+    + [Notes](https://gist.github.com/jw56578/7a7d69f30474ed7c998935f0ecd45d8f)
     + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 - :book: __Reading__:
     + [MongooseJS](http://mongoosejs.com/docs/guide.html)
