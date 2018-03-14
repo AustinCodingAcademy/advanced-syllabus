@@ -538,7 +538,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----   
 ## <a name="nodejs"></a> NodeJS
 
-- :paperclip: __Topics__: NodeJS. npm. 
+- :paperclip: __Topics__: NodeJS. What is it and why do we use it. 
 - :file_folder: __Notes__:
     + [What is NodeJS](https://docs.google.com/presentation/d/1t3O38JqLdG27LsHeKhdyBoNCTKCXcWwpe3Dn7hYQflE/edit#slide=id.p)
 - :book: __Reading__:
@@ -555,7 +555,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----   
 ## <a name="npm"></a> npm
 
-- :paperclip: __Topics__: npm. 
+- :paperclip: __Topics__: npm. What is a package. What is a manager of packages.
 - :file_folder: __Notes__:
     + [What is NPM](https://docs.google.com/presentation/d/1X2hFMU0qDRTNkaJzZsPiqbf2iGGJcMdgAkIDvyEL-5w/edit#slide=id.p)
     + [Step by Step](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
