@@ -20,15 +20,10 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
-    + [npm](#npm)
     + [nodejs](#nodejs)
-- :book: __Reading__:
-    + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
-    + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
-    + [Children components](https://stackblitz.com/edit/react-kvzfvz)
-- :video_camera: __Videos__
-    + [Demo 1](https://youtu.be/_hmmh6mcebw)
-    + [Demo 2](https://youtu.be/TP-BqSxPHUc)
+    + [npm](#npm)
+   
+
 - :speaker: __To Do__: 
     + NodeJS
     + npm
