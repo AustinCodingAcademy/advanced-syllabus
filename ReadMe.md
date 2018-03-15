@@ -22,13 +22,14 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
     + [nodejs](#nodejs)
     + [npm](#npm)
-   
-
+ 
+- :book: __Reading__:
+    + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
+    + [Trust the Process](https://simpleprogrammer.com/trust-the-process/)
+    + [How to Ask Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
+    + [Communicationn](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
 - :speaker: __To Do__: 
-    + NodeJS
-    + npm
-    + Fork clone and install
-    + [Testing project](https://github.com/AustinCodingAcademy/advanced-testing-practice)
+    
 
 -----  
 
