@@ -545,6 +545,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [What is NodeJS](https://docs.google.com/presentation/d/1t3O38JqLdG27LsHeKhdyBoNCTKCXcWwpe3Dn7hYQflE/edit#slide=id.p)
 - :book: __Reading__:
     + [Node](https://en.wikipedia.org/wiki/Node.js)
+    + [Node Docs](https://nodejs.org/api/)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [Node Source Code](https://github.com/nodejs/node)
