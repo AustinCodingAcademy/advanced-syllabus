@@ -576,7 +576,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
-## <a name="learning"></a> Larning how to learn.
+## <a name="learning"></a> Learning how to learn.
 
 - :paperclip: __Topics__: How do you learn things. 
 - :file_folder: __Notes__:
