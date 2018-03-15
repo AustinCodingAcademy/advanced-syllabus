@@ -17,6 +17,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
     + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
     + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
+    + [Learning](#learning)
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
@@ -574,13 +575,13 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
-## <a name="npm"></a> Larning how to learn.
+## <a name="learning"></a> Larning how to learn.
 
 - :paperclip: __Topics__: How do you learn things. 
 - :file_folder: __Notes__:
     + [Learning](https://docs.google.com/presentation/d/1L80F3es3yYsi1s9XgNmKl4WafvBjDyuHfhL3f_-56vw/edit#slide=id.p)
 - :book: __Reading__:
-    + [
+    + 
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + 
