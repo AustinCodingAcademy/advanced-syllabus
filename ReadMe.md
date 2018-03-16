@@ -595,15 +595,16 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----   
 ## <a name="reacttesting"></a> React Testing
 
-- :paperclip: __Topics__: How do you test React. What is enzyme.
+- :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
     + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
     + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
 - :book: __Reading__:
-    + 
+    + [Jest Docs](https://facebook.github.io/jest/))
+    + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
-    + [Jest](https://facebook.github.io/jest/)
+    + [Jest](https://github.com/facebook/jest)
     + [Enzyme](https://github.com/airbnb/enzyme)
     + [Jest npm](https://www.npmjs.com/package/jest)
     + [Enzyme npm](https://www.npmjs.com/package/enzyme)
