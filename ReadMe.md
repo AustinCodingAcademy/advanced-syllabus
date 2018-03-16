@@ -576,11 +576,29 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
-## <a name="learning"></a> Learning how to learn.
+## <a name="learning"></a> Learning how to learn
 
 - :paperclip: __Topics__: How do you learn things. 
 - :file_folder: __Notes__:
     + [Learning](https://docs.google.com/presentation/d/1L80F3es3yYsi1s9XgNmKl4WafvBjDyuHfhL3f_-56vw/edit#slide=id.p)
+- :book: __Reading__:
+    + 
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+    + 
+- :video_camera: __Videos__
+     + 
+- :speaker: __To Do__: 
+    + 
+
+
+-----   
+## <a name="reacttesting"></a> React Testing
+
+- :paperclip: __Topics__: How do you test React. What is enzyme.
+- :file_folder: __Notes__:
+    + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
+    + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
 - :book: __Reading__:
     + 
 - :microscope: __Lab__:
