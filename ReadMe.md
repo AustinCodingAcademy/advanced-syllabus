@@ -622,11 +622,10 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :file_folder: __Notes__:
     + Resume 
 - :book: __Reading__:
-    + [Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
-
+    +[Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
-     + [Example Cover Letter](https://docs.google.com/document/d/14gYRuEwkiab7c9JDmh3l32NxfrtzKrteOQ17Mdf6IzY/edit)
+     +[Example Cover Letter](https://docs.google.com/document/d/14gYRuEwkiab7c9JDmh3l32NxfrtzKrteOQ17Mdf6IzY/edit)
 - :video_camera: __Videos__
      + 
 - :speaker: __To Do__: 
