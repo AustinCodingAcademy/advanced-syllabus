@@ -602,7 +602,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
     + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
 - :book: __Reading__:
-    + [Jest Docs](https://facebook.github.io/jest/))
+    + [Jest Docs](https://facebook.github.io/jest/)
     + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
@@ -614,6 +614,23 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + 
 - :speaker: __To Do__: 
     + [Testing Practice](https://github.com/AustinCodingAcademy/advanced-testing-practice)
+-----   
+
+## <a name="interviewprep"></a> Career Readiness / Interview Prep
+
+- :paperclip: __Topics__: What do you need to do to prepare for an interview. What should be on your resume. 
+- :file_folder: __Notes__:
+    + Resume 
+- :book: __Reading__:
+    + [Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
+
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+   
+- :video_camera: __Videos__
+     + 
+- :speaker: __To Do__: 
+    + 
 
 
 -----   
