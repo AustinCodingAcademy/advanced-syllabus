@@ -501,7 +501,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + Lab
 
 
-
 -----   
 ## <a name="extras"></a> Mobile Dev
 
@@ -509,6 +508,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :file_folder: __Notes__:
     + [iOS Quick Start](https://docs.google.com/presentation/d/1jQh9OujlUeyFXuDYntiVfE2PNri-vrZJsJPdC5xJmWo/edit#slide=id.p)
     + [React Native Repl](https://gist.github.com/jw56578/db7269742d42182fd79980f7f98dd3ad)
+- :book: __Reading__:
+    + (What About Windows)[
+https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS748US748&oq=what+happened+to+windows+mobile&aqs=chrome.0.69i59j0l5.6109j0j7&sourceid=chrome&ie=UTF-8]
 - :microscope: __Lab__:
     + [React Native Repl Example](https://repl.it/@jw56578/SpringgreenSurprisedAutoexec)
 
