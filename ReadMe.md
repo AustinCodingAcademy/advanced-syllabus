@@ -603,11 +603,14 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + 
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
-    + 
+    + [Jest](https://facebook.github.io/jest/)
+    + [Enzyme](https://github.com/airbnb/enzyme)
+    + [Jest npm](https://www.npmjs.com/package/jest)
+    + [Enzyme npm](https://www.npmjs.com/package/enzyme)
 - :video_camera: __Videos__
      + 
 - :speaker: __To Do__: 
-    + 
+    + [Testing Practice](https://github.com/AustinCodingAcademy/advanced-testing-practice)
 
 
 -----   
