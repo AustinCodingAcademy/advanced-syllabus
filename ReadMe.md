@@ -623,6 +623,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + Resume 
 - :book: __Reading__:
     + [Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
+    + [Cracking the Code Interview](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
      + [Example Cover Letter](https://docs.google.com/document/d/14gYRuEwkiab7c9JDmh3l32NxfrtzKrteOQ17Mdf6IzY/edit)
