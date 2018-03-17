@@ -22,7 +22,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
     + [nodejs](#nodejs)
     + [npm](#npm)
- 
 - :book: __Reading__:
     + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
     + [Trust the Process](https://simpleprogrammer.com/trust-the-process/)
@@ -30,8 +29,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Communicationn](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
 - :newspaper: __Misc__:
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
-    
-
 -----  
 
 * Do we remember how to fork, clone and install.
