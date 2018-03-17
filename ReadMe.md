@@ -14,7 +14,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 - :paperclip: __Topics__: Why does this class exist. What will we learn.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
     + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
     + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
     + [Learning](#learning)
@@ -29,7 +28,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Trust the Process](https://simpleprogrammer.com/trust-the-process/)
     + [How to Ask Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
     + [Communicationn](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
-- :speaker: __To Do__: 
+- :newspaper: __Misc__:
+    + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
     
 
 -----  
