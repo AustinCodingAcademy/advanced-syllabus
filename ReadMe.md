@@ -625,6 +625,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
     + [Cracking the Code Interview](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf
     + [How to win friends and influence people](http://images.kw.com/docs/2/1/2/212345/1285134779158_htwfaip.pdf)
+    + [Communication Principles](http://www.csus.edu/indiv/l/luenemannu/pdf/communicationprinciples.pdf)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
      + [Cover Letter Suggestions](https://docs.google.com/document/d/14gYRuEwkiab7c9JDmh3l32NxfrtzKrteOQ17Mdf6IzY/edit)
