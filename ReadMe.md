@@ -620,7 +620,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 
 - :paperclip: __Topics__: What do you need to do to prepare for an interview. What should be on your resume. 
 - :file_folder: __Notes__:
-    + Resume 
+    + [Finding a Job](https://docs.google.com/presentation/d/1yPtZPzzKZAnjbDbUA02WJ_dIgAF3okGAVNMoq5pJ03c/edit#slide=id.p) 
 - :book: __Reading__:
     + [Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
     + [Cracking the Code Interview](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf
