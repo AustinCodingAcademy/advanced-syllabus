@@ -440,7 +440,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :file_folder: __Notes__:
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
     + [Token Analogy](https://docs.google.com/presentation/d/1qp8uO3T1cNKLREEgowX0O_AM92s-vxjpQvk3y61LdHg/edit#slide=id.p)
-    + [Checklist](https://docs.google.com/presentation/d/1AG2_APs_1cUkLBWfHOiH_VqIO5Sde0navRRPV3m-rr0/edit#slide=id.p)
     + [Step By Step](https://docs.google.com/presentation/d/12weMwELlm42291krJE4Caf7tp0aE9soc6ShMgJEtCWM/edit#slide=id.p)
 - :book: __Reading__:
     + [hashing](https://en.wikipedia.org/wiki/Hash_function)
