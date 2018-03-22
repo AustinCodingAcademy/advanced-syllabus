@@ -35,13 +35,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 * What does npm install actually do?
 
 * Homework
-  * Build the filter, find and map functions and build tests for them
-  * Re watch class recording
-  * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
-  * [Video 1 - Intro to React 1](https://youtu.be/2_NrCK2SLvI)
-  * [Video 2 - Intro to React 2](https://youtu.be/aChUw9WyP6w)
-  * [Video 3 - Intro to React 3](https://youtu.be/CdCYk1WtqYE)
-  * [Video 4 - React and Map](https://youtu.be/t-diOQsLLsI)
+
+
   * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 
 ## <a name="day2"></a> Day 2. Testing
@@ -63,13 +58,31 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
   * Homework
      * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
 
+
 ## <a name="day4"></a> Day 4. React
-* [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
-* [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-* [Review Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
-* [Review Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
-* [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
-* [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
+- :paperclip: __Topics__: React
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
+    + [React Step by Step](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p) (Slides)
+- :book: __Reading__:
+    + 
+- :microscope: __Lab__:
+    + [Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
+- :newspaper: __Misc__:
+    + [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+    + [React npm](https://www.npmjs.com/package/react)
+- :video_camera: __Videos__
+    + [Video 1 - Intro to React 1](https://youtu.be/2_NrCK2SLvI)
+    + [Video 2 - Intro to React 2](https://youtu.be/aChUw9WyP6w)
+    + [Video 3 - Intro to React 3](https://youtu.be/CdCYk1WtqYE)
+    + [Video 4 - React and Map](https://youtu.be/t-diOQsLLsI)
+- :bulb: __Cheat sheet__: 
+    + [React](https://devhints.io/react)
+- :speaker: __To Do__: 
+    + [Review Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
+    + [Review Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
+    + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
+    + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 
 
 ## <a name="day5"></a> Day 5. More React
