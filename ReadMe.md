@@ -28,7 +28,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [How to Ask Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
     + [Communicationn](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
 - :newspaper: __Misc__:
+    + [VS Code](https://code.visualstudio.com/)
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+    
 -----  
 
 * Do we remember how to fork, clone and install.
