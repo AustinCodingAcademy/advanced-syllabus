@@ -530,6 +530,20 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 
 -----   
    
+## <a name="codingchallenges"></a> Coding Challenges
+
+- :paperclip: __Topics__: How do you think through and solve coding challenges.
+- :file_folder: __Notes__:
+    + [Coding Challenge 1](https://docs.google.com/presentation/d/1dU4Feth_mFxCLwccWcpsk83PA41Y2JijNIUxuwaqoQk/edit#slide=id.p)
+- :book: __Reading__:
+    + 
+- :video_camera: __Videos__
+     + 
+
+
+
+-----   
+   
 ## <a name="extras"></a> HTTPS
 
 - :paperclip: __Topics__: The S in httpS. Public key encryption.
