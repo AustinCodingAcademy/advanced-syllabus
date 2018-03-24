@@ -523,7 +523,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [What About Windows](
 https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS748US748&oq=what+happened+to+windows+mobile&aqs=chrome.0.69i59j0l5.6109j0j7&sourceid=chrome&ie=UTF-8)
 - :video_camera: __Videos__
-     + [Install for OSX](https://youtu.be/do8OttBpHEU)
+     + [React Native Install for OSX](https://youtu.be/do8OttBpHEU)
 - :microscope: __Lab__:
     + [React Native Repl Example](https://repl.it/@jw56578/SpringgreenSurprisedAutoexec)
 
