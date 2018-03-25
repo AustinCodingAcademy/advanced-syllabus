@@ -30,6 +30,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :newspaper: __Misc__:
     + [VS Code](https://code.visualstudio.com/)
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+    + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
     
 -----  
 
