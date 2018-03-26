@@ -69,7 +69,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [React Step by Step](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p) (Slides)
 - :book: __Reading__:
     + [Why React](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
-- :microscope: _https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76_Lab__:
+- :microscope: __Lab__:
     + [Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 - :newspaper: __Misc__:
     + [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
