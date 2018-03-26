@@ -68,8 +68,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
     + [React Step by Step](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p) (Slides)
 - :book: __Reading__:
-    + 
-- :microscope: __Lab__:
+    + [Why React](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
+- :microscope: _https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76_Lab__:
     + [Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
 - :newspaper: __Misc__:
     + [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
@@ -79,6 +79,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Video 2 - Intro to React 2](https://youtu.be/aChUw9WyP6w)
     + [Video 3 - Intro to React 3](https://youtu.be/CdCYk1WtqYE)
     + [Video 4 - React and Map](https://youtu.be/t-diOQsLLsI)
+    + [React Tic Tac Toe](https://youtu.be/pTHCwUdGFkc)
 - :bulb: __Cheat sheet__: 
     + [React](https://devhints.io/react)
 - :speaker: __To Do__: 
@@ -86,6 +87,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Review Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
     + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
+
+
 
 
 ## <a name="day5"></a> Day 5. More React
