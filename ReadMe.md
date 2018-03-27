@@ -30,31 +30,22 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
     + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
 - :speaker: __To Do__: 
-   
-    
-    
+
 -----  
-
-
-
 ## <a name="day2"></a> Day 2. Software Systems
-
 - :paperclip: __Topics__: What tools are we using to build a software system.
 - :file_folder: __Notes__:
      + Software systems slides
      + [nodejs](#nodejs)
      + [npm](#npm)
-     + [eCommerce](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p) (Slides)
+     + [eCommerce](#eCommerce)
 - :book: __Reading__:
 - :newspaper: __Misc__:
 - :speaker: __To Do__: 
     + Sign up for npmjs.com 
     + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
     
------  
-
-
-
+----- 
 ## <a name="day3"></a> Day 3. Modules
   * Demo Twitter Clone
   * 6:30 - 7:00 [Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
@@ -673,7 +664,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + 
 ----- 
 
-## <a name="reacttesting"></a> Build an eCommerce Site
+## <a name="eCommerce"></a> Build an eCommerce Site
 
 - :paperclip: __Topics__: Let's build an ecommerce site from scratch
 - :file_folder: __Notes__:
