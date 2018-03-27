@@ -31,6 +31,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [VS Code](https://code.visualstudio.com/)
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
     + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
+- :speaker: __To Do__: 
+    + Sign up for npmjs.com
+    
     
 -----  
 
