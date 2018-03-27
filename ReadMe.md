@@ -44,10 +44,12 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
      + Software systems slides
      + [nodejs](#nodejs)
      + [npm](#npm)
+     + [eCommerce](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p) (Slides)
 - :book: __Reading__:
 - :newspaper: __Misc__:
 - :speaker: __To Do__: 
     + Sign up for npmjs.com 
+    
 -----  
 
 
