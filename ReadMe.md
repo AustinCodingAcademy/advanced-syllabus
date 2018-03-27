@@ -10,7 +10,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Express MVC ](#day15) |[Day 20. Heroku](#day20)
 
 
-## <a name="day1"></a> Day 1. Intro
+## <a name="day1"></a> Day 1. Introduction to Class
 
 - :paperclip: __Topics__: Why does this class exist. What will we learn.
 - :file_folder: __Notes__:
@@ -20,8 +20,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
-    + [nodejs](#nodejs)
-    + [npm](#npm)
 - :book: __Reading__:
     + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
     + [Trust the Process](https://simpleprogrammer.com/trust-the-process/)
@@ -32,29 +30,31 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
     + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
 - :speaker: __To Do__: 
+   
+    
+    
+-----  
+
+
+
+## <a name="day2"></a> Day 2. Software Systems
+
+- :paperclip: __Topics__: Why does this class exist. What will we learn.
+- :file_folder: __Notes__:
+     + Software systems slides
+     + [nodejs](#nodejs)
+     + [npm](#npm)
+- :book: __Reading__:
+
+- :newspaper: __Misc__:
+
+- :speaker: __To Do__: 
     + Sign up for npmjs.com
     
     
 -----  
 
-* Do we remember how to fork, clone and install.
-* What does npm install actually do?
 
-* Homework
-
-
-  * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
-
-## <a name="day2"></a> Day 2. Testing
-  * Go back over testing project. Run through one of the functions. Discuss the point of these functions.
-  * Discuss undefined error and understanding errors in general.
-  * Go over pull request.
-  * [React Slides](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p)
-  * [In class project - Twitter Clone](https://github.com/AustinCodingAcademy/advanced-twitter-clone)
-  * Homework
-    * [Module Slides](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
-    * [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
-    * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 
 ## <a name="day3"></a> Day 3. Modules
   * Demo Twitter Clone
@@ -63,7 +63,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
   * Review homework project for this week.
   * Homework
      * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
-
+     * [Module Slides](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
+     * [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
+     * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 
 ## <a name="day4"></a> Day 4. React
 - :paperclip: __Topics__: React
