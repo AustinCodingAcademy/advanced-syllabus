@@ -45,13 +45,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
      + [nodejs](#nodejs)
      + [npm](#npm)
 - :book: __Reading__:
-
 - :newspaper: __Misc__:
-
 - :speaker: __To Do__: 
-    + Sign up for npmjs.com
-    
-    
+    + Sign up for npmjs.com 
 -----  
 
 
