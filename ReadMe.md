@@ -671,6 +671,14 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + 
 - :speaker: __To Do__: 
     + 
+----- 
 
+## <a name="reacttesting"></a> Build an eCommerce Site
+
+- :paperclip: __Topics__: Let's build an ecommerce site from scratch
+- :file_folder: __Notes__:
+    + [Step by Step](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p)
+- :newspaper: __Misc__:
+    + [ACA Inventory](https://docs.google.com/spreadsheets/d/1WqUXFDqjWaS9hbIWnzGzNwAVhxHJM--4HbVb-O0lNDk/edit#gid=0)
 
 -----   
