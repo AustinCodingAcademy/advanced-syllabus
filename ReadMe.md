@@ -30,6 +30,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
     + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
 - :speaker: __To Do__: 
+    + [Gist Bio](https://gist.github.com/jw56578/c7c949c451e83e19327c091f99994163)
 
 -----  
 ## <a name="day2"></a> Day 2. Software Systems
