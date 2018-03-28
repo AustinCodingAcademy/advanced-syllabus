@@ -51,11 +51,15 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 ## <a name="day3"></a> Day 3. Modules
 - :file_folder: __Notes__:
      + [Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)(slides)
+     + [Node Modules]
+     + [ES6 Modules]
+- :book: __Reading__:
+     + [Node Modules](https://nodejs.org/docs/latest/api/modules.html)
 - :video_camera: __Videos__
      + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
 - :speaker: __To Do__: 
      + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
-    
+
 ----- 
 ## <a name="day4"></a> Day 4. React
 - :paperclip: __Topics__: React
