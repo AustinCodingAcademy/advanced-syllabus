@@ -476,31 +476,21 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :speaker: __To Do__: 
     + [Authentication Starter Project](https://github.com/AustinCodingAcademy/advanced-authentication-starter)
 
-
+-----  
 
 ## <a name="day19"></a> Day 19. Misc
-- :paperclip: __Topics__: HTTPS, Mobile, Performance
-- :file_folder: __Notes__:
-    + 
-- :book: __Reading__:
-    + 
-- :microscope: __Lab__:
-    + 
-- :newspaper: __Misc__:
-    + [Survey](https://goo.gl/forms/uyCxIoLnCkreLb2L2)
-- :video_camera: __Videos__
-- :bulb: __Cheat sheet__: 
-    + 
-- :speaker: __To Do__: 
+- :paperclip: __Topics__: 
+     + [HTTPS](#https)
+     + [Mobile](#mobile)
+     + [Performance](#performance)
+     + [Coding Challenges](#codingchallenges)
 
-
-
-
-
+-----  
 ## <a name="day20"></a> Day 20. Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
+    + [Survey](https://goo.gl/forms/uyCxIoLnCkreLb2L2)
     + [Setup](https://docs.google.com/presentation/d/1DkMr5yVVzLi2tMhCQ_kMyuSGNvbtSmHkqKW4c4SuajQ/edit#slide=id.p)
 - :book: __Reading__:
     + 
@@ -508,6 +498,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + 
 - :newspaper: __Misc__:
     + [Heroku Dashboard](https://dashboard.heroku.com/apps)
+    
 - :video_camera: __Videos__
      + [Demo](https://youtu.be/6c8xj-K0vK8)
 - :bulb: __Cheat sheet__: 
@@ -517,7 +508,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 -----   
-## <a name="extras"></a> Mobile Dev
+## <a name="mobile"></a> Mobile Dev
 
 - :paperclip: __Topics__: Make an app for iOS. Make an app for React Native
 - :file_folder: __Notes__:
@@ -550,7 +541,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 
 -----   
    
-## <a name="extras"></a> HTTPS
+## <a name="https"></a> HTTPS
 
 - :paperclip: __Topics__: The S in httpS. Public key encryption.
 - :file_folder: __Notes__:
@@ -562,7 +553,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 
 
 -----   
-## <a name="extras"></a> Performance Tuning
+## <a name="performance"></a> Performance Tuning
 
 - :paperclip: __Topics__: Let's make it fast.
 - :file_folder: __Notes__:
