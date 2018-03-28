@@ -35,7 +35,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 ## <a name="day2"></a> Day 2. Software Systems
 - :paperclip: __Topics__: What tools are we using to build a software system.
 - :file_folder: __Notes__:
-     + Software systems slides
+     + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
      + [nodejs](#nodejs)
      + [npm](#npm)
      + [eCommerce](#eCommerce)
