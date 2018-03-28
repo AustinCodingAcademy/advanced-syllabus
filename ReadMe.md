@@ -521,6 +521,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [snack.expo.io](https://snack.expo.io)
 - :video_camera: __Videos__
      + [React Native Install for OSX](https://youtu.be/do8OttBpHEU)
+     + [React Native CS50](https://www.youtube.com/watch?v=X52b-8y2Hf4&list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 - :microscope: __Lab__:
     + [React Native Repl Example](https://repl.it/@jw56578/SpringgreenSurprisedAutoexec)
 
