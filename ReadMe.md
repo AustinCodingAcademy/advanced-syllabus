@@ -47,17 +47,16 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
     
 ----- 
-## <a name="day3"></a> Day 3. Modules
-  * Demo Twitter Clone
-  * 6:30 - 7:00 [Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
-  * 7:00 - 7:30 [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
-  * Review homework project for this week.
-  * Homework
-     * [eCommerce Website](https://github.com/austincodingacademy/advanced-homework-1)
-     * [Module Slides](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
-     * [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
-     * [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 
+## <a name="day3"></a> Day 3. Modules
+- :file_folder: __Notes__:
+     + [Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)(slides)
+- :video_camera: __Videos__
+     + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
+- :speaker: __To Do__: 
+     + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
+    
+----- 
 ## <a name="day4"></a> Day 4. React
 - :paperclip: __Topics__: React
 - :file_folder: __Notes__:
