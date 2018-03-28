@@ -663,6 +663,8 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + [Example Cover Letter](http://www.coverletter.us/software-engineer-cover-letter/)
      + [json resume](https://jsonresume.org/themes/)
      + [Job Scan](https://www.jobscan.co)
+     + [fiverr](https://www.fiverr.com/)
+     + [peopleperhour](https://www.peopleperhour.com/)
 - :video_camera: __Videos__
      + 
 - :speaker: __To Do__: 
