@@ -609,11 +609,12 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 
 
 -----   
-## <a name="reacttesting"></a> React Testing
+## <a name="reacttesting"></a> Testing
 
 - :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
     + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
+    + [Testing Step by Step](https://docs.google.com/presentation/d/1oIFt5YJiXsuHx0gidoR1ainqMgpgSeBLjTT2LzOJQak/edit#slide=id.p)
     + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
 - :book: __Reading__:
     + [Jest Docs](https://facebook.github.io/jest/)
