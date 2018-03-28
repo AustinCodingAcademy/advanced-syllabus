@@ -492,21 +492,10 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
     + [Survey](https://goo.gl/forms/uyCxIoLnCkreLb2L2)
     + [Setup](https://docs.google.com/presentation/d/1DkMr5yVVzLi2tMhCQ_kMyuSGNvbtSmHkqKW4c4SuajQ/edit#slide=id.p)
-- :book: __Reading__:
-    + 
-- :microscope: __Lab__:
-    + 
 - :newspaper: __Misc__:
     + [Heroku Dashboard](https://dashboard.heroku.com/apps)
-    
 - :video_camera: __Videos__
      + [Demo](https://youtu.be/6c8xj-K0vK8)
-- :bulb: __Cheat sheet__: 
-    + 
-- :speaker: __To Do__: 
-    + Lab
-
-
 -----   
 ## <a name="mobile"></a> Mobile Dev
 
