@@ -3,15 +3,14 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Work Day](#day6) | [Day 11. Debugging ](#day11) |[Day 16. MongoDB](#day16)
-| [Day 2. Software Systems](#day2)| [Day 7. Redux](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. Mongoose ](#day17)
-| [Day 3. Modules](#day3) | [Day 8. Redux Actions](#day8)       |    [Day 13. Creating A Server with Express ](#day13) |[Day 18. Authentication](#day18)
-| [Day 4. React](#day4) | [Day 9. React and Fetch](#day9)       |    [Day 14. Creating A Server with Express II](#day14) |[Day 19. Misc](#day19)
-| [Day 5. More React](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Express MVC ](#day15) |[Day 20. Heroku](#day20)
+| [Day 1. Intro](#day1)      | [Day 6. Server II](#day6) | [Day 11. Debugging ](#day11) |[Day 16. MongoDB](#day16)
+| [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. Mongoose ](#day17)
+| [Day 3. Modules](#day3) | [Day 8. MongoDB](#day8)       |    [Day 13. Creating A Server with Express ](#day13) |[Day 18. Authentication](#day18)
+| [Day 4. Debuggin](#day4) | [Day 9. Mongoose](#day9)       |    [Day 14. Creating A Server with Express II](#day14) |[Day 19. Misc](#day19)
+| [Day 5. Server I](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Express MVC ](#day15) |[Day 20. Heroku](#day20)
 
 
 ## <a name="day1"></a> Day 1. Introduction to Class
-
 - :paperclip: __Topics__: Why does this class exist. What will we learn.
 - :file_folder: __Notes__:
     + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
@@ -31,8 +30,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
 - :speaker: __To Do__: 
     + [Gist Bio](https://gist.github.com/jw56578/c7c949c451e83e19327c091f99994163)
-
 -----  
+
 ## <a name="day2"></a> Day 2. Software Systems
 - :paperclip: __Topics__: What tools are we using to build a software system.
 - :file_folder: __Notes__:
@@ -46,7 +45,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + Sign up for npmjs.com 
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
     + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
-    
 ----- 
 
 ## <a name="day3"></a> Day 3. Modules
@@ -60,11 +58,9 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
      + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
 - :speaker: __To Do__: 
      + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
-
 ----- 
 
-## <a name="reacttesting"></a> Testing
-
+## <a name="day4"></a> Day 4. Testing
 - :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
     + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
@@ -85,7 +81,164 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Testing Practice](https://github.com/AustinCodingAcademy/advanced-testing-practice)
 -----   
 
-## <a name="day4"></a> Day 4. React
+## <a name="day5"></a> Day 5. Debugging
+- :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
+    + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
+- :book: __Reading__:
+    + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+    + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
+    + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
+    + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+- :video_camera: __Videos__
+    + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
+    + [Tutorial](https://youtu.be/x4q86IjJFag)
+    + [Class Video](https://youtu.be/d7Qo067JbOc)
+- :microscope: __Lab__:
+    + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
+    + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
+    + Debug redux action practice
+    + Search All files
+    + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
+- :speaker: __To Do__: 
+-----  
+
+## <a name="day6"></a> Day 16. Creating a Server
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
+    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
+    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
+- :book: __Reading__:
+    + [Express](https://expressjs.com/)
+    + [use](http://expressjs.com/en/api.html#app.use)
+    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
+- :microscope: __Lab__:
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+- :newspaper: __Misc__:
+    + [Express npm](https://www.npmjs.com/package/express)
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
+    + [REST](https://youtu.be/7YcW25PHnAA)
+- :bulb: __Cheat sheet__: 
+    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
+- :speaker: __To Do__: 
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+-----  
+  
+## <a name="day7"></a> Day 7. Creating a Server II
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
+    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
+    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
+    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
+- :book: __Reading__:
+    + [Express](https://expressjs.com/)
+    + [use](http://expressjs.com/en/api.html#app.use)
+    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
+- :microscope: __Lab__:
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
+- :newspaper: __Misc__:
+    + [Express npm](https://www.npmjs.com/package/express)
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
+    + [REST](https://youtu.be/7YcW25PHnAA)
+- :bulb: __Cheat sheet__: 
+    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
+- :speaker: __To Do__: 
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+-----  
+  
+    
+## <a name="day8"></a> Day 8. MVC
+- :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/91835f18580364fb1c3755230fe040b0)
+    + [MVC](https://docs.google.com/presentation/d/1XNYD0XU26a8zCApeiXvoUnJdY_Ur5A_9WOTxUQuq5QY/edit#slide=id.p)
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+    + [Express Checklist Controllers](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.g2ad7342cfc_0_34)
+- :book: __Reading__:
+    + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+    + [MVC Analogy](https://medium.freecodecamp.org/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053)
+    + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+    + [MIWMIRMIF](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+- :microscope: __Lab__:
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice) 
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
+- :newspaper: __Misc__:
+    + 
+- :video_camera: __Videos__
+     + [MVC](https://www.youtube.com/results?search_query=mvc)
+- :bulb: __Cheat sheet__: 
+    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4) 
+- :speaker: __To Do__: 
+    + Express Practice Part 2,3 and 4
+    + [Sign up for MLab](https://mlab.com/)
+-----   
+
+## <a name="day9"></a> Day 9. Database with Mongo DB
+- :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
+    + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec) (slides)
+    + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
+- :book: __Reading__:
+    + [Why databases](http://www.softwaretestingclass.com/what-is-database-and-why-do-we-need-them/)
+    + [Mongodb.com](https://www.mongodb.com/)
+    + [Document databases](https://en.wikipedia.org/wiki/Document-oriented_database)
+- :microscope: __Lab__:
+    + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
+- :newspaper: __Misc__:
+    + [MLab](https://mlab.com/)
+    + [Install Robo 3T](https://robomongo.org/)
+    + [DB vs File System](https://youtu.be/5t0Y13AkWgc)
+- :video_camera: __Videos__
+     + [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
+     + [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
+     + [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
+- :bulb: __Cheat sheet__: 
+    + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
+- :speaker: __To Do__: 
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+
+
+-----   
+## <a name="day10"></a> Day 10. Mongoose
+- :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/7a7d69f30474ed7c998935f0ecd45d8f)
+    + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
+- :book: __Reading__:
+    + [MongooseJS](http://mongoosejs.com/docs/guide.html)
+- :newspaper: __Misc__:
+    + [Mongoose](https://www.npmjs.com/package/mongoose)
+- :video_camera: __Videos__
+- :bulb: __Cheat sheet__: 
+    + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
+- :speaker: __To Do__: 
+    + [Express Practice Part 5](https://github.com/AustinCodingAcademy/advanced-express-practice)
+
+-----   
+  
+## <a name="react"></a>  React
 - :paperclip: __Topics__: React
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
@@ -114,7 +267,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-## <a name="day5"></a> Day 5. More React
+## <a name="react2"></a> More React
 * [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
 * [React Component Communication](https://docs.google.com/presentation/d/1EAQuqmmqVDZd5eH-27DNWc1HJF1WX8-gnSZ7hF_TOt8/edit#slide=id.p)
 * [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
@@ -258,31 +411,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :speaker: __To Do__: 
     + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 
------  
-
-## <a name="day11"></a> Day 11. Debugging
-
-- :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
-    + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
-- :book: __Reading__:
-    + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
-    + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
-    + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
-    + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-- :video_camera: __Videos__
-    + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
-    + [Tutorial](https://youtu.be/x4q86IjJFag)
-    + [Class Video](https://youtu.be/d7Qo067JbOc)
-- :microscope: __Lab__:
-    + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
-    + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
-    + Debug redux action practice
-    + Search All files
-    + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
-- :speaker: __To Do__: 
-    
 
 -----  
 
@@ -311,137 +439,16 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-## <a name="day13"></a> Day 13. Creating a Server
 
-- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
-    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
-    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
-    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
-- :book: __Reading__:
-    + [Express](https://expressjs.com/)
-    + [use](http://expressjs.com/en/api.html#app.use)
-    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
-    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
-- :microscope: __Lab__:
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-- :newspaper: __Misc__:
-    + [Express npm](https://www.npmjs.com/package/express)
-- :video_camera: __Videos__
-    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
-    + [REST](https://youtu.be/7YcW25PHnAA)
-- :bulb: __Cheat sheet__: 
-    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
-- :speaker: __To Do__: 
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
------  
-  
-## <a name="day14"></a> Day 14. Creating a Server II
-
-- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
-    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
-    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
-    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
-- :book: __Reading__:
-    + [Express](https://expressjs.com/)
-    + [use](http://expressjs.com/en/api.html#app.use)
-    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
-    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
-- :microscope: __Lab__:
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
-- :newspaper: __Misc__:
-    + [Express npm](https://www.npmjs.com/package/express)
-- :video_camera: __Videos__
-    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
-    + [REST](https://youtu.be/7YcW25PHnAA)
-- :bulb: __Cheat sheet__: 
-    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
-- :speaker: __To Do__: 
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
------  
-  
-  
   
  
 
-  
-## <a name="day15"></a> Day 15. MVC
-
-- :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/91835f18580364fb1c3755230fe040b0)
-    + [MVC](https://docs.google.com/presentation/d/1XNYD0XU26a8zCApeiXvoUnJdY_Ur5A_9WOTxUQuq5QY/edit#slide=id.p)
-    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [Express Checklist Controllers](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.g2ad7342cfc_0_34)
-- :book: __Reading__:
-    + [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-    + [MVC Analogy](https://medium.freecodecamp.org/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053)
-    + [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
-    + [MIWMIRMIF](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
-- :microscope: __Lab__:
-    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice) 
-    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
-- :newspaper: __Misc__:
-    + 
-- :video_camera: __Videos__
-     + [MVC](https://www.youtube.com/results?search_query=mvc)
-- :bulb: __Cheat sheet__: 
-    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4) 
-- :speaker: __To Do__: 
-    + Express Practice Part 2,3 and 4
-    + [Sign up for MLab](https://mlab.com/)
-
-
-
------   
 
 
 
 
-## <a name="day16"></a> Day 16. Database with Mongo DB
-
-- :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
-    + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec) (slides)
-    + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
-- :book: __Reading__:
-    + [Why databases](http://www.softwaretestingclass.com/what-is-database-and-why-do-we-need-them/)
-    + [Mongodb.com](https://www.mongodb.com/)
-    + [Document databases](https://en.wikipedia.org/wiki/Document-oriented_database)
-- :microscope: __Lab__:
-    + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
-- :newspaper: __Misc__:
-    + [MLab](https://mlab.com/)
-    + [Install Robo 3T](https://robomongo.org/)
-    + [DB vs File System](https://youtu.be/5t0Y13AkWgc)
-- :video_camera: __Videos__
-     + [MongoDB Video](https://youtu.be/_W1c5xPz-QE)
-     + [Install MongoDB Video](https://youtu.be/tO34_wrkZ3Q)
-     + [Setup MLab Video](https://youtu.be/BWKaoCUdlBo)
-- :bulb: __Cheat sheet__: 
-    + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
-- :speaker: __To Do__: 
-    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 
 
------   
 
 ## <a name="checkpoint2"></a> Checkpoint 2
 - :paperclip: __Topics__: Let's start working on checkpoint 2 
@@ -457,25 +464,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-## <a name="day17"></a> Day 17. Mongoose
 
-- :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/7a7d69f30474ed7c998935f0ecd45d8f)
-    + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
-- :book: __Reading__:
-    + [MongooseJS](http://mongoosejs.com/docs/guide.html)
-- :newspaper: __Misc__:
-    + [Mongoose](https://www.npmjs.com/package/mongoose)
-- :video_camera: __Videos__
-- :bulb: __Cheat sheet__: 
-    + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
-- :speaker: __To Do__: 
-    + [Express Practice Part 5](https://github.com/AustinCodingAcademy/advanced-express-practice)
-
-
-
------   
 ## <a name="day18"></a> Day 18. Authentication
 
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
