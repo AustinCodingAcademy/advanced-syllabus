@@ -104,6 +104,18 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :speaker: __To Do__: 
 -----  
 
+## <a name="eCommerce"></a> Build an eCommerce Site
+
+- :paperclip: __Topics__: Let's build an ecommerce site from scratch
+- :file_folder: __Notes__:
+    + [Step by Step](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p)
+- :newspaper: __Misc__:
+    + [ACA Inventory](https://docs.google.com/spreadsheets/d/1WqUXFDqjWaS9hbIWnzGzNwAVhxHJM--4HbVb-O0lNDk/edit#gid=0)
+- :speaker: __To Do__: 
+    + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
+
+-----   
+
 ## <a name="day6"></a> Day 6. Creating a Server
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
@@ -639,18 +651,4 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + 
 - :speaker: __To Do__: 
     + 
------ 
 
-## <a name="eCommerce"></a> Build an eCommerce Site
-
-- :paperclip: __Topics__: Let's build an ecommerce site from scratch
-- :file_folder: __Notes__:
-    + [Step by Step](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p)
-- :newspaper: __Misc__:
-    + [ACA Inventory](https://docs.google.com/spreadsheets/d/1WqUXFDqjWaS9hbIWnzGzNwAVhxHJM--4HbVb-O0lNDk/edit#gid=0)
-- :speaker: __To Do__: 
-    + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
-
-
-
------   
