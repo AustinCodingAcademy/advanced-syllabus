@@ -104,7 +104,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :speaker: __To Do__: 
 -----  
 
-## <a name="day6"></a> Day 16. Creating a Server
+## <a name="day6"></a> Day 6. Creating a Server
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
