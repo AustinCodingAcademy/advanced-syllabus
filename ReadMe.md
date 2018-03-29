@@ -235,6 +235,23 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
 - :speaker: __To Do__: 
     + [Express Practice Part 5](https://github.com/AustinCodingAcademy/advanced-express-practice)
+    
+    
+    
+-----  
+
+
+## <a name="checkpoint1"></a> Checkpoint 1
+
+- :paperclip: __Topics__: Let's design a web app that is similiar to Netflix.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/66bdabf8c05fc61f4ddb5796d0a92b94)
+    + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
+- :video_camera: __Videos__
+    + [Demo](https://youtu.be/bMsq98aLHAA)
+- :speaker: __To Do__: 
+    + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
+
 
 -----   
   
@@ -396,20 +413,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
     + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 
-
------  
-
-
-## <a name="checkpoint1"></a> Checkpoint 1
-
-- :paperclip: __Topics__: Let's design a web app that is similiar to Netflix.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/66bdabf8c05fc61f4ddb5796d0a92b94)
-    + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
-- :video_camera: __Videos__
-    + [Demo](https://youtu.be/bMsq98aLHAA)
-- :speaker: __To Do__: 
-    + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 
 
 -----  
