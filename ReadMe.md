@@ -6,8 +6,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | [Day 1. Intro](#day1)      | [Day 6. Server II](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
 | [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. MongoDB](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
-| [Day 4. Debugging](#day4) | [Day 9. Mongoose](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Misc](#day19)
-| [Day 5. Server I](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Heroku](#day20)
+| [Day 4. Debugging](#day4) | [Day 9. Mongoose](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 5. Server I](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 
 
 ## <a name="day1"></a> Day 1. Introduction to Class
@@ -514,6 +514,33 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :video_camera: __Videos__
      + [Demo](https://youtu.be/6c8xj-K0vK8)
 -----   
+
+## <a name="interviewprep"></a> Day 20. Career Readiness / Interview Prep
+
+- :paperclip: __Topics__: What do you need to do to prepare for an interview. What should be on your resume. 
+- :file_folder: __Notes__:
+    + [Finding a Job](https://docs.google.com/presentation/d/1yPtZPzzKZAnjbDbUA02WJ_dIgAF3okGAVNMoq5pJ03c/edit#slide=id.p) 
+- :book: __Reading__:
+    + [Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
+    + [Cracking the Code Interview](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf)
+    + [How to win friends and influence people](http://images.kw.com/docs/2/1/2/212345/1285134779158_htwfaip.pdf)
+    + [Communication Principles](http://www.csus.edu/indiv/l/luenemannu/pdf/communicationprinciples.pdf)
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+     + [Cover Letter Suggestions](https://docs.google.com/document/d/14gYRuEwkiab7c9JDmh3l32NxfrtzKrteOQ17Mdf6IzY/edit)
+     + [Example Cover Letter](http://www.coverletter.us/software-engineer-cover-letter/)
+     + [json resume](https://jsonresume.org/themes/)
+     + [Job Scan](https://www.jobscan.co)
+     + [fiverr](https://www.fiverr.com/)
+     + [peopleperhour](https://www.peopleperhour.com/)
+     + [interviewcake](https://www.interviewcake.com/)
+- :video_camera: __Videos__
+     + 
+- :speaker: __To Do__: 
+    + 
+-----
+
+
 ## <a name="mobile"></a> Mobile Dev
 
 - :paperclip: __Topics__: Make an app for iOS. Make an app for React Native
@@ -628,27 +655,5 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 -----   
 
 
-## <a name="interviewprep"></a> Career Readiness / Interview Prep
 
-- :paperclip: __Topics__: What do you need to do to prepare for an interview. What should be on your resume. 
-- :file_folder: __Notes__:
-    + [Finding a Job](https://docs.google.com/presentation/d/1yPtZPzzKZAnjbDbUA02WJ_dIgAF3okGAVNMoq5pJ03c/edit#slide=id.p) 
-- :book: __Reading__:
-    + [Interview Prep Resources](https://discourse.austincodingacademy.com/t/interview-prep-resources/249)
-    + [Cracking the Code Interview](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf)
-    + [How to win friends and influence people](http://images.kw.com/docs/2/1/2/212345/1285134779158_htwfaip.pdf)
-    + [Communication Principles](http://www.csus.edu/indiv/l/luenemannu/pdf/communicationprinciples.pdf)
-- :microscope: __Lab__:
-- :newspaper: __Misc__:
-     + [Cover Letter Suggestions](https://docs.google.com/document/d/14gYRuEwkiab7c9JDmh3l32NxfrtzKrteOQ17Mdf6IzY/edit)
-     + [Example Cover Letter](http://www.coverletter.us/software-engineer-cover-letter/)
-     + [json resume](https://jsonresume.org/themes/)
-     + [Job Scan](https://www.jobscan.co)
-     + [fiverr](https://www.fiverr.com/)
-     + [peopleperhour](https://www.peopleperhour.com/)
-     + [interviewcake](https://www.interviewcake.com/)
-- :video_camera: __Videos__
-     + 
-- :speaker: __To Do__: 
-    + 
 
