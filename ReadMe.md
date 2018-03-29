@@ -3,11 +3,11 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Server II](#day6) | [Day 11. Debugging ](#day11) |[Day 16. MongoDB](#day16)
-| [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. Client Side Routing ](#day12) |[Day 17. Mongoose ](#day17)
-| [Day 3. Modules](#day3) | [Day 8. MongoDB](#day8)       |    [Day 13. Creating A Server with Express ](#day13) |[Day 18. Authentication](#day18)
-| [Day 4. Debuggin](#day4) | [Day 9. Mongoose](#day9)       |    [Day 14. Creating A Server with Express II](#day14) |[Day 19. Misc](#day19)
-| [Day 5. Server I](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. Express MVC ](#day15) |[Day 20. Heroku](#day20)
+| [Day 1. Intro](#day1)      | [Day 6. Server II](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
+| [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 3. Modules](#day3) | [Day 8. MongoDB](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
+| [Day 4. Debugging](#day4) | [Day 9. Mongoose](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Misc](#day19)
+| [Day 5. Server I](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Heroku](#day20)
 
 
 ## <a name="day1"></a> Day 1. Introduction to Class
@@ -238,7 +238,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 -----   
   
-## <a name="react"></a>  React
+## <a name="day11"></a> Day 11. React
 - :paperclip: __Topics__: React
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
@@ -267,7 +267,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-## <a name="react2"></a> More React
+## <a name="day12"></a> Day 12. More React
 * [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
 * [React Component Communication](https://docs.google.com/presentation/d/1EAQuqmmqVDZd5eH-27DNWc1HJF1WX8-gnSZ7hF_TOt8/edit#slide=id.p)
 * [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
@@ -276,7 +276,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
  
  
-## <a name="day6"></a> Day 6. 
+## <a name=""></a> ????
   * [Notes](https://gist.github.com/jw56578/b310bbfe762bec09016ecfce387efad5)
   * ECommerce site discussion
   * [Understanding Internet Communication](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
@@ -293,7 +293,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     
 
     
-## <a name="day7"></a> Day 7. Redux
+## <a name="day13"></a> Day 13. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
@@ -330,7 +330,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 -----    
    
-## <a name="day8"></a> Day 8. Redux Actions
+## <a name="day14"></a> Day 14. Redux Actions
 
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
@@ -361,7 +361,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----    
  
 
-## <a name="day9"></a> Day 9. React, Redux and Fetch
+## <a name="day15"></a> Day 15. React, Redux and Fetch
 
 - :paperclip: __Topics__: How do you use fetch with React. How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
@@ -400,7 +400,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 -----  
 
 
-## <a name="day10"></a> Day 10. Checkpoint 1
+## <a name="checkpoint1"></a> Checkpoint 1
 
 - :paperclip: __Topics__: Let's design a web app that is similiar to Netflix.
 - :file_folder: __Notes__:
@@ -414,7 +414,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 -----  
 
-## <a name="day12"></a> Day 12. Client Side Routing
+## <a name="day16"></a> Day 16. Client Side Routing
 
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
@@ -439,17 +439,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-
-  
- 
-
-
-
-
-
-
-
-
 ## <a name="checkpoint2"></a> Checkpoint 2
 - :paperclip: __Topics__: Let's start working on checkpoint 2 
 - :file_folder: __Notes__:
@@ -465,7 +454,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 
-## <a name="day18"></a> Day 18. Authentication
+## <a name="day17"></a> Day 17. Authentication
 
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
@@ -491,7 +480,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 -----  
 
-## <a name="day19"></a> Day 19. Misc
+## <a name="day18"></a> Day 19. Misc
 - :paperclip: __Topics__: 
      + [HTTPS](#https)
      + [Mobile](#mobile)
@@ -499,7 +488,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
      + [Coding Challenges](#codingchallenges)
 
 -----  
-## <a name="day20"></a> Day 20. Heroku
+## <a name="day19"></a> Day 19. Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
