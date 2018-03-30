@@ -78,7 +78,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :video_camera: __Videos__
      + 
 - :speaker: __To Do__: 
-    + [Testing Practice](https://github.com/AustinCodingAcademy/advanced-testing-practice)
+    + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
 -----   
 
 ## <a name="day5"></a> Day 5. Debugging
