@@ -50,7 +50,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 ## <a name="day3"></a> Day 3. Modules
 - :file_folder: __Notes__:
      + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
-     + [Node Modules]
+     + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
      + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
 - :book: __Reading__:
      + [Node Modules](https://nodejs.org/docs/latest/api/modules.html)
