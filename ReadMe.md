@@ -6,8 +6,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | [Day 1. Intro](#day1)      | [Day 6. Server I](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
 | [Day 2. Software Systems](#day2)| [Day 7. Server II](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
-| [Day 4. Testing](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
-| [Day 5. Debugging](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Day 4. Debugging](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 5. Testing](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 
 
 ## <a name="day1"></a> Day 1. Introduction to Class
@@ -60,28 +60,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
      + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 ----- 
 
-## <a name="day4"></a> Day 4. Testing
-- :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
-- :file_folder: __Notes__:
-    + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
-    + [Testing Step by Step](https://docs.google.com/presentation/d/1oIFt5YJiXsuHx0gidoR1ainqMgpgSeBLjTT2LzOJQak/edit#slide=id.p)
-    + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
-- :book: __Reading__:
-    + [Jest Docs](https://facebook.github.io/jest/)
-    + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
-- :microscope: __Lab__:
-- :newspaper: __Misc__:
-    + [Jest](https://github.com/facebook/jest)
-    + [Enzyme](https://github.com/airbnb/enzyme)
-    + [Jest npm](https://www.npmjs.com/package/jest)
-    + [Enzyme npm](https://www.npmjs.com/package/enzyme)
-- :video_camera: __Videos__
-     + 
-- :speaker: __To Do__: 
-    + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
------   
-
-## <a name="day5"></a> Day 5. Debugging
+## <a name="day4"></a> Day 4. Debugging
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
@@ -102,7 +81,28 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + Search All files
     + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 - :speaker: __To Do__: 
------  
+----- 
+## <a name="day5"></a> Day 5. Testing
+- :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
+- :file_folder: __Notes__:
+    + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
+    + [Testing Step by Step](https://docs.google.com/presentation/d/1oIFt5YJiXsuHx0gidoR1ainqMgpgSeBLjTT2LzOJQak/edit#slide=id.p)
+    + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
+- :book: __Reading__:
+    + [Jest Docs](https://facebook.github.io/jest/)
+    + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+    + [Jest](https://github.com/facebook/jest)
+    + [Enzyme](https://github.com/airbnb/enzyme)
+    + [Jest npm](https://www.npmjs.com/package/jest)
+    + [Enzyme npm](https://www.npmjs.com/package/enzyme)
+- :video_camera: __Videos__
+     + 
+- :speaker: __To Do__: 
+    + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
+-----   
+ 
 
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
