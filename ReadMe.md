@@ -5,8 +5,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#day1)      | [Day 6. Server I](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
 | [Day 2. Software Systems](#day2)| [Day 7. Server II](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
-| [Day 3. Modules](#day3) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
-| [Day 4. Debugging](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 3. Debugging](#day3) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
+| [Day 4. Modules](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
 | [Day 5. Testing](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 
 
@@ -46,21 +46,7 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
     + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
 ----- 
-
-## <a name="day3"></a> Day 3. Modules
-- :file_folder: __Notes__:
-     + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
-     + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
-     + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
-- :book: __Reading__:
-     + [Node Modules](https://nodejs.org/docs/latest/api/modules.html)
-- :video_camera: __Videos__
-     + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
-- :speaker: __To Do__: 
-     + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
------ 
-
-## <a name="day4"></a> Day 4. Debugging
+## <a name="day3"></a> Day 3. Debugging
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
@@ -82,6 +68,20 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 - :speaker: __To Do__: 
 ----- 
+## <a name="day4"></a> Day 4. Modules
+- :file_folder: __Notes__:
+     + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
+     + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
+     + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
+- :book: __Reading__:
+     + [Node Modules](https://nodejs.org/docs/latest/api/modules.html)
+- :video_camera: __Videos__
+     + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
+- :speaker: __To Do__: 
+     + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
+----- 
+
+
 ## <a name="day5"></a> Day 5. Testing
 - :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
