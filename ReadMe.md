@@ -44,7 +44,6 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :speaker: __To Do__: 
     + Sign up for npmjs.com 
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
-    + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
 ----- 
 ## <a name="day3"></a> Day 3. Debugging
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
