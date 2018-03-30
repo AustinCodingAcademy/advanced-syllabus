@@ -3,11 +3,11 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Server II](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
-| [Day 3. Modules](#day3) | [Day 8. MongoDB](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
-| [Day 4. Debugging](#day4) | [Day 9. Mongoose](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
-| [Day 5. Server I](#day5) | [Day 10. Checkpoint 1](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Day 1. Intro](#day1)      | [Day 6. Server I](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
+| [Day 2. Software Systems](#day2)| [Day 7. Server II](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 3. Modules](#day3) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
+| [Day 4. Testing](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 5. Debugging](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 
 
 ## <a name="day1"></a> Day 1. Introduction to Class
