@@ -648,6 +648,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
     + [Webpack](https://docs.google.com/presentation/d/17TEXWgh2RJm6HSGxivtjIEs4DtVAT3OOmkxSKbscEpo/edit#slide=id.p) (Slides)
+    + [Step by Step](https://docs.google.com/presentation/d/1FdGZ827uf6Y-Kn7jtr74B26SrBEP7njNKfFI9atdXkU/edit#slide=id.p)
 - :book: __Reading__:
     + [Docs](https://webpack.js.org/)
 - :microscope: __Lab__:
