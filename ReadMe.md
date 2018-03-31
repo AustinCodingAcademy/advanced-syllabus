@@ -291,8 +291,22 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     + [Review Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
     + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
-
-
+-----
+## <a name="webpack"></a> Webpack
+- :paperclip: __Topics__: Why do we use this tool called webpack. 
+- :file_folder: __Notes__:
+    + [Webpack](https://docs.google.com/presentation/d/17TEXWgh2RJm6HSGxivtjIEs4DtVAT3OOmkxSKbscEpo/edit#slide=id.p) (Slides)
+    + [Step by Step](https://docs.google.com/presentation/d/1FdGZ827uf6Y-Kn7jtr74B26SrBEP7njNKfFI9atdXkU/edit#slide=id.p)
+- :book: __Reading__:
+    + [Docs](https://webpack.js.org/)
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+    + [Webpack Package](https://www.npmjs.com/package/webpack)
+- :video_camera: __Videos__
+     + [Demo](https://youtu.be/deyxI-6C2u4)
+- :speaker: __To Do__: 
+    + [webpack-react-starter](https://github.com/AustinCodingAcademy/webpack-react-starter)
+-----   
 
 
 ## <a name="day12"></a> Day 12. More React
@@ -644,21 +658,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + 
 -----   
 
-## <a name="webpack"></a> Webpack
-- :paperclip: __Topics__: Why do we use this tool called webpack. 
-- :file_folder: __Notes__:
-    + [Webpack](https://docs.google.com/presentation/d/17TEXWgh2RJm6HSGxivtjIEs4DtVAT3OOmkxSKbscEpo/edit#slide=id.p) (Slides)
-    + [Step by Step](https://docs.google.com/presentation/d/1FdGZ827uf6Y-Kn7jtr74B26SrBEP7njNKfFI9atdXkU/edit#slide=id.p)
-- :book: __Reading__:
-    + [Docs](https://webpack.js.org/)
-- :microscope: __Lab__:
-- :newspaper: __Misc__:
-    + [Webpack Package](https://www.npmjs.com/package/webpack)
-- :video_camera: __Videos__
-     + [Demo](https://youtu.be/deyxI-6C2u4)
-- :speaker: __To Do__: 
-    + [webpack-react-starter](https://github.com/AustinCodingAcademy/webpack-react-starter)
------   
+
 
 ## <a name="createreactapp"></a> Create React App
 - :paperclip: __Topics__: Why do we use this tool called create-react-app. 
