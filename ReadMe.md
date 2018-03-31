@@ -304,19 +304,12 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
  
  
-## <a name=""></a> ????
+## <a name=""></a> Review
   * [Notes](https://gist.github.com/jw56578/b310bbfe762bec09016ecfce387efad5)
-  * ECommerce site discussion
-  * [Understanding Internet Communication](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
-  * [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
-  * Complete the [Fetch Practice](https://github.com/AustinCodingAcademy/advanced-fetch-practice) using the [Fetch Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p) and examples. Tell me when you are done.
-  * [Async Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
   * 6:30 - 7:00 [Review - Let us go over the topics we have covered so far](https://docs.google.com/document/d/1KrCE1mOogCpxAdy6hlnKnH7g4df3cnHLuFSxY6i_Dyg/edit)
-  * 7:00 - 9:00 We have a lot of projects that we can be working on. Let's get them done so we are all on the same page for the next topic. Ask for help if you need it. If you are done with all the projects, work on extra credit. If you are done with extra credit then start working on your final project.
   * Extra Credit
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
-    
     
     
 
