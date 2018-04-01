@@ -6,7 +6,7 @@ ACA Full Stack MERN
 
 - __Instructor:__ [Jon Woo](http://github.com/jw56578), jon [at] austincodingacademy [dot] com
 - __TA:__ Jordan Reece
-- __Class Time:__ MW 6-9:3pm in 5th Floor
+- __Class Time:__ MW 6-9:30pm on 5th Floor
 - __Session Dates:__ 04/16/18 - 06/20/18
 - __Text Book:__ [Pro MERN Stack](https://drive.google.com/open?id=1gkHFLZhoDJN0kCm2vgA8nkWX-w4zHQtu)
 
