@@ -14,9 +14,6 @@ ACA Full Stack MERN
 -----
 
 
-### Philosophy
-
-
 
 ### Description
 I like to refer to this class as Applied Javascript, designed to take our Intermediate students to a level of fluency with Node.js and React.js that will allow them to build professional, well designed web applications. You can use these skills to become an entry level developer, a JavaScript developer a senior technical project manager, a full stack developer, or use your ability to learn new languages to switch into a career with Python, Ruby, or one of the many other in-demand languages in Texas.
@@ -28,10 +25,6 @@ This class is designed for someone who has a strong command of front end develop
 You should be completely comfortable with html and have a basic understanding on javascript. You don't need to be able to code a chess game in javascript but you should know what an if statement or for loop is.
 
 
-### Expectations
-
-
-
 
 ### Methods of Instruction
 
@@ -40,7 +33,6 @@ reading assignments and homework projects
 
 
 
-### Other
 
 
 
