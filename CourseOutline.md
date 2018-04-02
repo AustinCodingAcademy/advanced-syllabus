@@ -1,4 +1,4 @@
-Don't fork or clone this repo. It is a dynamic online resource to be updated by me. If you want to know what we are doing each day this is how you will know. Bookmark the url.
+
 
 
 | ||||
@@ -11,7 +11,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 
 
 ## <a name="day1"></a> Day 1. Introduction to Class
-- :paperclip: __Topics__: Why does this class exist. What will we learn.
+- :paperclip: __Topics__: Introduction, course in a nutshell, and policies/logistics. Please spend some time outside class to review the course policies and other guidelines.
+
 - :file_folder: __Notes__:
     + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
     + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
