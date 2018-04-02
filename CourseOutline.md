@@ -307,6 +307,21 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
 - :speaker: __To Do__: 
     + [webpack-react-starter](https://github.com/AustinCodingAcademy/webpack-react-starter)
 -----   
+## <a name="createreactapp"></a> Create React App
+- :paperclip: __Topics__: Why do we use this tool called create-react-app. 
+- :file_folder: __Notes__:
+    + 
+- :book: __Reading__:
+    + [Docs](https://reactjs.org/docs/add-react-to-a-new-app.html)
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+    + [Github](https://github.com/facebook/create-react-app)
+    + [npm](https://www.npmjs.com/package/create-react-app)
+- :video_camera: __Videos__
+     + 
+- :speaker: __To Do__: 
+    + 
+-----   
 
 
 ## <a name="day12"></a> Day 12. More React
@@ -317,6 +332,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
  * [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
  * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
  
+-----   
+
  
 ## <a name=""></a> Review
   * [Notes](https://gist.github.com/jw56578/b310bbfe762bec09016ecfce387efad5)
@@ -325,7 +342,8 @@ Don't fork or clone this repo. It is a dynamic online resource to be updated by 
     * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
     * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
     
-    
+-----   
+
 
     
 ## <a name="day13"></a> Day 13. Redux
@@ -660,20 +678,5 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 
 
 
-## <a name="createreactapp"></a> Create React App
-- :paperclip: __Topics__: Why do we use this tool called create-react-app. 
-- :file_folder: __Notes__:
-    + 
-- :book: __Reading__:
-    + [Docs](https://reactjs.org/docs/add-react-to-a-new-app.html)
-- :microscope: __Lab__:
-- :newspaper: __Misc__:
-    + [Github](https://github.com/facebook/create-react-app)
-    + [npm](https://www.npmjs.com/package/create-react-app)
-- :video_camera: __Videos__
-     + 
-- :speaker: __To Do__: 
-    + 
------   
 
 
