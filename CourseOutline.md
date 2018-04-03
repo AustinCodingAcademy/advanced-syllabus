@@ -124,7 +124,6 @@
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
     + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
     + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
 - :book: __Reading__:
     + [Express](https://expressjs.com/)
     + [use](http://expressjs.com/en/api.html#app.use)
@@ -155,7 +154,6 @@
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
     + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
     + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
-    + [HTTP Slides](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
 - :book: __Reading__:
     + [Express](https://expressjs.com/)
     + [use](http://expressjs.com/en/api.html#app.use)
