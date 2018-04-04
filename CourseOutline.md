@@ -655,7 +655,18 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + [NPM](https://youtu.be/x03fjb2VlGY)
 - :speaker: __To Do__: 
     + 
+-----   
+## <a name="npm"></a> CORS
 
+- :paperclip: __Topics__: What is CORS. Why do we care about it. How do we handle it.
+- :file_folder: __Notes__:
+    + [What is CORS](https://docs.google.com/presentation/d/1pMpoAXUoeUEINFxLqlTkIf6zvsxengByh5QPthJZW9o/edit#slide=id.p)
+- :book: __Reading__:
+    + [mdn](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+- :video_camera: __Videos__
+- :speaker: __To Do__: 
 
 -----   
 ## <a name="learning"></a> Learning how to learn
