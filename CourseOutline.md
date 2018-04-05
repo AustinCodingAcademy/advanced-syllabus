@@ -727,5 +727,19 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
     + 
 -----   
+## <a name="patterns"></a> Patterns and Practices
 
+- :paperclip: __Topics__: There are an infinite number of ways to write your code. The computer doesn't care how you code as long as it gets the job done. So how do you decide from the infinite choices how you should actually write your code.
+- :file_folder: __Notes__:
+    + [Quotes and semicolons]()
+- :book: __Reading__:
+    +
+- :microscope: __Lab__:
+- :newspaper: __Misc__:
+    + 
+- :video_camera: __Videos__
+     + 
+- :speaker: __To Do__: 
+    + 
+-----   
 
