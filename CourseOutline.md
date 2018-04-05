@@ -48,6 +48,7 @@
      + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
      + [nodejs](#nodejs)
      + [npm](#npm)
+     + [MERN](https://docs.google.com/presentation/d/1bhmcKZBG4uTvljs3W_7_AH0u1qSJvoQGzm0oNvkUpJg/edit#slide=id.p)
      + [eCommerce](#eCommerce)
 - :book: __Reading__:
 - :newspaper: __Misc__:
