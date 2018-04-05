@@ -695,14 +695,15 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + 
 -----   
 
-## <a name="fetch"></a> Fetch
 
-- :paperclip: __Topics__: What is this thing called fetch. 
+
+## <a name="async"></a> Async
+
+- :paperclip: __Topics__: Let's explain the concept of asynchronous
 - :file_folder: __Notes__:
-    + [Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
-    + [Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
+    + [Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
 - :book: __Reading__:
-    + [intro to fetch](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+    +
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + 
@@ -712,13 +713,14 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + 
 -----   
 
-## <a name="async"></a> Async
+## <a name="fetch"></a> Fetch
 
-- :paperclip: __Topics__: Let's explain the concept of asynchronous
+- :paperclip: __Topics__: What is this thing called fetch. 
 - :file_folder: __Notes__:
-    + [Slides](https://docs.google.com/presentation/d/16xXn02twoDDdNqtSum-mRCLobkmcch4bcWRPpJ3EPZo/edit#slide=id.p)
+    + [Fetch](https://docs.google.com/presentation/d/18X5KUGp2y4EvWt8Mxw1OqdcwGgiTCxWmZxTyzK7yQME/edit#slide=id.p)
+    + [Checklist](https://docs.google.com/presentation/d/123k7T6_SvdaE3D9kJR-kMhi50l_IR2DgFPM5wUpnBdk/edit#slide=id.p)
 - :book: __Reading__:
-    +
+    + [intro to fetch](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + 
