@@ -545,6 +545,7 @@
     + [Heroku Dashboard](https://dashboard.heroku.com/apps)
 - :video_camera: __Videos__
      + [Demo](https://youtu.be/6c8xj-K0vK8)
+     + [Demo II](https://youtu.be/AZNFox2CvBk)
 -----   
 
 ## <a name="interviewprep"></a> Day 20. Career Readiness / Interview Prep
