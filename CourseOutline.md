@@ -39,16 +39,7 @@
     + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
 - :speaker: __To Do__: 
     + [Gist Bio](https://gist.github.com/jw56578/c7c949c451e83e19327c091f99994163)
------  
-## <a name="eCommerce"></a> Build an eCommerce Site
 
-- :paperclip: __Topics__: Let's build an ecommerce site from scratch
-- :file_folder: __Notes__:
-    + [Step by Step](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p)
-- :newspaper: __Misc__:
-    + [ACA Inventory](https://docs.google.com/spreadsheets/d/1WqUXFDqjWaS9hbIWnzGzNwAVhxHJM--4HbVb-O0lNDk/edit#gid=0)
-- :speaker: __To Do__: 
-    + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
 
 -----   
 ## <a name="day2"></a> Day 2. Software Systems
@@ -85,7 +76,21 @@
     + Search All files
     + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
 - :speaker: __To Do__: 
+
+
+-----  
+## <a name="eCommerce"></a> Build an eCommerce Site
+
+- :paperclip: __Topics__: Let's build an ecommerce site from scratch
+- :file_folder: __Notes__:
+    + [Step by Step](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p)
+- :newspaper: __Misc__:
+    + [ACA Inventory](https://docs.google.com/spreadsheets/d/1WqUXFDqjWaS9hbIWnzGzNwAVhxHJM--4HbVb-O0lNDk/edit#gid=0)
+- :speaker: __To Do__: 
+    + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
 ----- 
+
+
 ## <a name="day4"></a> Day 4. Modules
 - :file_folder: __Notes__:
      + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
