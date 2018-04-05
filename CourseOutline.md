@@ -52,7 +52,7 @@
 - :book: __Reading__:
 - :newspaper: __Misc__:
 - :speaker: __To Do__: 
-    + Sign up for npmjs.com 
+    + Sign up for [npmjs.com](https://www.npmjs.com/)
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
 ----- 
 ## <a name="day3"></a> Day 3. Debugging
