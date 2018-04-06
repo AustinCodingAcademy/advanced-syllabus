@@ -9,7 +9,7 @@ ACA Full Stack MERN
 - __Class Time:__ MW 6:30-9pm on 5th Floor
 - __Session Dates:__ 04/16/18 - 06/20/18
 - __Text Book:__ [Pro MERN Stack](https://drive.google.com/open?id=1gkHFLZhoDJN0kCm2vgA8nkWX-w4zHQtu)
-- [__Course Outline__] (CourseOutline.md)
+- [__Course Outline__](CourseOutline.md)
 
 -----
 
