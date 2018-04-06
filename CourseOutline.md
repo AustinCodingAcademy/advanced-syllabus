@@ -43,7 +43,7 @@
 
 -----   
 ## <a name="day2"></a> Day 2. Software Systems
-- :paperclip: __Topics__: You can use all the buzzwords and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
+- :paperclip: __Topics__:You can use all the buzz words and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
 - :file_folder: __Notes__:
      + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
      + [nodejs](#nodejs)
