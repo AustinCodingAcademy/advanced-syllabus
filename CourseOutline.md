@@ -17,6 +17,7 @@
 | [Day 3. Debugging](#day3) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
 | [Day 4. Modules](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
 | [Day 5. Testing](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Nodejs](#nodejs) | [npm](#npm)       |   |
 
 
 ## <a name="day1"></a> Day 1. Introduction to Class
