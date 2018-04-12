@@ -666,6 +666,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [npmjs.com](https://www.npmjs.com/)
 - :video_camera: __Videos__
      + [NPM](https://youtu.be/x03fjb2VlGY)
+     + [Step by Step](https://youtu.be/ixmWPNa_uJQ)
 - :speaker: __To Do__: 
     + 
 -----   
