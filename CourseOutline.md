@@ -35,6 +35,7 @@
     + [How to Ask Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
     + [Communication](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
     + [Attendance](https://gist.github.com/jw56578/2bb2c5578de5445a5f2d6e461d94a0bd)
+    + [Office Hours](https://discourse.austincodingacademy.com/t/advanced-office-hours/327)
 - :newspaper: __Misc__:
     + [VS Code](https://code.visualstudio.com/)
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
