@@ -640,6 +640,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :paperclip: __Topics__: NodeJS. What is it and why do we use it. 
 - :file_folder: __Notes__:
     + [What is NodeJS](https://docs.google.com/presentation/d/1t3O38JqLdG27LsHeKhdyBoNCTKCXcWwpe3Dn7hYQflE/edit#slide=id.p)
+    + [Step by Step](https://docs.google.com/presentation/d/1rFQqgOa2l7gR6d-PyDOpfgQuKKlEpn8cFn3fijv_afs/edit#slide=id.p)
 - :book: __Reading__:
     + [Node](https://en.wikipedia.org/wiki/Node.js)
     + [Node Docs](https://nodejs.org/api/)
