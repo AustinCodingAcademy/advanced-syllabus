@@ -286,6 +286,7 @@
 - :paperclip: __Topics__: React
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
+    + [React](https://docs.google.com/presentation/d/1Bj877oW04FA-bPxX9tgI7C6fY6mvJiLYP4VE_YJ-T6o/edit#slide=id.p)
     + [React Step by Step](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p) (Slides)
 - :book: __Reading__:
     + [Why React](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
