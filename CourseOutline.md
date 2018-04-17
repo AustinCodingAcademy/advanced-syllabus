@@ -12,15 +12,15 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Server I](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
+| [Day 1. Intro](#intro)      | [Day 6. Server I](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
 | [Day 2. Software Systems](#day2)| [Day 7. Server II](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
-| [Day 3. Debugging](#day3) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
+| [Day 3. Debugging](#debugging) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
 | [Day 4. Modules](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
 | [Day 5. Testing](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)       |   |
 
 
-## <a name="day1"></a> Day 1. Introduction to Class
+## <a name="intro"></a> Day 1. Introduction to Class
 - :paperclip: __Topics__: Introduction, course in a nutshell, and policies/logistics. Please spend some time outside class to review the course policies and other guidelines.
 - :file_folder: __Notes__:
     + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
@@ -59,7 +59,7 @@
     + Sign up for [npmjs.com](https://www.npmjs.com/)
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
 ----- 
-## <a name="day3"></a> Day 2. Debugging
+## <a name="debugging"></a> Day 2. Debugging
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
