@@ -668,6 +668,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [How to publish](https://docs.npmjs.com/getting-started/publishing-npm-packages)
     + [folders](https://docs.npmjs.com/files/folders)
     + [package.json](https://docs.npmjs.com/files/package.json)
+    + [Semantic Versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [npmjs.com](https://www.npmjs.com/)
