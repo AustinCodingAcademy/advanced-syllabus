@@ -83,19 +83,9 @@
 
 
 -----  
-## <a name="eCommerce"></a> Build an eCommerce Site
-
-- :paperclip: __Topics__: Let's build an ecommerce site from scratch
-- :file_folder: __Notes__:
-    + [Step by Step](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p)
-- :newspaper: __Misc__:
-    + [ACA Inventory](https://docs.google.com/spreadsheets/d/1WqUXFDqjWaS9hbIWnzGzNwAVhxHJM--4HbVb-O0lNDk/edit#gid=0)
-- :speaker: __To Do__: 
-    + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
------ 
 
 
-## <a name="day4"></a> Day 3. Modules
+## <a name="modules"></a> Modules
 - :file_folder: __Notes__:
      + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
      + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
@@ -109,7 +99,9 @@
 ----- 
 
 
-## <a name="testing"></a> Testing
+
+
+## <a name="testing"></a> Day 3. Testing
 - :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
     + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
@@ -130,6 +122,16 @@
     + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
 -----   
  
+## <a name="eCommerce"></a> Build an eCommerce Site
+
+- :paperclip: __Topics__: Let's build an ecommerce site from scratch
+- :file_folder: __Notes__:
+    + [Step by Step](https://docs.google.com/presentation/d/1F7GrV06KAhUa-jyZOoRk21AHXDg039iTeOORn6CvuZc/edit#slide=id.p)
+- :newspaper: __Misc__:
+    + [ACA Inventory](https://docs.google.com/spreadsheets/d/1WqUXFDqjWaS9hbIWnzGzNwAVhxHJM--4HbVb-O0lNDk/edit#gid=0)
+- :speaker: __To Do__: 
+    + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
+----- 
 
 
 
