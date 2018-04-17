@@ -45,7 +45,7 @@
 
 
 -----   
-## <a name="day2"></a> Day 2. Software Systems
+## <a name="softwaresystems"></a> Software Systems
 - :paperclip: __Topics__:You can use all the buzz words and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
 - :file_folder: __Notes__:
      + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
@@ -59,7 +59,7 @@
     + Sign up for [npmjs.com](https://www.npmjs.com/)
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
 ----- 
-## <a name="day3"></a> Day 3. Debugging
+## <a name="day3"></a> Day 2. Debugging
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
@@ -95,7 +95,7 @@
 ----- 
 
 
-## <a name="day4"></a> Day 4. Modules
+## <a name="day4"></a> Day 3. Modules
 - :file_folder: __Notes__:
      + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
      + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
@@ -109,7 +109,7 @@
 ----- 
 
 
-## <a name="day5"></a> Day 5. Testing
+## <a name="testing"></a> Testing
 - :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
     + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
