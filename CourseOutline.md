@@ -663,6 +663,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [Step by Step](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
 - :book: __Reading__:
     + [npm](https://docs.npmjs.com/getting-started/what-is-npm)
+    + [How to publish](https://docs.npmjs.com/getting-started/publishing-npm-packages)
     + [folders](https://docs.npmjs.com/files/folders)
     + [package.json](https://docs.npmjs.com/files/package.json)
 - :microscope: __Lab__:
