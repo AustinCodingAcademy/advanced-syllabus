@@ -13,10 +13,10 @@
 | ||||
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#intro)      | [Day 6. Server I](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Software Systems](#day2)| [Day 7. Server II](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
-| [Day 3. Debugging](#debugging) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
+| [Day 2. Debugging](#debugging)| [Day 7. Server II](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 3. Testing](#testing) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
 | [Day 4. Modules](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
-| [Day 5. Testing](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Day 5. Express](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)       |   |
 
 
