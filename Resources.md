@@ -15,3 +15,4 @@ Resources
 * [build-a-computer](https://www.coursera.org/learn/build-a-computer)
 * [Repl React Native](https://repl.it/site/languages/react_native)
 * [snack.expo.io](https://snack.expo.io/)
+* [Devloper Handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
