@@ -772,16 +772,14 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 ## <a name="finalproject"></a> Final Project
 
 - :paperclip: __Topics__: Use these resources to get some inspiration for your final project.
-- :file_folder: __Notes__:
-    + 
 - :book: __Reading__:
-    +
+    + [The browser can do some cool stuff](https://discourse.austincodingacademy.com/t/interesting-web-apis/699)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + 
 - :video_camera: __Videos__
      + 
 - :speaker: __To Do__: 
-    + 
+    + [Project Starter Repo](https://github.com/AustinCodingAcademy/advanced-final-project)
 -----   
 
