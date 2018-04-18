@@ -669,6 +669,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [folders](https://docs.npmjs.com/files/folders)
     + [package.json](https://docs.npmjs.com/files/package.json)
     + [Semantic Versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
+    + [Global Modules](https://ourcodeworld.com/articles/read/393/how-to-create-a-global-module-for-node-js-properly)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [npmjs.com](https://www.npmjs.com/)
