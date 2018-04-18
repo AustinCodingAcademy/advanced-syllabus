@@ -155,6 +155,7 @@
     + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
 - :newspaper: __Misc__:
     + [Express npm](https://www.npmjs.com/package/express)
+    + [Postman](https://www.getpostman.com/)
 - :video_camera: __Videos__
     + [Demo 1](https://youtu.be/ViwIjpD7bM8)
     + [REST](https://youtu.be/7YcW25PHnAA)
