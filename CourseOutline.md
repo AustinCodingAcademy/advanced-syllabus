@@ -663,13 +663,14 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :file_folder: __Notes__:
     + [What is NPM](https://docs.google.com/presentation/d/1X2hFMU0qDRTNkaJzZsPiqbf2iGGJcMdgAkIDvyEL-5w/edit#slide=id.p)
     + [Step by Step](https://docs.google.com/presentation/d/1E0SAWqg88T9KsvxirznyYZ9NoF7Taen1e8tCMchHykU/edit#slide=id.p)
+    + [Global Package Step by Step](https://docs.google.com/presentation/d/1oVuSQGuPfB38PQq2lKgnnqC8QR0webT3sqBFTAX-omQ/edit#slide=id.p)
 - :book: __Reading__:
     + [npm](https://docs.npmjs.com/getting-started/what-is-npm)
     + [How to publish](https://docs.npmjs.com/getting-started/publishing-npm-packages)
     + [folders](https://docs.npmjs.com/files/folders)
     + [package.json](https://docs.npmjs.com/files/package.json)
     + [Semantic Versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
-    + [Global Modules](https://ourcodeworld.com/articles/read/393/how-to-create-a-global-module-for-node-js-properly)
+    + [Global Package](https://ourcodeworld.com/articles/read/393/how-to-create-a-global-module-for-node-js-properly)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [npmjs.com](https://www.npmjs.com/)
