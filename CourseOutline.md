@@ -273,11 +273,6 @@
 ## <a name="checkpoint1"></a> Checkpoint 1
 
 - :paperclip: __Topics__: Let's help out our front end co workers by building a back end service for them.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/66bdabf8c05fc61f4ddb5796d0a92b94)
-    + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
-- :video_camera: __Videos__
-    + [Demo](https://youtu.be/bMsq98aLHAA)
 - :speaker: __To Do__: 
     + [Checkpoint 1](https://github.com/AustinCodingAcademy/checkpoint-backend-1)
 
