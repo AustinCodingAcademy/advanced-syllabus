@@ -12,11 +12,11 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#intro)      | [Day 6. Server I](#day6) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Debugging](#debugging)| [Day 7. Server II](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
-| [Day 3. Testing](#testing) | [Day 8. MVC](#day8)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
-| [Day 4. Modules](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
-| [Day 5. Express](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Day 1. Intro](#intro)      | [Day 6. MVC I](#mvc) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
+| [Day 2. Debugging](#debugging)| [Day 7. MongoDB](#mongodb)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 3. Testing](#testing) | [Day 8. Mongoose](#mongoose)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
+| [Day 4. Server I](#server1) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 5. Server II ](#server2) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)       |   |
 
 
@@ -135,7 +135,7 @@
 
 
 
-## <a name="day6"></a> Day 6. Creating a Server
+## <a name="server1"></a> Day 4. Creating a Server
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
@@ -165,7 +165,7 @@
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 -----  
   
-## <a name="day7"></a> Day 7. Creating a Server II
+## <a name="server2"></a> Day 5. Creating a Server II
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
@@ -197,7 +197,7 @@
 -----  
   
     
-## <a name="day8"></a> Day 8. MVC
+## <a name="mvc"></a> Day 6. MVC
 - :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/91835f18580364fb1c3755230fe040b0)
@@ -223,7 +223,7 @@
     + [Sign up for MLab](https://mlab.com/)
 -----   
 
-## <a name="day9"></a> Day 9. Database with Mongo DB
+## <a name="mongodb"></a> Day 7. Database with Mongo DB
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
@@ -250,7 +250,7 @@
 
 
 -----   
-## <a name="day10"></a> Day 10. Mongoose
+## <a name="mongoose"></a> Day 8. Mongoose
 - :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7a7d69f30474ed7c998935f0ecd45d8f)
@@ -264,11 +264,8 @@
     + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
 - :speaker: __To Do__: 
     + [Express Practice Part 5](https://github.com/AustinCodingAcademy/advanced-express-practice)
-    
-    
-    
+      
 -----  
-
 
 ## <a name="checkpoint1"></a> Checkpoint 1
 
