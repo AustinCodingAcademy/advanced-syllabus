@@ -85,8 +85,9 @@
 -----  
 
 
-## <a name="modules"></a> Modules
+## <a name="modules"></a> Day 3. Modules
 - :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
      + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
      + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
      + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
@@ -101,7 +102,7 @@
 
 
 
-## <a name="testing"></a> Day 3. Testing
+## <a name="testing"></a>Testing
 - :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
     + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
@@ -280,7 +281,7 @@
 ## <a name="day11"></a> Day 11. React
 - :paperclip: __Topics__: React
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
+   
     + [React](https://docs.google.com/presentation/d/1Bj877oW04FA-bPxX9tgI7C6fY6mvJiLYP4VE_YJ-T6o/edit#slide=id.p)
     + [React Step by Step](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p) (Slides)
 - :book: __Reading__:
