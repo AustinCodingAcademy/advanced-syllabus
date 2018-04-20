@@ -197,6 +197,11 @@
 - :speaker: __To Do__: 
     + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+    
+-----  
+## <a name="checkpoint1"></a> ACA Tracker
+- :paperclip: __Topics__: 
+- :speaker: __To Do__: 
 -----  
   
     
