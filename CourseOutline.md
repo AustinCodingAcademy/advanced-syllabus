@@ -176,6 +176,7 @@
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
     + [nodemon](https://docs.google.com/presentation/d/1rPTeJKuXs26U9OT1E7qodemWMmIAWrJCWYprSkQoIBI/edit#slide=id.p)
     + [fetch](#fetch)
+    + [CORS](#cors)
 - :book: __Reading__:
     + [github.com/remy/nodemon](https://github.com/remy/nodemon)
 - :microscope: __Lab__:
@@ -665,7 +666,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
     + 
 -----   
-## <a name="npm"></a> CORS
+## <a name="cors"></a> CORS
 
 - :paperclip: __Topics__: What is CORS. Why do we care about it. How do we handle it.
 - :file_folder: __Notes__:
