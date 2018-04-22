@@ -173,7 +173,9 @@
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
+    + [nodemon](https://docs.google.com/presentation/d/1rPTeJKuXs26U9OT1E7qodemWMmIAWrJCWYprSkQoIBI/edit#slide=id.p)
 - :book: __Reading__:
+    + [github.com/remy/nodemon](https://github.com/remy/nodemon)
 - :microscope: __Lab__:
     + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
 
