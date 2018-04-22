@@ -17,7 +17,8 @@
 | [Day 3. Testing](#testing) | [Day 8. Mongoose](#mongoose)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
 | [Day 4. Server I](#server1) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
 | [Day 5. Server II ](#server2) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
-| [Nodejs](#nodejs) | [npm](#npm)       | [Capstone](#finalproject)   |
+| [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
+||||
 
 
 ## <a name="intro"></a> Day 1. Introduction to Class
