@@ -172,31 +172,10 @@
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
-    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
-    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
-    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
 - :book: __Reading__:
-    + [Express](https://expressjs.com/)
-    + [use](http://expressjs.com/en/api.html#app.use)
-    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
-    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
 - :microscope: __Lab__:
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
     + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
-- :newspaper: __Misc__:
-    + [Express npm](https://www.npmjs.com/package/express)
-- :video_camera: __Videos__
-    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
-    + [REST](https://youtu.be/7YcW25PHnAA)
-- :bulb: __Cheat sheet__: 
-    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
-- :speaker: __To Do__: 
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+
     
 -----  
 ## <a name="checkpoint1"></a> ACA Tracker
