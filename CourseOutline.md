@@ -581,7 +581,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + [React Native CS50](https://www.youtube.com/watch?v=X52b-8y2Hf4&list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 - :microscope: __Lab__:
     + [React Native Repl Example](https://repl.it/@jw56578/SpringgreenSurprisedAutoexec)
-    + [ACA App](https://snack.expo.io/SyHswR92f)
+    + [ACA App](https://snack.expo.io/@jw56578/acaapp)
 
 
 -----   
