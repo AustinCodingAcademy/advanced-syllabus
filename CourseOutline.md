@@ -569,6 +569,7 @@
 
 - :paperclip: __Topics__: Make an app for iOS. Make an app for React Native
 - :file_folder: __Notes__:
+    + [React Native](https://docs.google.com/presentation/d/18ljijnMfIYjP2L5JfRNnklDHNLJYt9Ok4ztVyEkB9Po/edit)
     + [iOS Quick Start](https://docs.google.com/presentation/d/1jQh9OujlUeyFXuDYntiVfE2PNri-vrZJsJPdC5xJmWo/edit#slide=id.p)
     + [React Native Repl](https://gist.github.com/jw56578/db7269742d42182fd79980f7f98dd3ad)
 - :book: __Reading__:
