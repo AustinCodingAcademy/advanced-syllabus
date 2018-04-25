@@ -575,6 +575,7 @@
 - :book: __Reading__:
     + [What About Windows](
 https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS748US748&oq=what+happened+to+windows+mobile&aqs=chrome.0.69i59j0l5.6109j0j7&sourceid=chrome&ie=UTF-8)
+    + [React Native Quick Start](https://facebook.github.io/react-native/docs/getting-started.html)
 - :newspaper: __Misc__:
     + [snack.expo.io](https://snack.expo.io)
 - :video_camera: __Videos__
