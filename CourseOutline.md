@@ -290,12 +290,30 @@
 - :bulb: __Cheat sheet__: 
     + [React](https://devhints.io/react)
 - :speaker: __To Do__: 
-    + [Review Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
-    + [Review Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
+    + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
+    + [Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
     + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 -----
-## <a name="webpack"></a> Webpack
+
+
+## <a name="day12"></a> Day 10. More React
+- :paperclip: __Topics__: React. Let's cover some more aspects of React.
+- :file_folder: __Notes__:
+    + [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
+    + [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
+    + [React Component Communication](https://docs.google.com/presentation/d/1EAQuqmmqVDZd5eH-27DNWc1HJF1WX8-gnSZ7hF_TOt8/edit#slide=id.p)
+- :speaker: __To Do__: 
+   
+    + [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
+    + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
+    + [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
+ 
+-----   
+
+
+
+## <a name="webpack"></a> Day 11.  Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
     + [Webpack](https://docs.google.com/presentation/d/17TEXWgh2RJm6HSGxivtjIEs4DtVAT3OOmkxSKbscEpo/edit#slide=id.p) (Slides)
@@ -327,15 +345,6 @@
 -----   
 
 
-## <a name="day12"></a> Day 10. More React
-* [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
-* [React Component Communication](https://docs.google.com/presentation/d/1EAQuqmmqVDZd5eH-27DNWc1HJF1WX8-gnSZ7hF_TOt8/edit#slide=id.p)
-* [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
- * [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
- * [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
- * [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
- 
------   
 
  
 ## <a name=""></a> Review
