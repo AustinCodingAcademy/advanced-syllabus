@@ -184,10 +184,7 @@
 
     
 -----  
-## <a name="checkpoint1"></a> ACA Tracker
-- :paperclip: __Topics__: 
-- :speaker: __To Do__: 
------  
+
   
     
 ## <a name="mvc"></a> Day 6. MVC
@@ -215,7 +212,10 @@
     + Express Practice Part 2,3 and 4
     + [Sign up for MLab](https://mlab.com/)
 -----   
-
+## <a name="checkpoint1"></a> ACA Tracker
+- :paperclip: __Topics__: 
+- :speaker: __To Do__: 
+-----  
 ## <a name="mongodb"></a> Day 7. Database with Mongo DB
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
@@ -269,7 +269,7 @@
 
 -----   
   
-## <a name="day11"></a> Day 11. React
+## <a name="day11"></a> Day 9. React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
     + [React](https://docs.google.com/presentation/d/1Bj877oW04FA-bPxX9tgI7C6fY6mvJiLYP4VE_YJ-T6o/edit#slide=id.p)
@@ -327,7 +327,7 @@
 -----   
 
 
-## <a name="day12"></a> Day 12. More React
+## <a name="day12"></a> Day 10. More React
 * [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
 * [React Component Communication](https://docs.google.com/presentation/d/1EAQuqmmqVDZd5eH-27DNWc1HJF1WX8-gnSZ7hF_TOt8/edit#slide=id.p)
 * [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
@@ -349,7 +349,7 @@
 
 
     
-## <a name="day13"></a> Day 13. Redux
+## <a name="day13"></a> Day 11. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
