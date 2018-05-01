@@ -185,7 +185,7 @@
 ## <a name="server2"></a> Day 6. Creating a Server III
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
+    + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
     + [nodemon](https://docs.google.com/presentation/d/1rPTeJKuXs26U9OT1E7qodemWMmIAWrJCWYprSkQoIBI/edit#slide=id.p)
     + [fetch](#fetch)
