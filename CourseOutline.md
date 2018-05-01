@@ -171,6 +171,18 @@
 -----  
   
 ## <a name="server2"></a> Day 5. Creating a Server II
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest. Continue learning how to use express step by step
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
+- :book: __Reading__:
+    + [github.com/remy/nodemon](https://github.com/remy/nodemon)
+- :microscope: __Lab__:
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
+
+    
+-----  
+
+## <a name="server2"></a> Day 6. Creating a Server III
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
@@ -184,10 +196,8 @@
 
     
 -----  
-
-  
     
-## <a name="mvc"></a> Day 6. MVC
+## <a name="mvc"></a> Day 7. MVC
 - :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/91835f18580364fb1c3755230fe040b0)
@@ -216,7 +226,7 @@
 - :paperclip: __Topics__: 
 - :speaker: __To Do__: 
 -----  
-## <a name="mongodb"></a> Day 7. Database with Mongo DB
+## <a name="mongodb"></a> Day 8. Database with Mongo DB
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
@@ -243,7 +253,7 @@
 
 
 -----   
-## <a name="mongoose"></a> Day 8. Mongoose
+## <a name="mongoose"></a> Day 9. Mongoose
 - :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7a7d69f30474ed7c998935f0ecd45d8f)
@@ -269,7 +279,7 @@
 
 -----   
   
-## <a name="day11"></a> Day 9. React
+## <a name="day11"></a> Day 10. React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
     + [React](https://docs.google.com/presentation/d/1Bj877oW04FA-bPxX9tgI7C6fY6mvJiLYP4VE_YJ-T6o/edit#slide=id.p)
@@ -295,7 +305,7 @@
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
     + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 -----
-## <a name="day12"></a> Day 10. More React
+## <a name="day12"></a> Day 11. More React
 - :paperclip: __Topics__: React. Let's cover some more aspects of React.
 - :file_folder: __Notes__:
     + [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
@@ -306,7 +316,7 @@
     + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
     + [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
 -----   
-## <a name="webpack"></a> Day 11.  Webpack
+## <a name="webpack"></a> Day 12.  Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
     + [Webpack](https://docs.google.com/presentation/d/17TEXWgh2RJm6HSGxivtjIEs4DtVAT3OOmkxSKbscEpo/edit#slide=id.p) (Slides)
