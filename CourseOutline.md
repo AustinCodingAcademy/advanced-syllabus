@@ -146,7 +146,6 @@
     + [Where's my IP](https://docs.google.com/presentation/d/1mZIbb1FUhoScblsolER7ZXP3PPbB4WAhbNLFMi85yuU/edit)
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
     + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-    + [Express Checklist](https://docs.google.com/presentation/d/1pNOnAEtE9X7vfoC5i-bINiao6j80i4x6bfocVZ3DtNw/edit#slide=id.p)
     + [HTTP Practice](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
 - :book: __Reading__:
     + [Express](https://expressjs.com/)
@@ -174,6 +173,7 @@
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest. Continue learning how to use express step by step
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
 - :book: __Reading__:
     + [github.com/remy/nodemon](https://github.com/remy/nodemon)
 - :microscope: __Lab__:
@@ -186,6 +186,7 @@
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
     + [nodemon](https://docs.google.com/presentation/d/1rPTeJKuXs26U9OT1E7qodemWMmIAWrJCWYprSkQoIBI/edit#slide=id.p)
     + [fetch](#fetch)
     + [CORS](#cors)
