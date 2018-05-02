@@ -12,10 +12,10 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#intro)      | [Day 6. MVC I](#mvc) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Debugging](#debugging)| [Day 7. MongoDB](#mongodb)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
-| [Day 3. Testing](#testing) | [Day 8. Mongoose](#mongoose)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
-| [Day 4. Server I](#server1) | [Day 9. MongoDB](#day9)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 1. Intro](#intro)      | [Day 6. Server III](#server3) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
+| [Day 2. Debugging](#debugging)| [Day 7. MVC](#mvc)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
+| [Day 4. Server I](#server1) | [Day 9. Mongoose](#mongoose)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
 | [Day 5. Server II ](#server2) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
@@ -182,7 +182,7 @@
     
 -----  
 
-## <a name="server2"></a> Day 6. Creating a Server III
+## <a name="server3"></a> Day 6. Creating a Server III
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
