@@ -193,12 +193,9 @@
 - :book: __Reading__:
     + [github.com/remy/nodemon](https://github.com/remy/nodemon)
 - :microscope: __Lab__:
-    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
-
-    
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat) 
 -----  
-    
-## <a name="mvc"></a> Day 7. MVC
+## <a name="mvc"></a> MVC
 - :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/91835f18580364fb1c3755230fe040b0)
@@ -213,8 +210,6 @@
 - :microscope: __Lab__:
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice) 
     + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
-- :newspaper: __Misc__:
-    + 
 - :video_camera: __Videos__
      + [MVC](https://www.youtube.com/results?search_query=mvc)
 - :bulb: __Cheat sheet__: 
@@ -223,9 +218,11 @@
     + Express Practice Part 2,3 and 4
     + [Sign up for MLab](https://mlab.com/)
 -----   
-## <a name="checkpoint1"></a> ACA Tracker
-- :paperclip: __Topics__: 
+## <a name="checkpoint1"></a> Day 7. Lab
+- :paperclip: __Topics__: Let's use what we have learned with node and express to build some real life applications.
 - :speaker: __To Do__: 
+    +  [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
+    +  [ACA Tracker](https://github.com/AustinCodingAcademy/aca-tracker)
 -----  
 ## <a name="mongodb"></a> Day 8. Database with Mongo DB
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
