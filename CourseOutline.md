@@ -280,6 +280,7 @@
 ## <a name="day11"></a> Day 10. React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
     + [React](https://docs.google.com/presentation/d/1Bj877oW04FA-bPxX9tgI7C6fY6mvJiLYP4VE_YJ-T6o/edit#slide=id.p)
     + [React Step by Step](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p) (Slides)
 - :book: __Reading__:
