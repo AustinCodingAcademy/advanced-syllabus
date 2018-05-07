@@ -12,11 +12,11 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#intro)      | [Day 6. Server III](#server3) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Debugging](#debugging)| [Day 7. MVC](#mvc)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
+| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
 | [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
 | [Day 4. Server I](#server1) | [Day 9. Mongoose](#mongoose)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
-| [Day 5. Server II ](#server2) | [Day 10. Mongoose](#day10)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Day 5. Server II ](#server2) | [Day 10. React](#react)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
 
@@ -277,7 +277,7 @@
 
 -----   
   
-## <a name="day11"></a> Day 10. React
+## <a name="react"></a> Day 10. React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
