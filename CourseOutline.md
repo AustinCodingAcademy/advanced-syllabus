@@ -220,6 +220,8 @@
 -----   
 ## <a name="checkpoint1"></a> Day 7. Lab
 - :paperclip: __Topics__: Let's use what we have learned with node and express to build some real life applications.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/089b3cc1ccbeda8caf916192f437d467)
 - :speaker: __To Do__: 
     +  [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
     +  [ACA Tracker](https://github.com/AustinCodingAcademy/aca-tracker)
