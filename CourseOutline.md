@@ -762,6 +762,13 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
     + 
 -----   
+## <a name="pwa"></a> PWA's
+
+- :paperclip: __Topics__: What makes a web app be considered a progressive web app.
+- :file_folder: __Notes__:
+- :book: __Reading__:
+    + [what-exactly-makes-something-a-progressive-web-app](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/)
+-----  
 
 ## <a name="acaflix"></a> ACAFlix
 
