@@ -334,6 +334,7 @@
 -----   
 ## <a name="createreactapp"></a> Create React App
 - :paperclip: __Topics__: Why do we use this tool called create-react-app. 
+    + [create-react-app](https://docs.google.com/presentation/d/1t_YW0fyOOOB29iiYNOg_x75GJ-q_rSradJ8miBEml1U/edit#slide=id.p)
 - :file_folder: __Notes__:
     + 
 - :book: __Reading__:
