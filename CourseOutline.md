@@ -301,6 +301,7 @@
 - :bulb: __Cheat sheet__: 
     + [React](https://devhints.io/react)
 - :speaker: __To Do__: 
+    + [React Homework 1](https://github.com/AustinCodingAcademy/advanced-homework-1)
     + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
     + [Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
