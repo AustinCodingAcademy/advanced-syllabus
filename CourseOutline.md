@@ -12,11 +12,11 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. React I ](#day11) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. React II  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. Redux I ](#redux) |[Day 16. Client Side Routing](#day16)
+| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Redux II  ](#redux2) |[Day 17. Authentication ](#day17)
 | [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux ](#day13) |[Day 18. Misc](#day18)
-| [Day 4. Server I](#server1) | [Day 9. Mongoose](#mongoose)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
-| [Day 5. Server II ](#server2) | [Day 10. React](#react)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Day 4. Server I](#server1) | [Day 9. React](#react)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 5. Server II ](#server2) | [Day 10. React II](#react2)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
 
@@ -278,7 +278,7 @@
 
 -----   
   
-## <a name="react"></a> Day 10. React
+## <a name="react"></a> Day 9. React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
@@ -306,7 +306,7 @@
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
     + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 -----
-## <a name="day12"></a> Day 11. More React
+## <a name="react2"></a> Day 10. More React
 - :paperclip: __Topics__: React. Let's cover some more aspects of React.
 - :file_folder: __Notes__:
     + [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
@@ -317,7 +317,7 @@
     + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
     + [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
 -----   
-## <a name="webpack"></a> Day 12.  Webpack
+## <a name="webpack"></a> Day 11.  Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
     + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
@@ -364,7 +364,7 @@
 
 
     
-## <a name="day13"></a> Day 11. Redux
+## <a name="redux"></a> Day 12. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
@@ -401,7 +401,7 @@
 
 -----    
    
-## <a name="day14"></a> Day 14. Redux Actions
+## <a name="redux2"></a> Day 13. Redux Actions
 
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
