@@ -767,6 +767,16 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
     + 
 -----   
+## <a name="pwa"></a> Service Workers
+
+- :paperclip: __Topics__: What makes a web app be considered a progressive web app. Why would you want to make a PWA.
+- :file_folder: __Notes__:
+- :book: __Reading__:
+    + [Slids](https://docs.google.com/presentation/d/16uoU0KXYa24OFI66RHAzy4u29HW_9JOw739mZ-5vrYY/edit#slide=id.p)
+    + [your-first-pwapp](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+- :newspaper: __Misc__:
+    + [Starter Code](https://repl.it/@jw56578/PotableStraightModel)
+-----  
 ## <a name="pwa"></a> PWA's
 
 - :paperclip: __Topics__: What makes a web app be considered a progressive web app. Why would you want to make a PWA.
