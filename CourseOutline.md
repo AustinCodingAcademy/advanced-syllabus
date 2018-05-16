@@ -312,7 +312,7 @@
     + [Notes](https://gist.github.com/jw56578/a1c47c1dc111900b8c4891c9c0a11ae9)
     + [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
     + [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
-    + [React Component Communication](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.g39b240d719_1_118)
+    + [React Component Communication](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.p)
 - :speaker: __To Do__: 
     + [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
     + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
