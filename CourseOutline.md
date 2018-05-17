@@ -348,23 +348,22 @@
 - :video_camera: __Videos__
      + 
 - :speaker: __To Do__: 
-    + 
+
 -----   
-
-
-
- 
-## <a name=""></a> Review
-  * [Notes](https://gist.github.com/jw56578/b310bbfe762bec09016ecfce387efad5)
-  * 6:30 - 7:00 [Review - Let us go over the topics we have covered so far](https://docs.google.com/document/d/1KrCE1mOogCpxAdy6hlnKnH7g4df3cnHLuFSxY6i_Dyg/edit)
-  * Extra Credit
-    * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
-    * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
+## <a name=""></a> Work Day
+- :speaker: __To Do__: 
+    + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
+    + [Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
+    + [React Homework 1](https://github.com/AustinCodingAcademy/advanced-homework-1)
+    + [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
+    + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
+    + [React Homework 2](https://github.com/AustinCodingAcademy/advanced-homework-2)
+    + Extra Credit
+      * [Hangman Game](https://github.com/AustinCodingAcademy/advanced-hangman-game)
+      * [Tic Tac Toe](https://github.com/AustinCodingAcademy/advanced-react-tictactoe)
     
 -----   
 
-
-    
 ## <a name="redux"></a> Day 12. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
@@ -462,10 +461,7 @@
 - :speaker: __To Do__: 
     + Lab
     + [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
-    + [Checkpoint 1](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
-
-
-
+    
 -----  
 
 ## <a name="day16"></a> Day 16. Client Side Routing
@@ -485,12 +481,7 @@
 - :speaker: __To Do__: 
     + [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
     + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
-
 -----  
-
-
-
-
 
 
 ## <a name="checkpoint2"></a> Checkpoint 2
@@ -501,15 +492,10 @@
     + [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
 - :speaker: __To Do__: 
     + [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
-
-
 -----  
 
 
-
-
 ## <a name="day17"></a> Day 17. Authentication
-
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
@@ -770,10 +756,10 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 -----   
 ## <a name="pwa"></a> Service Workers
 
-- :paperclip: __Topics__: What makes a web app be considered a progressive web app. Why would you want to make a PWA.
+- :paperclip: __Topics__: How can we make webs pages work without internet connection? What is a Service Worker. 
 - :file_folder: __Notes__:
 - :book: __Reading__:
-    + [Slids](https://docs.google.com/presentation/d/16uoU0KXYa24OFI66RHAzy4u29HW_9JOw739mZ-5vrYY/edit#slide=id.p)
+    + [Slides](https://docs.google.com/presentation/d/16uoU0KXYa24OFI66RHAzy4u29HW_9JOw739mZ-5vrYY/edit#slide=id.p)
     + [your-first-pwapp](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 - :newspaper: __Misc__:
     + [Starter Code](https://repl.it/@jw56578/PotableStraightModel)
