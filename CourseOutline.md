@@ -356,7 +356,7 @@
 - :speaker: __To Do__: 
     + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
     + [Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
-    + [React Homework 1](https://github.com/AustinCodingAcademy/advanced-homework-1)
+    + [React eCommerce 1](https://github.com/AustinCodingAcademy/advanced-homework-1)
     + [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
     + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
     + [React Homework 2](https://github.com/AustinCodingAcademy/advanced-homework-2)
