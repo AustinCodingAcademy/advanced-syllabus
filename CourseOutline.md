@@ -321,6 +321,7 @@
 ## <a name="webpack"></a> Day 11.  Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
     + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
     + [Webpack](https://docs.google.com/presentation/d/17TEXWgh2RJm6HSGxivtjIEs4DtVAT3OOmkxSKbscEpo/edit#slide=id.p) (Slides)
     + [Step by Step](https://docs.google.com/presentation/d/1FdGZ827uf6Y-Kn7jtr74B26SrBEP7njNKfFI9atdXkU/edit#slide=id.p)
