@@ -13,9 +13,9 @@
 | ||||
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. Webpack ](#webpack) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Redux I  ](#redux) |[Day 17. Authentication ](#day17)
-| [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux II](#redux2) |[Day 18. React Native](#day18)
-| [Day 4. Server I](#server1) | [Day 9. React](#react)       |    [Day 14. Redux II](#day14) |[Day 19. Heroku](#day19)
+| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Work Day  ](#redux) |[Day 17. Authentication ](#day17)
+| [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux I](#redux) |[Day 18. React Native](#day18)
+| [Day 4. Server I](#server1) | [Day 9. React](#react)       |    [Day 14. Redux II](#redux2) |[Day 19. Heroku](#day19)
 | [Day 5. Server II ](#server2) | [Day 10. React II](#react2)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
@@ -352,7 +352,7 @@
 - :speaker: __To Do__: 
 
 -----   
-## <a name=""></a> Work Day
+## <a name=""></a> Day 12. Work Day
 - :speaker: __To Do__: 
     + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
     + [Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
@@ -366,7 +366,7 @@
     
 -----   
 
-## <a name="redux"></a> Day 12. Redux
+## <a name="redux"></a> Day 13. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
@@ -403,7 +403,7 @@
 
 -----    
    
-## <a name="redux2"></a> Day 13. Redux Actions
+## <a name="redux2"></a> Day 14. Redux Actions
 
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
