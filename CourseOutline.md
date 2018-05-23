@@ -354,6 +354,7 @@
 -----   
 ## <a name="day12"></a> Day 12. Work Day
 - :speaker: __To Do__: 
+    + [Notes](https://gist.github.com/jw56578/1260ea1a06b042003e8f2611c8388b73)
     + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
     + [Prop Practice Child/Parent](https://github.com/AustinCodingAcademy/advanced-prop-practice)
     + [React eCommerce 1](https://github.com/AustinCodingAcademy/advanced-homework-1)
