@@ -466,6 +466,16 @@
     + [Redux Thunk Practice](https://github.com/AustinCodingAcademy/advanced-redux-fetch-practice)
     
 -----  
+## <a name="acaflix"></a> ACAFlix
+- :paperclip: __Topics__: Let's design a web app that is similiar to Netflix.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/66bdabf8c05fc61f4ddb5796d0a92b94)
+    + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
+- :video_camera: __Videos__
+    + [Demo](https://youtu.be/bMsq98aLHAA)
+- :speaker: __To Do__: 
+    + [Repo](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
+-----  
 
 ## <a name="day16"></a> Day 16. Client Side Routing
 
@@ -485,18 +495,6 @@
     + [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
     + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
 -----  
-
-
-## <a name="checkpoint2"></a> Checkpoint 2
-- :paperclip: __Topics__: Let's start working on checkpoint 2 
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/47ebc2d9856f561c1b5d464e2d414b33)
-- :video_camera: __Videos__
-    + [Checkpoint 2 Walkthrough](https://discourse.austincodingacademy.com/t/checkpoint-2-walkthrough/441)
-- :speaker: __To Do__: 
-    + [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
------  
-
 
 ## <a name="day17"></a> Day 17. Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
@@ -778,16 +776,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [Starter Code](https://repl.it/@jw56578/PotableStraightModel)
 -----  
 
-## <a name="acaflix"></a> ACAFlix
 
-- :paperclip: __Topics__: Let's design a web app that is similiar to Netflix.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/66bdabf8c05fc61f4ddb5796d0a92b94)
-    + [ACA Flix Spec Doc](https://docs.google.com/document/d/19l_2hz-rqoAB2TUTconchbdOiIUewwgW7RjubAhL344/edit)
-- :video_camera: __Videos__
-    + [Demo](https://youtu.be/bMsq98aLHAA)
-- :speaker: __To Do__: 
-    + [Repo](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
     
 -----   
 ## <a name="finalproject"></a> Final Project
