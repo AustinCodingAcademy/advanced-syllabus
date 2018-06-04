@@ -437,7 +437,6 @@
 
 - :paperclip: __Topics__: How do you use fetch with React. How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
-    + [Component Lifecycle](https://gist.github.com/jw56578/94f6bbb1bcf4f12be4fa68d99c322136)
     + [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
     + [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
 - :book: __Reading__:
