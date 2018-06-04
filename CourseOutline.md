@@ -405,16 +405,15 @@
 -----    
    
 ## <a name="redux2"></a> Day 14. Redux Actions
-
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
     + [Redux Checklist - Changing Data](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28e5e7e858_0_507)  (slides)
     + [Rules of reducers](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142) (slides)
     + [Types of Components](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g309b73ba6c_0_0) (slides)
     + [Containers](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28fe054e69_0_115) (slides)
     + [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
     + [dispatch quasi source code](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_0)
-
 - :book: __Reading__:
     + [Actions](https://redux.js.org/docs/basics/Actions.html)
     + [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
@@ -430,7 +429,6 @@
 - :speaker: __To Do__: 
     + Lab
     + [ redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
-
 
 -----    
  
