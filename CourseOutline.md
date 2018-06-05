@@ -431,11 +431,15 @@
     + [ redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 
 -----    
- 
+## <a name="day15"></a> Day 15. Redux Review
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/521e0b87b52ec5e17c732ec778e76c67)
+     + [Taking Notes](https://docs.google.com/presentation/d/16xHmfjdd4X6JQTwl-ynywczFG7LsEKWcxGuQe_TNYvw/edit#slide=id.p)
+     + [Template](https://docs.google.com/document/d/1CN4YNgIt1z8mfZZnr7yZ1ltOe8NEDGCYyU0_ULLqKbw/edit)
 
-## <a name="day15"></a> Day 15. React, Redux and Fetch
 
-- :paperclip: __Topics__: How do you use fetch with React. How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
+## <a name="day16"></a> Day 16. Redux and Fetch
+- :paperclip: __Topics__: How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
     + [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
     + [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
@@ -474,7 +478,7 @@
     + [Repo](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 -----  
 
-## <a name="day16"></a> Day 16. Client Side Routing
+## <a name="day16"></a> Day 17. Client Side Routing
 
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
@@ -493,7 +497,7 @@
     + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
 -----  
 
-## <a name="day17"></a> Day 17. Authentication
+## <a name="day17"></a> Day 18. Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
@@ -518,7 +522,7 @@
 
 -----  
 
-## <a name="day18"></a> [Day 18. Mobile](#mobile) 
+## <a name="day18"></a> [Day 19. Mobile](#mobile) 
 
 ----- 
 
@@ -529,7 +533,7 @@
      + [Performance](#performance)
      + [Coding Challenges](#codingchallenges)
 -----  
-## <a name="day19"></a> Day 19. Heroku
+## <a name="day19"></a> Day 20. Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
@@ -542,7 +546,7 @@
      + [Demo II](https://youtu.be/AZNFox2CvBk)
 -----   
 
-## <a name="interviewprep"></a> Day 20. Career Readiness / Interview Prep
+## <a name="interviewprep"></a> Career Readiness / Interview Prep
 
 - :paperclip: __Topics__: What do you need to do to prepare for an interview. What should be on your resume. 
 - :file_folder: __Notes__:
