@@ -436,6 +436,8 @@
      + [Notes](https://gist.github.com/jw56578/521e0b87b52ec5e17c732ec778e76c67)
      + [Taking Notes](https://docs.google.com/presentation/d/16xHmfjdd4X6JQTwl-ynywczFG7LsEKWcxGuQe_TNYvw/edit#slide=id.p)
      + [Template](https://docs.google.com/document/d/1CN4YNgIt1z8mfZZnr7yZ1ltOe8NEDGCYyU0_ULLqKbw/edit)
+- :newspaper: __Misc__:
+    + [Redux Dev Tools](https://github.com/zalmoxisus/redux-devtools-extension)
 
 
 ## <a name="day16"></a> Day 16. Redux and Fetch
