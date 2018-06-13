@@ -12,11 +12,11 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. Webpack ](#webpack) |[Day 16. Client Side Routing](#day17)
-| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Work Day  ](#day12) |[Day 17. Authentication ](#day18)
-| [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux I](#redux) |[Day 18. React Native](#day18)
-| [Day 4. Server I](#server1) | [Day 9. React](#react)       |    [Day 14. Redux II](#redux2) |[Day 19. Heroku](#day19)
-| [Day 5. Server II ](#server2) | [Day 10. React II](#react2)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
+| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. Webpack ](#webpack) |[Day 16. React and Fetch](#day16)
+| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Work Day  ](#day12) |[Day 17. Client Side Routing ](#day17)
+| [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux I](#redux) |[Day 18. Authentication](#day18)
+| [Day 4. Server I](#server1) | [Day 9. React](#react)       |    [Day 14. Redux II](#redux2) |[Day 19. React Native](#day19)
+| [Day 5. Server II ](#server2) | [Day 10. React II](#react2)       |   [Day 15. Redux III ](#day15) |[Day 20. Heroku](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
 
