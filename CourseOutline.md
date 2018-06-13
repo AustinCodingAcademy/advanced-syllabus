@@ -12,8 +12,8 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. Webpack ](#webpack) |[Day 16. Client Side Routing](#day16)
-| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Work Day  ](#day12) |[Day 17. Authentication ](#day17)
+| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. Webpack ](#webpack) |[Day 16. Client Side Routing](#day17)
+| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Work Day  ](#day12) |[Day 17. Authentication ](#day18)
 | [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux I](#redux) |[Day 18. React Native](#day18)
 | [Day 4. Server I](#server1) | [Day 9. React](#react)       |    [Day 14. Redux II](#redux2) |[Day 19. Heroku](#day19)
 | [Day 5. Server II ](#server2) | [Day 10. React II](#react2)       |   [Day 15. React and Fetch ](#day15) |[Day 20. Interview Prep](#interviewprep)
@@ -480,8 +480,7 @@
     + [Repo](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 -----  
 
-## <a name="day16"></a> Day 17. Client Side Routing
-
+## <a name="day17"></a> Day 17. Client Side Routing
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
@@ -499,7 +498,7 @@
     + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
 -----  
 
-## <a name="day17"></a> Day 18. Authentication
+## <a name="day18"></a> Day 18. Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
