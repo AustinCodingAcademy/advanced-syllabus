@@ -498,6 +498,8 @@
     + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
 -----  
 
+## <a name="checkpoint2"></a> [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
+-----  
 ## <a name="day18"></a> Day 18. Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
