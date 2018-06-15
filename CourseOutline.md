@@ -521,7 +521,7 @@
 - :bulb: __Cheat sheet__: 
     + 
 - :speaker: __To Do__: 
-    + [Authentication Starter Project](https://github.com/AustinCodingAcademy/advanced-authentication-starter)
+    + [Authentication Project](https://github.com/AustinCodingAcademy/authentication-project)
 
 -----  
 
