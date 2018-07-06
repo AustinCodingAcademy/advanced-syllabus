@@ -48,9 +48,7 @@
 -----   
 ## <a name="softwaresystems"></a> Software Systems
 - :paperclip: __Topics__:You can use all the buzz words and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
-- :city_sunset: __Objective__: 
-     + Understand what nodejs is.
-     + Understand what npm is.
+- :city_sunset: __Objective__: Understand what nodejs is.Understand what npm is. Be able to create an npm package.
 - :file_folder: __Notes__:
      + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
      + [nodejs](#nodejs)
@@ -65,6 +63,7 @@
 ----- 
 ## <a name="debugging"></a> Day 2. Debugging
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
+- :city_sunset: __Objective__: Be able to use vscode and chrome to set breakpoints and debug a running javascript program.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
     + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
