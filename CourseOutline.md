@@ -54,6 +54,7 @@
      + [nodejs](#nodejs)
      + [npm](#npm)
      + [MERN](https://docs.google.com/presentation/d/1bhmcKZBG4uTvljs3W_7_AH0u1qSJvoQGzm0oNvkUpJg/edit#slide=id.p)
+     + [git](https://docs.google.com/presentation/d/1JO9zYWD8E3I2yKW4tK52dF3LMCueOlmp1JW90cBkCp4/edit#slide=id.p)
      + [eCommerce](#eCommerce)
 - :book: __Reading__:
 - :newspaper: __Misc__:
