@@ -1,6 +1,6 @@
 ## Austin Coding Academy - Full Stack MERN
 
-This repository holds the course materials for the Q2 2018 edition of 
+This repository holds the course materials for the Q3 2018 edition of 
 ACA Full Stack MERN
 
 
