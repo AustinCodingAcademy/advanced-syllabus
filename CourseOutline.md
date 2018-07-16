@@ -22,7 +22,7 @@
 
 
 ## <a name="intro"></a> Day 1. Introduction to Class
-- :paperclip: __Topics__: Introduction, course in a nutshell, and policies/logistics. Please spend some time outside class to review the course policies and other guidelines.
+- :paperclip: __Topics__: Introduction, course in a nutshell, and policies/logistics. Please spend some time outside class to review the course policies and other guidelines. 
 - :file_folder: __Notes__:
     + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
     + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
@@ -30,6 +30,7 @@
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
+    + Textbook, rocket chat, study groups
 - :book: __Reading__:
     + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
     + [Trust the Process](https://simpleprogrammer.com/trust-the-process/)
