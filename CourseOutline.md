@@ -51,6 +51,7 @@
 - :paperclip: __Topics__:You can use all the buzz words and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
 - :city_sunset: __Objective__: Understand what nodejs is.Understand what npm is. Be able to create an npm package.
 - :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/3654cbdd1bf573af9aac750e8731f320)
      + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
      + [nodejs](#nodejs)
      + [npm](#npm)
