@@ -12,11 +12,11 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#intro)      | [Day 6. MVC](#server3) | [Day 11. Webpack ](#webpack) |[Day 16. React and Fetch](#day16)
-| [Day 2. Debugging](#debugging)| [Day 7. Lab](#mvc)      |   [Day 12. Work Day  ](#day12) |[Day 17. Client Side Routing ](#day17)
-| [Day 3. Testing](#testing) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux I](#redux) |[Day 18. Authentication](#day18)
-| [Day 4. Server I](#server1) | [Day 9. React](#react)       |    [Day 14. Redux II](#redux2) |[Day 19. React Native](#day19)
-| [Day 5. Server II ](#server2) | [Day 10. React II](#react2)       |   [Day 15. Redux III ](#day15) |[Day 20. Heroku](#interviewprep)
+| [Day 1. Intro](#intro)      | [Day 6. Servers II](#server2) | [Day 11. Webpack ](#webpack) |[Day 16. React and Fetch](#day16)
+| [Day 2. Software Systems](#softwaresystems)| [Day 7. MVC](#servers3)      |   [Day 12. Work Day  ](#day12) |[Day 17. Client Side Routing ](#day17)
+| [Day 3. Modules](#modules) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux I](#redux) |[Day 18. Authentication](#day18)
+| [Day 4. Debugging](#debugging) | [Day 9. React](#react)       |    [Day 14. Redux II](#redux2) |[Day 19. React Native](#day19)
+| [Day 5. Server I ](#server1) | [Day 10. React II](#react2)       |   [Day 15. Redux III ](#day15) |[Day 20. Heroku](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
 
@@ -47,7 +47,7 @@
 
 
 -----   
-## <a name="softwaresystems"></a> Software Systems
+## <a name="softwaresystems"></a> Day 2. Software Systems
 - :paperclip: __Topics__:You can use all the buzz words and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
 - :city_sunset: __Objective__: Understand what nodejs is.Understand what npm is. Be able to create an npm package.
 - :file_folder: __Notes__:
@@ -63,29 +63,6 @@
 - :speaker: __To Do__: 
     + Sign up for [npmjs.com](https://www.npmjs.com/)
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
------ 
-## <a name="debugging"></a> Day 2. Debugging
-- :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
-- :city_sunset: __Objective__: Be able to use vscode and chrome to set breakpoints and debug a running javascript program.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
-    + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
-- :book: __Reading__:
-    + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
-    + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
-    + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
-    + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-- :video_camera: __Videos__
-    + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
-    + [Tutorial](https://youtu.be/x4q86IjJFag)
-    + [Class Video](https://youtu.be/d7Qo067JbOc)
-- :microscope: __Lab__:
-    + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
-    + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
-    + Debug redux action practice
-    + Search All files
-    + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
-- :speaker: __To Do__: 
 
 
 -----  
@@ -127,7 +104,35 @@
      + 
 - :speaker: __To Do__: 
     + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
+    
+    
+    ----- 
+## <a name="debugging"></a> Day 4. Debugging
+- :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
+- :city_sunset: __Objective__: Be able to use vscode and chrome to set breakpoints and debug a running javascript program.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
+    + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
+- :book: __Reading__:
+    + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+    + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
+    + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
+    + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+- :video_camera: __Videos__
+    + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
+    + [Tutorial](https://youtu.be/x4q86IjJFag)
+    + [Class Video](https://youtu.be/d7Qo067JbOc)
+- :microscope: __Lab__:
+    + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
+    + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
+    + Debug redux action practice
+    + Search All files
+    + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
+- :speaker: __To Do__: 
+
 -----   
+
+
  
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
@@ -142,7 +147,7 @@
 
 
 
-## <a name="server1"></a> Day 4. Creating a Server
+## <a name="server1"></a> Day 5. Creating a Server
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
@@ -174,7 +179,7 @@
     + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
 -----  
   
-## <a name="server2"></a> Day 5. Creating a Server II
+## <a name="server2"></a> Day 6. Creating a Server II
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest. Continue learning how to use express step by step
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
@@ -187,7 +192,7 @@
     
 -----  
 
-## <a name="server3"></a> Day 6. Creating a Server III
+## <a name="server3"></a> Day 7. Creating a Server III
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
@@ -223,7 +228,7 @@
     + Express Practice Part 2,3 and 4
     + [Sign up for MLab](https://mlab.com/)
 -----   
-## <a name="checkpoint1"></a> Day 7. Lab
+## <a name="checkpoint1"></a> Day 8. Lab
 - :paperclip: __Topics__: Let's use what we have learned with node and express to build some real life applications.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/089b3cc1ccbeda8caf916192f437d467)
@@ -231,7 +236,7 @@
     +  [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
     +  [ACA Tracker](https://github.com/AustinCodingAcademy/aca-tracker)
 -----  
-## <a name="mongodb"></a> Day 8. Database with Mongo DB
+## <a name="mongodb"></a> Day 9. Database with Mongo DB
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
@@ -283,7 +288,7 @@
 
 -----   
   
-## <a name="react"></a> Day 9. React
+## <a name="react"></a> Day 10. React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
