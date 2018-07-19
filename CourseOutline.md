@@ -81,10 +81,6 @@
 - :speaker: __To Do__: 
      + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
 ----- 
-
-
-
-
 ## <a name="testing"></a>Testing
 - :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
 - :file_folder: __Notes__:
@@ -101,10 +97,8 @@
     + [Jest npm](https://www.npmjs.com/package/jest)
     + [Enzyme npm](https://www.npmjs.com/package/enzyme)
 - :video_camera: __Videos__
-     + 
 - :speaker: __To Do__: 
     + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
-    
     
     ----- 
 ## <a name="debugging"></a> Day 4. Debugging
