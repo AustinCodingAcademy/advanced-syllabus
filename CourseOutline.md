@@ -90,7 +90,7 @@
 - :newspaper: __Misc__:
     + [Jest](https://github.com/facebook/jest)
     + [Enzyme](https://github.com/airbnb/enzyme)
-    + [Jest npm](https://www.npmjs.com/packag /jest)
+    + [Jest npm](https://www.npmjs.com/package/jest)
     + [Enzyme npm](https://www.npmjs.com/package/enzyme)
 - :speaker: __To Do__: 
     + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
