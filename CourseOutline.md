@@ -14,9 +14,9 @@
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#intro)      | [Day 6. Servers II](#server2) | [Day 11. Webpack ](#webpack) |[Day 16. React and Fetch](#day16)
 | [Day 2. Software Systems](#softwaresystems)| [Day 7. MVC](#servers3)      |   [Day 12. Work Day  ](#day12) |[Day 17. Client Side Routing ](#day17)
-| [Day 3. Modules](#modules) | [Day 8. MongoDB](#mongodb)       |    [Day 13. Redux I](#redux) |[Day 18. Authentication](#day18)
-| [Day 4. Debugging](#debugging) | [Day 9. React](#react)       |    [Day 14. Redux II](#redux2) |[Day 19. React Native](#day19)
-| [Day 5. Server I ](#server1) | [Day 10. React II](#react2)       |   [Day 15. Redux III ](#day15) |[Day 20. Heroku](#interviewprep)
+| [Day 3. Modules](#modules) | [Day 8. lab](#labday1)       |    [Day 13. Redux I](#redux) |[Day 18. Authentication](#day18)
+| [Day 4. Debugging](#debugging) | [Day 9. MongoDB](#mongodb)       |    [Day 14. Redux II](#redux2) |[Day 19. React Native](#day19)
+| [Day 5. Server I ](#server1) | [Day 10. React I](#react)       |   [Day 15. Redux III ](#day15) |[Day 20. Heroku](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
 
@@ -217,7 +217,7 @@
     + Express Practice Part 2,3 and 4
     + [Sign up for MLab](https://mlab.com/)
 -----   
-## <a name="checkpoint1"></a> Day 8. Lab
+## <a name="labday1"></a> Day 8. Lab
 - :paperclip: __Topics__: Let's use what we have learned with node and express to build some real life applications.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/089b3cc1ccbeda8caf916192f437d467)
