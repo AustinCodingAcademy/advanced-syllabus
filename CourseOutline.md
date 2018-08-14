@@ -277,7 +277,7 @@
 
 -----   
   
-## <a name="react"></a> Day 10. React
+## <a name="react"></a> Day 11. React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
@@ -305,7 +305,7 @@
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
     + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 -----
-## <a name="react2"></a> Day 10. More React
+## <a name="react2"></a> Day 12. More React
 - :paperclip: __Topics__: React. Let's cover some more aspects of React.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/a1c47c1dc111900b8c4891c9c0a11ae9)
@@ -318,7 +318,7 @@
     + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
     + [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
 -----   
-## <a name="webpack"></a> Day 11.  Webpack
+## <a name="webpack"></a> Day 13.  Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
@@ -351,7 +351,7 @@
 - :speaker: __To Do__: 
 
 -----   
-## <a name="day12"></a> Day 12. Work Day
+## <a name="day12"></a> Day 14. Work Day
 - :speaker: __To Do__: 
     + [Notes](https://gist.github.com/jw56578/1260ea1a06b042003e8f2611c8388b73)
     + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
@@ -366,7 +366,7 @@
     
 -----   
 
-## <a name="redux"></a> Day 13. Redux
+## <a name="redux"></a> Day 15. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
@@ -403,7 +403,7 @@
 
 -----    
    
-## <a name="redux2"></a> Day 14. Redux Actions
+## <a name="redux2"></a> Day 16. Redux Actions
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
@@ -430,7 +430,7 @@
     + [ redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 
 -----    
-## <a name="day15"></a> Day 15. Redux Review
+## <a name="day15"></a> Day 17. Redux Review
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/521e0b87b52ec5e17c732ec778e76c67)
      + [Taking Notes](https://docs.google.com/presentation/d/16xHmfjdd4X6JQTwl-ynywczFG7LsEKWcxGuQe_TNYvw/edit#slide=id.p)
@@ -439,7 +439,7 @@
     + [Redux Dev Tools](https://github.com/zalmoxisus/redux-devtools-extension)
 
 
-## <a name="day16"></a> Day 16. Redux and Fetch
+## <a name="day16"></a> Day 18. Redux and Fetch
 - :paperclip: __Topics__: How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
     + [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
@@ -479,7 +479,7 @@
     + [Repo](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 -----  
 
-## <a name="day17"></a> Day 17. Client Side Routing
+## <a name="day17"></a> Day 19. Client Side Routing
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
@@ -499,7 +499,7 @@
 
 ## <a name="checkpoint2"></a> [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 -----  
-## <a name="day18"></a> Day 18. Authentication
+## <a name="day18"></a> Day 20. Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
@@ -524,7 +524,7 @@
 
 -----  
 
-## <a name="day18"></a> [Day 19. Mobile](#mobile) 
+## <a name="day18"></a> [Mobile](#mobile) 
 
 ----- 
 
@@ -535,7 +535,7 @@
      + [Performance](#performance)
      + [Coding Challenges](#codingchallenges)
 -----  
-## <a name="day19"></a> Day 20. Heroku
+## <a name="day19"></a> Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
