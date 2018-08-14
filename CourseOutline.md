@@ -255,6 +255,7 @@
 ## <a name="mongoose"></a>Day 10. Mongoose
 - :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/6f9b5d30d04129c0ba1f63a2e263f65b)
     + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 - :book: __Reading__:
     + [MongooseJS](http://mongoosejs.com/docs/guide.html)
