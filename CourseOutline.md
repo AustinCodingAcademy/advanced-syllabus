@@ -265,7 +265,7 @@
 - :bulb: __Cheat sheet__: 
     + [MongoDB and Mongoose](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
 - :speaker: __To Do__: 
-    + [Express Practice Part 5](https://github.com/AustinCodingAcademy/advanced-express-practice)
+    + [Express Practice Part 4](https://github.com/AustinCodingAcademy/advanced-express-practice)
       
 -----  
 
