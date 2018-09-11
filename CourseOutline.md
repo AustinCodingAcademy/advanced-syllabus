@@ -13,8 +13,8 @@
 | ||||
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#intro)      | [Day 6. Servers II](#server2) | [Day 11. React ](#react) |[Day 16. Redux II](#redux2)
-| [Day 2. Software Systems](#softwaresystems)| [Day 7. MVC](#servers3)      |   [Day 12. React II  ](#react2) |[Day 17. Review ](#day17)
-| [Day 3. Modules](#modules) | [Day 8. lab](#labday1)       |    [Day 13. Webpack](#webpack) |[Day 18. Client Side Routing](#day18)
+| [Day 2. Software Systems](#softwaresystems)| [Day 7. MVC](#servers3)      |   [Day 12. React II  ](#react2) |[Day 17. Client Side  Routing ](#clientsiderouting)
+| [Day 3. Modules](#modules) | [Day 8. lab](#labday1)       |    [Day 13. Webpack](#webpack) |[Day 18. Thunk](#thunk)
 | [Day 4. Debugging](#debugging) | [Day 9. MongoDB](#mongodb)       |    [Day 14. Workday](#reactworkday) |[Day 19. Authentication](#day19)
 | [Day 5. Server I ](#server1) | [Day 10. Mongoose](#mongoose)       |   [Day 15. Redux ](#redux) |[Day 20. Heroku](#interviewprep)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
@@ -431,7 +431,29 @@
     + [ redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 
 -----    
-## <a name="day17"></a> Day 17. Redux Review
+
+
+## <a name="clientsiderouting"></a> Day 17. Client Side Routing
+- :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
+    + [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
+    + [Checklist](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
+- :book: __Reading__:
+    + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
+    + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
+    + [Children components](https://stackblitz.com/edit/react-kvzfvz)
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/_hmmh6mcebw)
+    + [Demo 2](https://youtu.be/TP-BqSxPHUc)
+- :speaker: __To Do__: 
+    + [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
+    + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
+-----  
+
+
+
+## <a name="day17"></a> Redux Review
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/521e0b87b52ec5e17c732ec778e76c67)
      + [Taking Notes](https://docs.google.com/presentation/d/16xHmfjdd4X6JQTwl-ynywczFG7LsEKWcxGuQe_TNYvw/edit#slide=id.p)
@@ -480,23 +502,7 @@
     + [Repo](https://github.com/AustinCodingAcademy/advanced-checkpoint-1)
 -----  
 
-## <a name="day17"></a> Day 19. Client Side Routing
-- :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
-    + [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
-    + [Checklist](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
-- :book: __Reading__:
-    + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
-    + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
-    + [Children components](https://stackblitz.com/edit/react-kvzfvz)
-- :video_camera: __Videos__
-    + [Demo 1](https://youtu.be/_hmmh6mcebw)
-    + [Demo 2](https://youtu.be/TP-BqSxPHUc)
-- :speaker: __To Do__: 
-    + [React Router Address Book](https://github.com/AustinCodingAcademy/advanced-react-router-address-book)
-    + [React Router Practice](https://github.com/AustinCodingAcademy/advanced-react-router-practice)
------  
+
 
 ## <a name="checkpoint2"></a> [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 -----  
