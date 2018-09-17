@@ -465,6 +465,7 @@
 ## <a name="thunk"></a> Day 18. Redux and Fetch
 - :paperclip: __Topics__: How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/8e77a54108ec800e562072a872712ccd)
     + [Using Fetch with Redux Slides](https://docs.google.com/presentation/d/1Rpt4BWt8q2HpKpAALxmkMJZAXykUmwAScKvkXzK05VU/edit#slide=id.p)
     + [Redux thunk checklist](https://docs.google.com/presentation/d/1uUj_KUxAEqpeddFQ2OuVdr0AkaNDygIx87AvMdOUEbI/edit#slide=id.p)
 - :book: __Reading__:
