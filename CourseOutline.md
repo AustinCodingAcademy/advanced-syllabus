@@ -532,18 +532,8 @@
 
 -----  
 
-## <a name="day18"></a> [Mobile](#mobile) 
-
------ 
-
-## <a name="misc"></a>Misc
-- :paperclip: __Topics__: 
-     + [HTTPS](#https)
-     + [Mobile](#mobile)
-     + [Performance](#performance)
-     + [Coding Challenges](#codingchallenges)
------  
-## <a name="day19"></a> Heroku
+ 
+## <a name="heroku"></a> Day 20 Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
@@ -555,7 +545,17 @@
      + [Demo](https://youtu.be/6c8xj-K0vK8)
      + [Demo II](https://youtu.be/AZNFox2CvBk)
 -----   
+## <a name="day18"></a> [Mobile](#mobile) 
 
+----- 
+
+## <a name="misc"></a>Misc
+- :paperclip: __Topics__: 
+     + [HTTPS](#https)
+     + [Mobile](#mobile)
+     + [Performance](#performance)
+     + [Coding Challenges](#codingchallenges)
+----- 
 ## <a name="interviewprep"></a> Career Readiness / Interview Prep
 
 - :paperclip: __Topics__: What do you need to do to prepare for an interview. What should be on your resume. 
