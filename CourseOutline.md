@@ -545,9 +545,6 @@
      + [Demo](https://youtu.be/6c8xj-K0vK8)
      + [Demo II](https://youtu.be/AZNFox2CvBk)
 -----   
-## <a name="day18"></a> [Mobile](#mobile) 
-
------ 
 
 ## <a name="misc"></a>Misc
 - :paperclip: __Topics__: 
