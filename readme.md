@@ -5,7 +5,7 @@ ACA Full Stack MERN
 
 
 - __Instructor:__ [Jon Woo](http://github.com/jw56578), jon [at] austincodingacademy [dot] com
-- __TA:__ Nathan Simmons
+- __TA:__ 
 - __Class Time:__ MW 6:30-9pm on 1st Floor, Johnny 5 room
 - __Session Dates:__ 07/16/18 - 09/19/18
 - __Text Book:__ [Pro MERN Stack](https://drive.google.com/open?id=1gkHFLZhoDJN0kCm2vgA8nkWX-w4zHQtu)
