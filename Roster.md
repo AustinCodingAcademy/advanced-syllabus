@@ -1,16 +1,23 @@
 * Amaya, Gabe
-* Barrs, Eric
-* Cole, Charles
-* DeSilva, Chris
-* Dybvig, Keith
-* Johnson, Jeremy
-* Liu, Rui
-* Lyle, Walker
-* Middleton, Dane
-* Parker, Sunsha
-* Sablatura, Lesley
-* Samara, Michael
-* Tan, Almira
-* Tuohy, Vanessa
-* Tuwiner, Jordan
-* Winicki, Marilu
+* CRUZ, WILLIAM
+* Chalmers, Christelle
+
+* Cheatham, Sarah
+ 
+* Cruz, Rene
+
+* Gutierrez, Ezequiel
+ 
+* Hansson, Lauren
+ 
+* Hurst, Justin
+ 
+* Kori, Suneetha
+ 
+* Mathis, Paul
+ 
+* Sexton, Nikida
+ 
+* Waltrip, Jake
+ 
+* philippi, sean
