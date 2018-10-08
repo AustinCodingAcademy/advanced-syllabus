@@ -28,11 +28,12 @@
     + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
     + [You're Hired](https://docs.google.com/presentation/d/1NpG9RFwmi1k-aDnFVxu2NYVyKDJi6HxwXslTrobJn9k/edit#slide=id.p)
     + [Learning](#learning)
+    + [Final Project ](#finalproject)
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
     + Textbook, rocket chat, study groups, class format
-    + [Final Project ](#finalproject)
+   
 - :book: __Reading__:
     + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
     + [Trust the Process](https://simpleprogrammer.com/trust-the-process/)
