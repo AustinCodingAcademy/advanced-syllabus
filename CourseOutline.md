@@ -33,7 +33,6 @@
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
     + Textbook, rocket chat, study groups, class format
-   
 - :book: __Reading__:
     + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
     + [Trust the Process](https://simpleprogrammer.com/trust-the-process/)
