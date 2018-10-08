@@ -44,6 +44,7 @@
     + [VS Code](https://code.visualstudio.com/)
     + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
     + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
+    + [Tutoring](https://austincodingacademy.com/tutors/)
 - :speaker: __To Do__: 
     + [Gist Bio](https://gist.github.com/jw56578/c7c949c451e83e19327c091f99994163)
 
