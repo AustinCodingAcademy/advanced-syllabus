@@ -26,6 +26,7 @@
 - :file_folder: __Notes__:
     + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
     + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
+    + [You're Hired](https://docs.google.com/presentation/d/1NpG9RFwmi1k-aDnFVxu2NYVyKDJi6HxwXslTrobJn9k/edit#slide=id.p)
     + [Learning](#learning)
     + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
     + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
