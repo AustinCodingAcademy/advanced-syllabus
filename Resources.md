@@ -11,7 +11,7 @@ Resources
 * [Office Hours](https://discourse.austincodingacademy.com/t/advanced-office-hours/327)
 * [Code Sandbox](https://codesandbox.io/s/new)
 * [scrimba](https://scrimba.com)
-* [Code Wars](www.codewars.com)
+* [Code Wars](https://www.codewars.com)
 * [codeanalogies](https://www.codeanalogies.com/)
 * [build-a-computer](https://www.coursera.org/learn/build-a-computer)
 * [Repl React Native](https://repl.it/site/languages/react_native)
