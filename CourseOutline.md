@@ -88,7 +88,7 @@
     + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
 - :book: __Reading__:
    + [Jest Docs](https://facebook.github.io/jest/)
-    + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
+   + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [Jest](https://github.com/facebook/jest)
@@ -125,8 +125,6 @@
 
 -----   
 
-
- 
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
 - :paperclip: __Topics__: Let's build an ecommerce site from scratch
@@ -137,8 +135,6 @@
 - :speaker: __To Do__: 
     + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
 ----- 
-
-
 
 ## <a name="server1"></a> Day 5. Creating a Server
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
