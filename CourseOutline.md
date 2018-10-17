@@ -23,15 +23,14 @@
 
 ## <a name="day1"></a> Day 1. Intro to Class
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/3e92c40701de2f0a440a5e8e27b03534)
     + [Intro](#intro)
-
-
 
 -----   
 ## <a name="day2"></a> Day 2. Software Systems
 - :file_folder: __Notes__:
-     + [Software Systems](#softwaresystems)
      + [Notes](https://gist.github.com/jw56578/3654cbdd1bf573af9aac750e8731f320)
+     + [Software Systems](#softwaresystems)
 
 -----  
 ## <a name="day3"></a> Day 3. Modules
