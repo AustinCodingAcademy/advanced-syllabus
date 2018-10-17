@@ -21,7 +21,7 @@
 ||||
 
 
-## <a name="day1"></a> Day 1. 
+## <a name="day1"></a> Day 1. Intro to Class
 - :file_folder: __Notes__:
     + [Lesson](#intro)
 
