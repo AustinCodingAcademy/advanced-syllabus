@@ -46,24 +46,7 @@
      + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
 - :speaker: __To Do__: 
      + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
------ 
-## <a name="testing"></a> Testing
-- :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
-- :file_folder: __Notes__:
-    + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
-    + [Testing Step by Step](https://docs.google.com/presentation/d/1oIFt5YJiXsuHx0gidoR1ainqMgpgSeBLjTT2LzOJQak/edit#slide=id.p)
-    + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
-- :book: __Reading__:
-   + [Jest Docs](https://facebook.github.io/jest/)
-   + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
-- :microscope: __Lab__:
-- :newspaper: __Misc__:
-    + [Jest](https://github.com/facebook/jest)
-    + [Enzyme](https://github.com/airbnb/enzyme)
-    + [Jest npm](https://www.npmjs.com/package/jest)
-    + [Enzyme npm](https://www.npmjs.com/package/enzyme)
-- :speaker: __To Do__: 
-    + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
+
    
     ----- 
 ## <a name="debugging"></a> Day 4. Debugging
@@ -814,3 +797,22 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
     + Sign up for [npmjs.com](https://www.npmjs.com/)
     + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
+    
+    
+    ----- 
+## <a name="testing"></a> Testing
+- :paperclip: __Topics__: What is TDD. How do you test your code. How do you test React. What is enzyme.
+- :file_folder: __Notes__:
+    + [Testing](https://docs.google.com/presentation/d/19K7WF1UWjgsZNSCc83Cx86vwT6xJeE8HNPAF-fcW_7Y/edit#slide=id.p)(slides)
+    + [Testing Step by Step](https://docs.google.com/presentation/d/1oIFt5YJiXsuHx0gidoR1ainqMgpgSeBLjTT2LzOJQak/edit#slide=id.p)
+    + [Enzyme Step by Step](https://docs.google.com/presentation/d/10KEdHFLby4rqj3nJdKHrJOCRcHA30zzH4qPmuOhO264/edit#slide=id.p)
+- :book: __Reading__:
+   + [Jest Docs](https://facebook.github.io/jest/)
+   + [Enzyme Docs](http://airbnb.io/enzyme/docs/api/)
+- :newspaper: __Misc__:
+    + [Jest](https://github.com/facebook/jest)
+    + [Enzyme](https://github.com/airbnb/enzyme)
+    + [Jest npm](https://www.npmjs.com/package/jest)
+    + [Enzyme npm](https://www.npmjs.com/package/enzyme)
+- :speaker: __To Do__: 
+    + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
