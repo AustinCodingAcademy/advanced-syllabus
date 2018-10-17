@@ -23,32 +23,24 @@
 
 ## <a name="day1"></a> Day 1. Intro to Class
 - :file_folder: __Notes__:
-    + [Lesson](#intro)
+    + [Intro](#intro)
 
 
 
 -----   
-## <a name="day 2"></a> Day 2. Software Systems
+## <a name="day2"></a> Day 2. Software Systems
 - :file_folder: __Notes__:
-     + [Lesson](#softwaresystems)
+     + [Software Systems](#softwaresystems)
      + [Notes](https://gist.github.com/jw56578/3654cbdd1bf573af9aac750e8731f320)
 
 -----  
-## <a name="modules"></a> Day 3. Modules
+## <a name="day3"></a> Day 3. Modules
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
-     + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
-     + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
-     + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
-- :book: __Reading__:
-     + [Node Modules](https://nodejs.org/docs/latest/api/modules.html)
-- :video_camera: __Videos__
-     + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
-- :speaker: __To Do__: 
-     + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
+     + [Modules](#modules)
+  
 
-   
-    ----- 
+----- 
 ## <a name="debugging"></a> Day 4. Debugging
 - :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
 - :city_sunset: __Objective__: Be able to use vscode and chrome to set breakpoints and debug a running javascript program.
@@ -816,3 +808,17 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [Enzyme npm](https://www.npmjs.com/package/enzyme)
 - :speaker: __To Do__: 
     + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
+    
+    
+-----  
+## <a name="modules"></a>Modules
+- :file_folder: __Notes__:
+     + [Modules](https://docs.google.com/presentation/d/1KCggLagn3Jbuh3YGk9YqoNKTc3ja8SQRKh4PRCY8OjQ/edit#slide=id.p)(slides)
+     + [Node Modules](https://docs.google.com/presentation/d/14v0N_RgoSujfYk8atSaCMW9a96HfYB0VS5QHgeiR6lM/edit#slide=id.p)
+     + [ES6 Modules](https://docs.google.com/presentation/d/1Z-YOT6HRhnohOuk1Z0Q9MvmhkdeGux80930GPA30Ex8/edit#slide=id.p)
+- :book: __Reading__:
+     + [Node Modules](https://nodejs.org/docs/latest/api/modules.html)
+- :video_camera: __Videos__
+     + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
+- :speaker: __To Do__: 
+     + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
