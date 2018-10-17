@@ -28,22 +28,11 @@
 
 
 -----   
-## <a name="softwaresystems"></a> Day 2. Software Systems
-- :paperclip: __Topics__:You can use all the buzz words and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
-- :city_sunset: __Objective__: Understand what nodejs is.Understand what npm is. Be able to create an npm package.
+## <a name="day 2"></a> Day 2. Software Systems
 - :file_folder: __Notes__:
+     + [Lesson](#softwaresystems)
      + [Notes](https://gist.github.com/jw56578/3654cbdd1bf573af9aac750e8731f320)
-     + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
-     + [nodejs](#nodejs)
-     + [npm](#npm)
-     + [MERN](https://docs.google.com/presentation/d/1bhmcKZBG4uTvljs3W_7_AH0u1qSJvoQGzm0oNvkUpJg/edit#slide=id.p)
-     + [git](https://docs.google.com/presentation/d/1JO9zYWD8E3I2yKW4tK52dF3LMCueOlmp1JW90cBkCp4/edit#slide=id.p)
-     + [eCommerce](#eCommerce)
-- :book: __Reading__:
-- :newspaper: __Misc__:
-- :speaker: __To Do__: 
-    + Sign up for [npmjs.com](https://www.npmjs.com/)
-    + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
+
 -----  
 ## <a name="modules"></a> Day 3. Modules
 - :file_folder: __Notes__:
@@ -808,3 +797,20 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [Tutoring](https://austincodingacademy.com/tutors/)
 - :speaker: __To Do__: 
     + [Gist Bio](https://gist.github.com/jw56578/c7c949c451e83e19327c091f99994163)
+    
+-----   
+## <a name="softwaresystems"></a>Software Systems
+- :paperclip: __Topics__:You can use all the buzz words and cool terminology that you want, but when it comes down to it, all we are doing is building a software system. What specific types of software are we making and what kind of tools are we using to help us.
+- :city_sunset: __Objective__: Understand what nodejs is.Understand what npm is. Be able to create an npm package.
+- :file_folder: __Notes__:
+     + [Software Systems](https://docs.google.com/presentation/d/1dQgNVrbBntc_0Do_tdKnxoGY58Nlkcq10SvpRDQorpg/edit#slide=id.p)(slides)
+     + [nodejs](#nodejs)
+     + [npm](#npm)
+     + [MERN](https://docs.google.com/presentation/d/1bhmcKZBG4uTvljs3W_7_AH0u1qSJvoQGzm0oNvkUpJg/edit#slide=id.p)
+     + [git](https://docs.google.com/presentation/d/1JO9zYWD8E3I2yKW4tK52dF3LMCueOlmp1JW90cBkCp4/edit#slide=id.p)
+     + [eCommerce](#eCommerce)
+- :book: __Reading__:
+- :newspaper: __Misc__:
+- :speaker: __To Do__: 
+    + Sign up for [npmjs.com](https://www.npmjs.com/)
+    + [ACA Dash](https://github.com/AustinCodingAcademy/aca-dash)
