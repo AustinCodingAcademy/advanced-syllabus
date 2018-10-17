@@ -120,6 +120,7 @@
     + Debug redux action practice
     + Search All files
     + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
+    + [Node debug practice](https://github.com/AustinCodingAcademy/node-debug-practice)
 - :speaker: __To Do__: 
 
 -----   
