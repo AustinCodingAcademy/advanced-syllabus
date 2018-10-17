@@ -21,32 +21,10 @@
 ||||
 
 
-## <a name="intro"></a> Day 1. Introduction to Class
-- :paperclip: __Topics__: Introduction, course in a nutshell, and policies/logistics. Please spend some time outside class to review the course policies and other guidelines. 
+## <a name="intro"></a> Day 1. 
 - :file_folder: __Notes__:
-    + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
-    + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
-    + [You're Hired](https://docs.google.com/presentation/d/1NpG9RFwmi1k-aDnFVxu2NYVyKDJi6HxwXslTrobJn9k/edit#slide=id.p)
-    + [Learning](#learning)
-    + [Final Project ](#finalproject)
-    + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
-    + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
-    + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
-    + Textbook, rocket chat, study groups, class format
-- :book: __Reading__:
-    + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
-    + [Trust the Process](https://discourse.austincodingacademy.com/t/trust-the-process/216)
-    + [How to Ask Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
-    + [Communication](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
-    + [Attendance](https://gist.github.com/jw56578/2bb2c5578de5445a5f2d6e461d94a0bd)
-    + [Office Hours](https://discourse.austincodingacademy.com/t/advanced-office-hours/327)
-- :newspaper: __Misc__:
-    + [VS Code](https://code.visualstudio.com/)
-    + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
-    + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
-    + [Tutoring](https://austincodingacademy.com/tutors/)
-- :speaker: __To Do__: 
-    + [Gist Bio](https://gist.github.com/jw56578/c7c949c451e83e19327c091f99994163)
+    + [Lesson](#intro)
+
 
 
 -----   
@@ -804,4 +782,29 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
     + [Project Starter Repo](https://github.com/AustinCodingAcademy/advanced-final-project)
 -----   
-
+## <a name="intro"></a>Introduction to Class
+- :paperclip: __Topics__: Introduction, course in a nutshell, and policies/logistics. Please spend some time outside class to review the course policies and other guidelines. 
+- :file_folder: __Notes__:
+    + [Survey](https://goo.gl/forms/5SlLfG6bvj9wsuns1)
+    + [Intro](https://docs.google.com/presentation/d/144RtxLhmXBncRPb0ywt1vJkIRgjD2qxQ58tlDTKU6gc/edit#slide=id.p)
+    + [You're Hired](https://docs.google.com/presentation/d/1NpG9RFwmi1k-aDnFVxu2NYVyKDJi6HxwXslTrobJn9k/edit#slide=id.p)
+    + [Learning](#learning)
+    + [Final Project ](#finalproject)
+    + [Review Javascript](https://docs.google.com/presentation/d/1lBMYdvdn-B7lPjO69ouHbaotcDMhra-nKjpZgM-Y7_Y/edit#slide=id.p)
+    + [Setup](https://docs.google.com/presentation/d/18HwyJt5WVWH-pukNyIfpzqYyCelppKuBQWJTa4oo1Nw/edit#slide=id.p)
+    + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
+    + Textbook, rocket chat, study groups, class format
+- :book: __Reading__:
+    + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
+    + [Trust the Process](https://discourse.austincodingacademy.com/t/trust-the-process/216)
+    + [How to Ask Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
+    + [Communication](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
+    + [Attendance](https://gist.github.com/jw56578/2bb2c5578de5445a5f2d6e461d94a0bd)
+    + [Office Hours](https://discourse.austincodingacademy.com/t/advanced-office-hours/327)
+- :newspaper: __Misc__:
+    + [VS Code](https://code.visualstudio.com/)
+    + [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+    + [Dev Survey 2018](https://insights.stackoverflow.com/survey/2018)
+    + [Tutoring](https://austincodingacademy.com/tutors/)
+- :speaker: __To Do__: 
+    + [Gist Bio](https://gist.github.com/jw56578/c7c949c451e83e19327c091f99994163)
