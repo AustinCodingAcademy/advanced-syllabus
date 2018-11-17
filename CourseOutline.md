@@ -262,7 +262,7 @@
     
 -----
 ## <a name="react3"></a> Even More React
-  + [Children Components](https://stackblitz.com/edit/react-kvzfvz)
+  + [React Children](https://stackblitz.com/edit/react-kvzfvz)
 
 
 -----   
