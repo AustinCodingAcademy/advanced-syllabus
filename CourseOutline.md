@@ -259,6 +259,12 @@
     + [React State Practice](https://github.com/AustinCodingAcademy/advanced-state-practice)
     + [React State Practice 2](https://github.com/AustinCodingAcademy/advanced-state-practice-2)
     + [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
+    
+-----
+## <a name="react3"></a> Even More React
+  + [Children Components](https://stackblitz.com/edit/react-kvzfvz)
+
+
 -----   
 ## <a name="webpack"></a> Day 13.  Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
@@ -293,6 +299,7 @@
 - :speaker: __To Do__: 
 
 -----   
+
 ## <a name="reactworkday"></a> Day 14. Work Day
 - :speaker: __To Do__: 
     + [Notes](https://gist.github.com/jw56578/1260ea1a06b042003e8f2611c8388b73)
