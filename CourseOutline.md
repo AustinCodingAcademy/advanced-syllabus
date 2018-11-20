@@ -263,6 +263,13 @@
 -----
 ## <a name="react3"></a> Even More React
   + [React Children](https://stackblitz.com/edit/react-kvzfvz)
+  + Lifecycle Methods
+  + HOC
+  + Hooks
+  + Context API
+  + componentDidCatch
+  + Fragments
+  + String Components
 
 
 -----   
