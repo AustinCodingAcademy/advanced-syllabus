@@ -269,6 +269,8 @@
     + [Docs](https://reactjs.org/docs/react-component.html#componentdidmount)
   + HOC
     + [docs](https://reactjs.org/docs/higher-order-components.html)
+
+## <a name="react3"></a> React 16 New Features
   + Fragments
   + String Components
   + New features. Research on your own.
@@ -276,9 +278,6 @@
     + Context API
     + Hooks
     + Suspense
-
-
-
 -----   
 ## <a name="webpack"></a> Day 13.  Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
