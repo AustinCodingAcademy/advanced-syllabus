@@ -270,7 +270,7 @@
   + HOC
     + [docs](https://reactjs.org/docs/higher-order-components.html)
 
-## <a name="react3"></a> [React 16 New Features](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
+## <a name="react3"></a> [New Features](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
   + Fragments
   + String Components
   + New features. Research on your own.
