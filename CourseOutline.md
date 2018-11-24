@@ -268,11 +268,14 @@
     + [Example](https://stackblitz.com/edit/react-fk6jdc?file=index.js)
     + [Docs](https://reactjs.org/docs/react-component.html#componentdidmount)
   + HOC
-  + Hooks
-  + Context API
-  + componentDidCatch
   + Fragments
   + String Components
+  + New features. Research on your own.
+    + componentDidCatch
+    + Context API
+    + Hooks
+    + Suspense
+
 
 
 -----   
