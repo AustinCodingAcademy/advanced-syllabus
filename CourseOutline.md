@@ -268,6 +268,7 @@
     + [Example](https://stackblitz.com/edit/react-fk6jdc?file=index.js)
     + [Docs](https://reactjs.org/docs/react-component.html#componentdidmount)
   + HOC
+    + [docs](https://reactjs.org/docs/higher-order-components.html)
   + Fragments
   + String Components
   + New features. Research on your own.
