@@ -315,7 +315,7 @@
 
 -----   
 
-## <a name="reactworkday"></a> Day 14. Work Day
+## <a name="reactworkday"></a> Work Day
 - :speaker: __To Do__: 
     + [Notes](https://gist.github.com/jw56578/1260ea1a06b042003e8f2611c8388b73)
     + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
@@ -330,7 +330,7 @@
     
 -----   
 
-## <a name="redux"></a> Day 15. Redux
+## <a name="redux"></a> Day 14. Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
@@ -367,7 +367,7 @@
 
 -----    
    
-## <a name="redux2"></a> Day 16. Redux Actions
+## <a name="redux2"></a> Day 15. Redux Actions
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
@@ -396,7 +396,7 @@
 -----    
 
 
-## <a name="clientsiderouting"></a> Day 17. Client Side Routing
+## <a name="clientsiderouting"></a> Day 16. Client Side Routing
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
@@ -425,7 +425,7 @@
     + [Redux Dev Tools](https://github.com/zalmoxisus/redux-devtools-extension)
 
 
-## <a name="thunk"></a> Day 18. Redux and Fetch
+## <a name="thunk"></a> Day 17. Redux and Fetch
 - :paperclip: __Topics__: How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/8e77a54108ec800e562072a872712ccd)
@@ -470,7 +470,7 @@
 
 ## <a name="checkpoint2"></a> [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 -----  
-## <a name="authentication"></a> Day 19. Authentication
+## <a name="authentication"></a> Day 18. Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
