@@ -304,6 +304,7 @@
     + 
 - :book: __Reading__:
     + [Docs](https://reactjs.org/docs/add-react-to-a-new-app.html)
+    + [Setup](https://www.valentinog.com/blog/react-webpack-babel/)
 - :microscope: __Lab__:
 - :newspaper: __Misc__:
     + [Github](https://github.com/facebook/create-react-app)
