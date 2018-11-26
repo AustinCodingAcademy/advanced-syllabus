@@ -273,7 +273,9 @@
   + prop-types
     + [docs](https://reactjs.org/docs/typechecking-with-proptypes.html)
     + [example](https://stackblitz.com/edit/react-j68awp) 
-
+  + Conditional Rendering
+    + [docs](https://reactjs.org/docs/conditional-rendering.html)
+    + [example](https://stackblitz.com/edit/react-kz56q7) 
 ## <a name="react3"></a> [New Features](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
   + [Fragments](https://stackblitz.com/edit/react-ejyjfs)
   + [String Components](https://stackblitz.com/edit/react-ejyjfs)
