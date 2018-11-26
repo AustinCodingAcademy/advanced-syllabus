@@ -270,6 +270,9 @@
   + HOC
     + [docs](https://reactjs.org/docs/higher-order-components.html)
     + [example](https://stackblitz.com/edit/react-mpbddt?file=index.js)
+  + prop-types
+    + [docs](https://reactjs.org/docs/typechecking-with-proptypes.html)
+    + [example](https://stackblitz.com/edit/react-j68awp) 
 
 ## <a name="react3"></a> [New Features](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
   + [Fragments](https://stackblitz.com/edit/react-ejyjfs)
