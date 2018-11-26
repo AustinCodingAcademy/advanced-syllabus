@@ -261,7 +261,7 @@
     + [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
     
 -----
-## <a name="react3"></a> Even More React
+## <a name="react3"></a> Day 13. Even More React
   + [React Children](https://stackblitz.com/edit/react-kvzfvz)
   + Lifecycle Methods
     + [Slides](https://docs.google.com/presentation/d/1WK4REwcHcB_mD8qSQE8SexU27qzT3E8Zi-K3v143g3s/edit#slide=id.p)
@@ -280,7 +280,7 @@
     + Hooks
     + Suspense
 -----   
-## <a name="webpack"></a> Day 13.  Webpack
+## <a name="webpack"></a>Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
