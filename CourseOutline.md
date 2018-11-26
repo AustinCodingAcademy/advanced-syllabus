@@ -14,8 +14,8 @@
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#intro)      | [Day 6. Servers II](#server2) | [Day 11. React ](#react) |[Day 16. Redux II](#redux2)
 | [Day 2. Software Systems](#softwaresystems)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#react2) |[Day 17. Client Side  Routing ](#clientsiderouting)
-| [Day 3. Modules](#modules) | [Day 8. lab](#labday1)       |    [Day 13. Webpack](#webpack) |[Day 18. Thunk](#thunk)
-| [Day 4. Debugging](#debugging) | [Day 9. MongoDB](#mongodb)       |    [Day 14. Workday](#reactworkday) |[Day 19. Authentication](#authentication)
+| [Day 3. Modules](#modules) | [Day 8. lab](#labday1)       |    [Day 13. Webpack](#react3) |[Day 18. Thunk](#thunk)
+| [Day 4. Debugging](#debugging) | [Day 9. MongoDB](#mongodb)       |    [Day 14. redux](#reactworkday) |[Day 19. Authentication](#authentication)
 | [Day 5. Server I ](#server1) | [Day 10. Mongoose](#mongoose)       |   [Day 15. Redux ](#redux) |[Day 20. Heroku](#heroku)
 | [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
