@@ -395,15 +395,14 @@
     + [ redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 
 -----    
-## Rules of reducers
-+ [Slides](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142) (slides)
------    
-## Stand alone containers
-+ [Slides](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28fe054e69_0_115) (slides)
------
-## Presentational vs Container Components
-+ [Example](https://stackblitz.com/edit/react-3fr7wr?file=Messages.js)
-+ [Slides](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
+## More Redux
+- Rules of reducers
+  + [Slides](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142) (slides) 
+- Stand alone containers
+  + [Slides](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28fe054e69_0_115) (slides)
+- Presentational vs Container Components
+  + [Example](https://stackblitz.com/edit/react-3fr7wr?file=Messages.js)
+  + [Slides](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
 -----
 
 
