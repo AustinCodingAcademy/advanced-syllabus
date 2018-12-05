@@ -379,7 +379,7 @@
     + [Rules of reducers](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142) (slides)
     + [Types of Components](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g309b73ba6c_0_0) (slides)
     + [Containers](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28fe054e69_0_115) (slides)
-    + [Presentation vs. Container](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
+
     + [dispatch quasi source code](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_0)
 - :book: __Reading__:
     + [Actions](https://redux.js.org/docs/basics/Actions.html)
@@ -398,6 +398,12 @@
     + [ redux action practice](https://github.com/AustinCodingAcademy/advanced-redux-actions-practice)
 
 -----    
+
+## Presentational vs Container Components
++ [Example](https://stackblitz.com/edit/react-3fr7wr?file=Messages.js)
++ [Slides](https://docs.google.com/presentation/d/1ICIKqoWBnt4d85dfFIQorMRzmSAmiGc4F0L5OBplZg4/edit#slide=id.p)
+-----
+
 
 
 ## <a name="clientsiderouting"></a> Day 16. Client Side Routing
