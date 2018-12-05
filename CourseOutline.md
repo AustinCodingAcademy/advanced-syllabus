@@ -379,7 +379,6 @@
     + [Rules of reducers](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_142) (slides)
     + [Types of Components](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g309b73ba6c_0_0) (slides)
     + [Containers](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28fe054e69_0_115) (slides)
-
     + [dispatch quasi source code](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_0)
 - :book: __Reading__:
     + [Actions](https://redux.js.org/docs/basics/Actions.html)
