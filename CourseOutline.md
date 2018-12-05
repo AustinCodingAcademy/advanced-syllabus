@@ -415,8 +415,6 @@
     + [Checklist](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
 - :book: __Reading__:
     + [Training](https://reacttraining.com/react-router/web/guides/quick-start)
-    + [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
-    + [Children components](https://stackblitz.com/edit/react-kvzfvz)
 - :video_camera: __Videos__
     + [Demo 1](https://youtu.be/_hmmh6mcebw)
     + [Demo 2](https://youtu.be/TP-BqSxPHUc)
