@@ -482,6 +482,7 @@
 ## <a name="authentication"></a> Day 18. Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/2bf5e0fef752bf3884d6916d1020a22d)
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
     + [Token Analogy](https://docs.google.com/presentation/d/1qp8uO3T1cNKLREEgowX0O_AM92s-vxjpQvk3y61LdHg/edit#slide=id.p)
     + [Step By Step](https://docs.google.com/presentation/d/12weMwELlm42291krJE4Caf7tp0aE9soc6ShMgJEtCWM/edit#slide=id.p)
