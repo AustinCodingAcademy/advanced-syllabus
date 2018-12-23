@@ -790,7 +790,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
     + [Reusability](https://docs.google.com/presentation/d/17KzGLZ3L5ilMBsvvJkqO848J3vXY4xjh0ohOPHZhCU4/edit#slide=id.p)
     + Textbook, rocket chat, study groups, class format
 - :book: __Reading__:
-    + [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
+    + [Grading Policy](https://github.com/AustinCodingAcademy/advanced-syllabus/blob/master/GradingPolicy.md)
     + [Trust the Process](https://discourse.austincodingacademy.com/t/trust-the-process/216)
     + [How to Ask Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
     + [Communication](https://discourse.austincodingacademy.com/t/communication-with-instructor-and-tas/623)
