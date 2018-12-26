@@ -549,9 +549,12 @@
      + 
 - :speaker: __To Do__: 
     + 
+    
 -----
+## <a name=""></a> Troubleshooting
+- :paperclip: __Topics__: How do we figure out what is wrong with our code.
 
-
+-----
 ## <a name="mobile"></a> Mobile Dev
 
 - :paperclip: __Topics__: Make an app for iOS. Make an app for React Native
