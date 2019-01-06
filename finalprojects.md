@@ -5,6 +5,5 @@
 * https://questiontracker.herokuapp.com/
 * https://enigmatic-journey-83333.herokuapp.com/
 * https://pacific-taiga-44171.herokuapp.com/
-* http://radiant-savannah-95293.herokuapp.com
 * http://austincurrents.com/
 
