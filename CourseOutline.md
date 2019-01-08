@@ -778,7 +778,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :video_camera: __Videos__
      + 
 - :speaker: __To Do__: 
-    + [Project Starter Repo](https://github.com/AustinCodingAcademy/advanced-final-project)
+  
 -----   
 ## <a name="intro"></a>Introduction to Class
 - :paperclip: __Topics__: Introduction, course in a nutshell, and policies/logistics. Please spend some time outside class to review the course policies and other guidelines. 
