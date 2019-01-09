@@ -856,3 +856,4 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + [Module Video](https://youtu.be/Ev9RlJtGq_Q?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&t=979)
 - :speaker: __To Do__: 
      + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
+     + [CommonJs Practice](https://github.com/AustinCodingAcademy/commonjs-module-practice)
