@@ -33,36 +33,21 @@
      + [Software Systems](#softwaresystems)
 
 -----  
-## <a name="day3"></a> Day 3. Modules
+## <a name="day3"></a> Day 3. Debugging
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
-     + [Modules](#modules)
+     + [Modules](#debugging)
+-----  
+## <a name="day4"></a> Day 4. npm
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
+     + [Modules](#npm)
   
 
------ 
-## <a name="debugging"></a> Day 4. Debugging
-- :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
-- :city_sunset: __Objective__: Be able to use vscode and chrome to set breakpoints and debug a running javascript program.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
-    + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
-- :book: __Reading__:
-    + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
-    + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
-    + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
-    + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-- :video_camera: __Videos__
-    + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
-    + [Tutorial](https://youtu.be/x4q86IjJFag)
-    + [Class Video](https://youtu.be/d7Qo067JbOc)
-- :microscope: __Lab__:
-    + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
-    + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
-    + Debug redux action practice
-    + Search All files
-    + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
-    + [Node debug practice](https://github.com/AustinCodingAcademy/node-debug-practice)
-- :speaker: __To Do__: 
+
+
+
+
 
 -----   
 
@@ -843,7 +828,30 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
     + [Testing Project](https://github.com/AustinCodingAcademy/testing-project)
     
-    
+----- 
+## <a name="debugging"></a> Debugging
+- :paperclip: __Topics__: What is debugging. How do you debug a node app. How do you debug a web app.
+- :city_sunset: __Objective__: Be able to use vscode and chrome to set breakpoints and debug a running javascript program.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
+    + [Debugging](https://docs.google.com/presentation/d/16yPuG-pXoRiJv4dDUHjpzXO-PR3yxRE8lYRsW3rmrBs/edit#slide=id.p )(slides)
+- :book: __Reading__:
+    + [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+    + [What is Debugging](https://en.wikipedia.org/wiki/Debugging)
+    + [Debugging with VS Code](https://code.visualstudio.com/docs/editor/debugging)
+    + [Debugging with Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+- :video_camera: __Videos__
+    + [Demo](https://www.youtube.com/watch?time_continue=76&v=H0XScE08hy8)
+    + [Tutorial](https://youtu.be/x4q86IjJFag)
+    + [Class Video](https://youtu.be/d7Qo067JbOc)
+- :microscope: __Lab__:
+    + [Debug Node vs Web](https://gist.github.com/jw56578/bdcd21244aa8df279170bed9594d6934)
+    + [Fix Bug](https://googlechrome.github.io/devtools-samples/debug-js/get-started)
+    + Debug redux action practice
+    + Search All files
+    + [Challenge](https://github.com/AustinCodingAcademy/debugging-challenge)
+    + [Node debug practice](https://github.com/AustinCodingAcademy/node-debug-practice)
+- :speaker: __To Do__:     
 -----  
 ## <a name="modules"></a>Modules
 - :file_folder: __Notes__:
