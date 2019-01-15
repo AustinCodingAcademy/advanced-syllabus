@@ -41,7 +41,7 @@
 ## <a name="day4"></a> Day 4. npm
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
-     + [Modules](#npm)
+     + [npm](#npm)
   
 
 
