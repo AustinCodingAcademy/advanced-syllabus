@@ -36,7 +36,7 @@
 ## <a name="day3"></a> Day 3. Debugging
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/1e0ca3a254687e067b91431fd0cb7c91)
-     + [Modules](#debugging)
+     + [Debugging](#debugging)
 -----  
 ## <a name="day4"></a> Day 4. npm
 - :file_folder: __Notes__:
