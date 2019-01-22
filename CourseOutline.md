@@ -53,7 +53,7 @@
 -----  
 ## <a name="day4"></a> Day 6. Server II
 - :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
+     + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
      + [Server II](#server2)
   
 
@@ -856,7 +856,6 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 ## <a name="server2"></a>Creating a Server II
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest. Continue learning how to use express step by step
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
     + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
 - :book: __Reading__:
     + [github.com/remy/nodemon](https://github.com/remy/nodemon)
