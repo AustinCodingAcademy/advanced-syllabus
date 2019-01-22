@@ -47,7 +47,7 @@
 ## <a name="day4"></a> Day 5. Server I
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
-     + [Server I](#server1)
+     + [Server I](#server)
   
   
 -----  
@@ -822,7 +822,7 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
      + [CommonJs Practice](https://github.com/AustinCodingAcademy/commonjs-module-practice)
      
 -----      
-     ## <a name="server1"></a>Creating a Server
+## <a name="server1"></a>Creating a Server
 - :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
 - :file_folder: __Notes__:
     + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
