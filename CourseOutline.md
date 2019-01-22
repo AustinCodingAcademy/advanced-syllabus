@@ -43,7 +43,19 @@
      + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
      + [npm](#npm)
   
-
+-----  
+## <a name="day4"></a> Day 5. Server I
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
+     + [Server I](#server1)
+  
+  
+-----  
+## <a name="day4"></a> Day 6. Server II
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/018c9a8654f8666cddf3b9e9e8bb8964)
+     + [Server II](#server2)
+  
 
 
 
@@ -62,64 +74,7 @@
     + [ACA Store](https://github.com/AustinCodingAcademy/aca-store)
 ----- 
 
-## <a name="server1"></a> Day 5. Creating a Server
-- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
-    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
-    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
-    + [Where's my IP](https://docs.google.com/presentation/d/1mZIbb1FUhoScblsolER7ZXP3PPbB4WAhbNLFMi85yuU/edit)
-    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
-    + [HTTP Practice](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
-- :book: __Reading__:
-    + [Express](https://expressjs.com/)
-    + [use](http://expressjs.com/en/api.html#app.use)
-    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
-    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
-- :microscope: __Lab__:
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-- :newspaper: __Misc__:
-    + [Express npm](https://www.npmjs.com/package/express)
-    + [Postman](https://www.getpostman.com/)
-- :video_camera: __Videos__
-    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
-    + [REST](https://youtu.be/7YcW25PHnAA)
-- :bulb: __Cheat sheet__: 
-    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
-- :speaker: __To Do__: 
-    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
-    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
------  
-  
-## <a name="server2"></a> Day 6. Creating a Server II
-- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest. Continue learning how to use express step by step
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
-    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-- :book: __Reading__:
-    + [github.com/remy/nodemon](https://github.com/remy/nodemon)
-- :microscope: __Lab__:
-    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
 
-    
------  
-
-## <a name="day7"></a> Day 7. Creating a Server III
-- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
-- :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
-    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
-    + [nodemon](https://docs.google.com/presentation/d/1rPTeJKuXs26U9OT1E7qodemWMmIAWrJCWYprSkQoIBI/edit#slide=id.p)
-    + [fetch](#fetch)
-    + [CORS](#cors)
-- :book: __Reading__:
-    + [github.com/remy/nodemon](https://github.com/remy/nodemon)
-- :microscope: __Lab__:
-    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat) 
------  
 ## <a name="mvc"></a> MVC
 - :paperclip: __Topics__: Programming patterns. MVC Pattern. Using MVC in our own server. 
 - :file_folder: __Notes__:
@@ -865,3 +820,62 @@ https://www.google.com/search?q=what+happened+to+windows+mobile&rlz=1C1GGRV_enUS
 - :speaker: __To Do__: 
      + [Module Practice](https://github.com/AustinCodingAcademy/advanced-module-practice)
      + [CommonJs Practice](https://github.com/AustinCodingAcademy/commonjs-module-practice)
+     
+-----      
+     ## <a name="server1"></a>Creating a Server
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
+- :file_folder: __Notes__:
+    + [Internet Analogy](https://docs.google.com/presentation/d/18p3Qm-_RHM5Qohak3hHBeXW9nsf3eZLyL-rhu9XvI9o/edit#slide=id.p)
+    + [Understanding a Server](https://docs.google.com/presentation/d/1i20QydrS95WcyEOJgs5oMnuLlLVli6i7qL-2goFmml4/edit#slide=id.g24ef0cf848_0_1) 
+    + [Where's my IP](https://docs.google.com/presentation/d/1mZIbb1FUhoScblsolER7ZXP3PPbB4WAhbNLFMi85yuU/edit)
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+    + [REST](https://docs.google.com/presentation/d/19lpnY-Wm9q8XIr99oV188GqP3NiSMJ1D8P5dZsUbrVE/edit#slide=id.p)
+    + [HTTP Practice](https://docs.google.com/presentation/d/1-gMerQiCmCVwos_kAWuDeKIzfgi8Rhy9Q9PehVpNfaI/edit#slide=id.p)
+- :book: __Reading__:
+    + [Express](https://expressjs.com/)
+    + [use](http://expressjs.com/en/api.html#app.use)
+    + [frontend-vs-backend](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+    + [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+    + [REST API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+    + [Express Analogy](https://www.codementor.io/kevinkononenko/understanding-the-basics-of-express-js-by-eating-at-a-restaurant-gxhiv02th?utm_swu=7179)
+- :microscope: __Lab__:
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+- :newspaper: __Misc__:
+    + [Express npm](https://www.npmjs.com/package/express)
+    + [Postman](https://www.getpostman.com/)
+- :video_camera: __Videos__
+    + [Demo 1](https://youtu.be/ViwIjpD7bM8)
+    + [REST](https://youtu.be/7YcW25PHnAA)
+- :bulb: __Cheat sheet__: 
+    + [Express](https://github.com/azat-co/cheatsheets/tree/master/express4)
+- :speaker: __To Do__: 
+    + [Server Starter Code](https://github.com/AustinCodingAcademy/advanced-first-web-server)
+    + [Express Practice](https://github.com/AustinCodingAcademy/advanced-express-practice)
+-----  
+  
+## <a name="server2"></a>Creating a Server II
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest. Continue learning how to use express step by step
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/95bd7b05e3571e3908ee8e0695d775c1)
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+- :book: __Reading__:
+    + [github.com/remy/nodemon](https://github.com/remy/nodemon)
+- :microscope: __Lab__:
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
+
+    
+-----  
+
+## <a name="server3"></a>Creating a Server III
+- :paperclip: __Topics__: Internet. Servers. Client-Server communication. Express. Rest.
+- :file_folder: __Notes__:
+    + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
+    + [Express Step by Step](https://docs.google.com/presentation/d/11NrFEVHnkXfWUKF7VUwpMv-JkTX9ybXL6pEv6DecPoM/edit#slide=id.p)
+    + [nodemon](https://docs.google.com/presentation/d/1rPTeJKuXs26U9OT1E7qodemWMmIAWrJCWYprSkQoIBI/edit#slide=id.p)
+    + [fetch](#fetch)
+    + [CORS](#cors)
+- :book: __Reading__:
+    + [github.com/remy/nodemon](https://github.com/remy/nodemon)
+- :microscope: __Lab__:
+    + [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat) 
+-----  
