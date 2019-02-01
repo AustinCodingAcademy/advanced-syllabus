@@ -62,13 +62,25 @@
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
      + [Express](#server3)
-  
-
-
-
+ 
 
 -----   
 
+## <a name="day8"></a> Day 8. MVC
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
+     + [Express](#mvc)
+ 
+
+-----   
+
+## <a name="day9"></a> Day 9. MongoDB
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
+     + [MongoDB](#mongodb)
+ 
+
+-----   
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
 - :paperclip: __Topics__: Let's build an ecommerce site from scratch
@@ -104,7 +116,7 @@
     + Express Practice Part 2,3 and 4
     + [Sign up for MLab](https://mlab.com/)
 -----   
-## <a name="labday1"></a> Day 8. Lab
+## <a name="labday1"></a> Lab
 - :paperclip: __Topics__: Let's use what we have learned with node and express to build some real life applications.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/089b3cc1ccbeda8caf916192f437d467)
@@ -112,7 +124,7 @@
     +  [ACA Chat](https://github.com/AustinCodingAcademy/aca-chat)
     +  [ACA Tracker](https://github.com/AustinCodingAcademy/aca-tracker)
 -----  
-## <a name="mongodb"></a> Day 9. Database with Mongo DB
+## <a name="mongodb"></a> Database with Mongo DB
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
