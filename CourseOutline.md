@@ -68,7 +68,7 @@
 
 ## <a name="day8"></a> Day 8. MVC
 - :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
+     + [Notes](https://gist.github.com/jw56578/089b3cc1ccbeda8caf916192f437d467)
      + [Express](#mvc)
  
 
@@ -76,7 +76,7 @@
 
 ## <a name="day9"></a> Day 9. MongoDB
 - :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/937836b7252665183013e0f5751c4957)
+     + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
      + [MongoDB](#mongodb)
  
 
@@ -127,7 +127,6 @@
 ## <a name="mongodb"></a> Database with Mongo DB
 - :paperclip: __Topics__: Why do we use databases. Which database should we use? Let's setup a database. 
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
     + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec) (slides)
     + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
 - :book: __Reading__:
