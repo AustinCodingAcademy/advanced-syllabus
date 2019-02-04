@@ -79,8 +79,21 @@
      + [Notes](https://gist.github.com/jw56578/c59c52ce0ad8cd4ea6ffb5660e30666a)
      + [MongoDB](#mongodb)
  
-
 -----   
+
+## <a name="day10"></a> Day 10. Mongoose
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/6f9b5d30d04129c0ba1f63a2e263f65b)
+     + [MongoDB](#mongodb)
+-----   
+
+## <a name="day11"></a> Day 11. React
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
+     + [MongoDB](#mongodb)
+-----   
+
+
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
 - :paperclip: __Topics__: Let's build an ecommerce site from scratch
@@ -150,10 +163,9 @@
 
 
 -----   
-## <a name="mongoose"></a>Day 10. Mongoose
+## <a name="mongoose"></a>Mongoose
 - :paperclip: __Topics__: How does our code talk to a database. How do you retrieve things from a database. How do you save things to a database.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/6f9b5d30d04129c0ba1f63a2e263f65b)
     + [Mongoose Step by Step](https://docs.google.com/presentation/d/1gLRkTjjj9xUxgwXVer_WYsQb_1TwBZWxq74ThXSlSoE/edit)
 - :book: __Reading__:
     + [MongooseJS](http://mongoosejs.com/docs/guide.html)
@@ -176,10 +188,9 @@
 
 -----   
   
-## <a name="react"></a> Day 11. React
+## <a name="react"></a>React
 - :paperclip: __Topics__: React. Why do we use this tool.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
     + [React](https://docs.google.com/presentation/d/1Bj877oW04FA-bPxX9tgI7C6fY6mvJiLYP4VE_YJ-T6o/edit#slide=id.p)
     + [React Step by Step](https://docs.google.com/presentation/d/1q0mEzGOht31YNaNSetx6s5raQc02dts4xawCTTX21d8/edit#slide=id.p) (Slides)
 - :book: __Reading__:
