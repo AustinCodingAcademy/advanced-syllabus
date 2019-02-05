@@ -1,6 +1,6 @@
 
 Resources
-* [Video Playlist](https://www.youtube.com/watch?list=PLB3lIeK4NB6ttv_zz3r93b78UQWkM-wIm&v=eoze1pmNoBg)
+* [Online Lessons](https://wooed.teachable.com/p/applied-javascript)
 * [Grading Policy](https://discourse.austincodingacademy.com/t/advanced-grading-policy/330)
 * [Start on your final project](https://github.com/AustinCodingAcademy/advanced-final-project)
 * [Discourse](https://discourse.austincodingacademy.com/c/austin-coding-academy/advanced-2)
