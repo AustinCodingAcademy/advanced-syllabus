@@ -90,7 +90,7 @@
 ## <a name="day11"></a> Day 11. React
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
-     + [MongoDB](#mongodb)
+     + [React](#react)
 -----   
 
 
