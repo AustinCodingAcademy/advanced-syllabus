@@ -93,6 +93,19 @@
      + [React](#react)
 -----   
 
+## <a name="day12"></a> Day 12. React II
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/a1c47c1dc111900b8c4891c9c0a11ae9)
+     + [React](#react2)
+-----   
+
+## <a name="day13"></a> Day 13. React III
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
+     + [React](#react3)
+-----   
+
+
 
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
@@ -215,10 +228,9 @@
     + [Homework 1 Walkthrough](https://docs.google.com/presentation/d/1lOtXFSaYym8hRhUMfPnByXlLyz4ssUq16wm2RNQ4VJg/edit#slide=id.p)
     + [Prop Types](https://docs.google.com/presentation/d/1PPw8E0B3TTgXX927QWclm9sj3jsLnpxtVZE4HPYuMok/edit#slide=id.p)
 -----
-## <a name="react2"></a> Day 12. More React
+## <a name="react2"></a> More React
 - :paperclip: __Topics__: React. Let's cover some more aspects of React.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/a1c47c1dc111900b8c4891c9c0a11ae9)
     + [React Events](https://docs.google.com/presentation/d/1Bwkvfo4Txc_bn19vtncJBNejdBe8RtgWNq7foza9-kY/edit#slide=id.p)
     + [React State](https://docs.google.com/presentation/d/1wRDIQ8YobRhJqWZEIzj4WpVN1FI08zRSmZUDk49hWlk/edit#slide=id.p)
     + [React Component Communication](https://docs.google.com/presentation/d/1XYJGkY85HEwMNVzOjKMnJwuQOAfOeiyvFBtSKwt_XAw/edit#slide=id.p)
@@ -256,7 +268,6 @@
 ## <a name="webpack"></a>Webpack
 - :paperclip: __Topics__: Why do we use this tool called webpack. 
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
     + [Webpack](https://docs.google.com/presentation/d/17TEXWgh2RJm6HSGxivtjIEs4DtVAT3OOmkxSKbscEpo/edit#slide=id.p) (Slides)
     + [Step by Step](https://docs.google.com/presentation/d/1FdGZ827uf6Y-Kn7jtr74B26SrBEP7njNKfFI9atdXkU/edit#slide=id.p)
 - :book: __Reading__:
