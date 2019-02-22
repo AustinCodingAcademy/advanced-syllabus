@@ -104,12 +104,16 @@
      + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
      + [React](#react3)
 -----   
-## <a name="day13"></a> Day 14. React IV
+## <a name="day14"></a> Day 14. React IV
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/5e8ab4ba1ad3e60f613bb60e3ac14193)
      + [React](#react3)
 -----   
-
+## <a name="day15"></a> Day 15. Webpack
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
+     + [Webpack](#react3)
+-----   
 
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
@@ -245,7 +249,7 @@
     + [Homework](https://github.com/AustinCodingAcademy/advanced-homework-2)
     
 -----
-## <a name="react3"></a> Day 13. Even More React
+## <a name="react3"></a> Even More React
   + [React Children](https://stackblitz.com/edit/react-kvzfvz)
   + Lifecycle Methods
     + [Slides](https://docs.google.com/presentation/d/1WK4REwcHcB_mD8qSQE8SexU27qzT3E8Zi-K3v143g3s/edit#slide=id.p)
@@ -317,7 +321,7 @@
     
 -----   
 
-## <a name="redux"></a> Day 14. Redux
+## <a name="redux"></a> Redux
 
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
