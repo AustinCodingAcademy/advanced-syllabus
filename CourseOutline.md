@@ -306,7 +306,7 @@
 
 -----   
 
-## <a name="reactworkday"></a> Work Day
+## <a name="reactworkday"></a> create-react-app Projects
 - :speaker: __To Do__: 
     + [Notes](https://gist.github.com/jw56578/1260ea1a06b042003e8f2611c8388b73)
     + [Component Practice](https://github.com/AustinCodingAcademy/advanced-react-component-practice)
