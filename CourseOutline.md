@@ -12,7 +12,7 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Servers II](#day6) | [Day 11. React ](#day11) |[Day 16. Redux II](#redux2)
+| [Day 1. Intro](#day1)      | [Day 6. Servers II](#day6) | [Day 11. React ](#day11) |[Day 16. Redux Actions](#day16)
 | [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Client Side  Routing ](#clientsiderouting)
 | [Day 3. Modules](#day3) | [Day 8. lab](#day8)       |    [Day 13. React III](#day13) |[Day 18. Thunk](#thunk)
 | [Day 4. Debugging](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. React IV](#day14) |[Day 19. Authentication](#authentication)
