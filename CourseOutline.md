@@ -13,7 +13,7 @@
 | ||||
 | ------------- |-------------| -----|------|
 | [Day 1. Intro](#day1)      | [Day 6. Servers II](#day6) | [Day 11. React ](#day11) |[Day 16. Redux Actions](#day16)
-| [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Client Side  Routing ](#clientsiderouting)
+| [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. Redux Reducers ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. lab](#day8)       |    [Day 13. React III](#day13) |[Day 18. Thunk](#thunk)
 | [Day 4. Debugging](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. React IV](#day14) |[Day 19. Authentication](#authentication)
 | [Day 5. Server I ](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. Webpack ](#day15) |[Day 20. Heroku](#heroku)
@@ -112,8 +112,19 @@
 ## <a name="day15"></a> Day 15. Webpack
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
-     + [Webpack](#react3)
+     + [Webpack](#webpack)
 -----   
+## <a name="day16"></a> Day 16. Redux
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e)    
+     + [redux](#redux)
+-----   
+## <a name="day17"></a> Day 17. Redux II
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)  
+     + [redux](#redux)
+-----   
+
 
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
@@ -322,10 +333,8 @@
 -----   
 
 ## <a name="redux"></a> Redux
-
 - :paperclip: __Topics__: Why does the software tool Redux exist. What are Redux reducers. How do we use Redux with React.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e) 
     + [Redux](https://docs.google.com/presentation/d/1dHr0mVIaEyvxGvfaV6LTN1JZt0GHu2mAv1mvR1O49-M/edit#slide=id.p) (slides)
     + [Redux Checklist](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.p)  (slides)
     + [Redux Bank Analogy](https://docs.google.com/presentation/d/1lFbDzokiowkZttmnZWND5U2tizgcnjuZrJzmXVcTD8c/edit#slide=id.p)
@@ -361,7 +370,6 @@
 ## <a name="redux2"></a> Day 15. Redux Actions
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
     + [Redux Checklist - Changing Data](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28e5e7e858_0_507)  (slides)
     + [Types of Components](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g309b73ba6c_0_0) (slides)
     + [dispatch quasi source code](https://docs.google.com/presentation/d/1SeoofqOpMdFc-C2bQpFounwGYXbYLJqvMEwFsgw0SeQ/edit#slide=id.g21a03af546_0_0)
