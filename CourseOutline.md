@@ -17,7 +17,6 @@
 | [Day 3. Modules](#day3) | [Day 8. lab](#day8)       |    [Day 13. React III](#day13) |[Day 18. Redux Actions](#day18)
 | [Day 4. Debugging](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. React IV](#day14) |[Day 19. Authentication](#day19)
 | [Day 5. Server I ](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. Webpack ](#day15) |[Day 20. Heroku](#day20)
-| [Nodejs](#nodejs) | [npm](#npm)    | [fetch](#fetch)    | [Capstone](#finalproject)   
 ||||
 
 
