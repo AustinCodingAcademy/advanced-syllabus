@@ -120,7 +120,7 @@
 -----   
 ## <a name="day17"></a> Day 17. React Redux
 - :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)  
+     + [Notes](https://gist.github.com/jw56578/21233e46a39f434d6cb63a84344960aa)  
      + [redux](#redux)
 -----   
 ## <a name="day18"></a> Day 18. Redux Actions
