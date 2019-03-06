@@ -125,9 +125,20 @@
 -----   
 ## <a name="day18"></a> Day 18. Redux Actions
 - :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)  
+     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
      + [redux](#redux)
 -----   
+## <a name="day19"></a> Day 19. Authentication
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
+     + [redux](#redux)
+-----   
+## <a name="day20"></a> Day 20. 
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
+     + [redux](#redux)
+-----   
+
 
 ## <a name="eCommerce"></a> Build an eCommerce Site
 
