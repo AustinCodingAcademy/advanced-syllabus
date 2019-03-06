@@ -381,7 +381,7 @@
 
 -----    
    
-## <a name="redux2"></a> Day 15. Redux Actions
+## <a name="redux2"></a> Redux Actions
 - :paperclip: __Topics__: How do you change data in Redux.
 - :file_folder: __Notes__:
     + [Redux Checklist - Changing Data](https://docs.google.com/presentation/d/1sDE1TCNBflAhYwMz0ZIax-79Zh46L9zUdEW6fx9ookk/edit#slide=id.g28e5e7e858_0_507)  (slides)
@@ -416,7 +416,7 @@
 
 
 
-## <a name="clientsiderouting"></a> Day 16. Client Side Routing
+## <a name="clientsiderouting"></a> Client Side Routing
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
@@ -443,7 +443,7 @@
     + [Redux Dev Tools](https://github.com/zalmoxisus/redux-devtools-extension)
 
 
-## <a name="thunk"></a> Day 17. Redux and Fetch
+## <a name="thunk"></a> Redux and Fetch
 - :paperclip: __Topics__: How do you use fetch with Redux. By default you cannot. We need to use another tool. What is that tool?
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/8e77a54108ec800e562072a872712ccd)
