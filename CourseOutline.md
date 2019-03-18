@@ -419,7 +419,6 @@
 ## <a name="clientsiderouting"></a> Client Side Routing
 - :paperclip: __Topics__: Discuss what a spa is and the pros and cons. How does client side routing make spa's better. Walkthrough how to use React Router by doing the project.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)
     + [Client side routing](https://docs.google.com/presentation/d/1VQY_8NL12QVusNkxbgtNCxrIpmexudHO9OTOeJUpBNo/edit#slide=id.p)
     + [Checklist](https://docs.google.com/presentation/d/1CsJVP2K_AofkQIQYkeOtBBP9usSL65FniqKJhhJH334/edit#slide=id.p)
 - :book: __Reading__:
