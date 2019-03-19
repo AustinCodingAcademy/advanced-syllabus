@@ -131,12 +131,12 @@
 ## <a name="day19"></a> Day 19. Authentication
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/2bf5e0fef752bf3884d6916d1020a22d)
-     + [redux](#redux)
+     + [Authentication](#authentication)
 -----   
 ## <a name="day20"></a> Day 20. Deployment
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
-     + [redux](#redux)
+     + [Heroku](#heroku)
 -----   
 
 
