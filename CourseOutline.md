@@ -130,12 +130,12 @@
 -----   
 ## <a name="day19"></a> Day 19. Authentication
 - :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
+     + [Notes](https://gist.github.com/jw56578/2bf5e0fef752bf3884d6916d1020a22d)
      + [redux](#redux)
 -----   
-## <a name="day20"></a> Day 20. 
+## <a name="day20"></a> Day 20. Deployment
 - :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
+     + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
      + [redux](#redux)
 -----   
 
@@ -487,10 +487,9 @@
 
 ## <a name="checkpoint2"></a> [Checkpoint 2](https://github.com/AustinCodingAcademy/advanced-checkpoint-2)
 -----  
-## <a name="authentication"></a> Day 18. Authentication
+## <a name="authentication"></a> Authentication
 - :paperclip: __Topics__: Authentication. Sign-up/sign-in process. Hashing, tokens and encryption.
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/2bf5e0fef752bf3884d6916d1020a22d)
     + [Authentication](https://docs.google.com/presentation/d/1CTFaTFTGhkQbwpQlrONLGzzhiwky9BJqyjINA3wtVU8/edit#slide=id.p)
     + [Token Analogy](https://docs.google.com/presentation/d/1qp8uO3T1cNKLREEgowX0O_AM92s-vxjpQvk3y61LdHg/edit#slide=id.p)
     + [Step By Step](https://docs.google.com/presentation/d/12weMwELlm42291krJE4Caf7tp0aE9soc6ShMgJEtCWM/edit#slide=id.p)
@@ -517,7 +516,6 @@
 ## <a name="heroku"></a> Day 20 Heroku
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
-    + [Notes](https://gist.github.com/jw56578/a974ba41802549ce4d55233ed7198c4b)
     + [Survey](https://goo.gl/forms/uyCxIoLnCkreLb2L2)
     + [Setup](https://docs.google.com/presentation/d/1DkMr5yVVzLi2tMhCQ_kMyuSGNvbtSmHkqKW4c4SuajQ/edit#slide=id.p)
 - :newspaper: __Misc__:
