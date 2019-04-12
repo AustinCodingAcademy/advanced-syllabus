@@ -31,4 +31,10 @@ You should be completely comfortable with html and have a basic understanding on
 We will be using a combination of materials such as slides, follow along demos, tutorials, 
 reading assignments and homework projects
 
+## Class Format
+* Student Presentations - 5-7 mins
+* Whiteboard Training - 15 mins
+* Homework review and questions - 25-35 mins
+* 7:30 p.m. Students are whiteboarding, code planning, cloning and coding
+* 8:45 Assign blogs and give Attendance Code
 
