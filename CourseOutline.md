@@ -188,6 +188,7 @@
 - :file_folder: __Notes__:
     + [MongoDB](https://docs.google.com/presentation/d/1ZE9h-6OSI1s05435k_Y20YhIH7FHt8vA2T8UwC8K8Ec) (slides)
     + [Setup MongoDB](https://docs.google.com/presentation/d/1a3rOm5ffQBAODF6oGm0LknLoHnj_XTi2M5DYTA4834A/edit#slide=id.p)
+    + [Mongodb Atlas](https://docs.google.com/presentation/d/1BOKyoHiiU9PrsTWVvjNWu1x9TxYLU7QbB5dXutuFNSk/edit#slide=id.p)
 - :book: __Reading__:
     + [Why databases](http://www.softwaretestingclass.com/what-is-database-and-why-do-we-need-them/)
     + [Mongodb.com](https://www.mongodb.com/)
@@ -513,7 +514,7 @@
 -----  
 
  
-## <a name="heroku"></a> Day 20 Heroku
+## <a name="heroku"></a> Deployment
 - :paperclip: __Topics__: How do you get your application on a public web server for everyone to see. What is heroku?
 - :file_folder: __Notes__:
     + [Survey](https://goo.gl/forms/uyCxIoLnCkreLb2L2)
