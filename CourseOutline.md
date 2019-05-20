@@ -103,30 +103,30 @@
      + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
      + [React](#react3)
 -----   
-## <a name="day14"></a> Day 14. React IV
+## <a name="day14"></a> Day 14. Webpack/create-react-app
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/5e8ab4ba1ad3e60f613bb60e3ac14193)
-     + [React](#react3)
------   
-## <a name="day15"></a> Day 15. Webpack
-- :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
      + [Webpack](#webpack)
 -----   
-## <a name="day16"></a> Day 16. Redux
+## <a name="day16"></a> Day 15. Redux
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e)    
      + [redux](#redux)
 -----   
-## <a name="day17"></a> Day 17. React Redux
+## <a name="day17"></a> Day 16. React Redux
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/21233e46a39f434d6cb63a84344960aa)  
      + [redux](#redux)
 -----   
-## <a name="day18"></a> Day 18. Redux Actions
+## <a name="day18"></a> Day 17. Redux Actions
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
      + [redux](#redux)
+-----   
+## <a name="day15"></a> Day 18. Testing
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
+     + [Testing](#testing)    
 -----   
 ## <a name="day19"></a> Day 19. Authentication
 - :file_folder: __Notes__:
