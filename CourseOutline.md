@@ -118,7 +118,7 @@
      + [Notes](https://gist.github.com/jw56578/21233e46a39f434d6cb63a84344960aa)  
      + [redux](#redux)
 -----   
-## <a name="day18"></a> Day 17. Redux Actions
+## <a name="day18"></a> Day 17. React Redux Actions
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
      + [redux](#redux)
