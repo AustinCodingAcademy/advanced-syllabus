@@ -123,7 +123,7 @@
      + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
      + [redux](#redux)
 -----   
-## <a name="day15"></a> Day 18. Testing
+## <a name="day15"></a> Day 18. Client Side Routing
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
      + [Testing](#testing)    
