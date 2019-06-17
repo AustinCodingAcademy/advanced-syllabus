@@ -6,8 +6,8 @@ ACA Full Stack MERN
 
 - __Instructor:__ [Jon Woo](http://github.com/jw56578), jon [at] austincodingacademy [dot] com
 - __Tutor:__ Todd Frederking and Eric Barrs
-- __Class Time:__ T/Th 6:30-9pm on 1st Floor, Wall-E
-- __Session Dates:__ 1/8/19 - 3/21/19
+- __Class Time:__ 
+- __Session Dates:__ 
 - __Text Book:__ [Pro MERN Stack](https://drive.google.com/open?id=1gkHFLZhoDJN0kCm2vgA8nkWX-w4zHQtu)
 - [__Course Outline__](CourseOutline.md)
 
