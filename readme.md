@@ -5,10 +5,12 @@ ACA Full Stack MERN
 
 
 - __Instructor:__ [Jon Woo](http://github.com/jw56578), jon [at] austincodingacademy [dot] com
-- __Tutor:__ Todd Frederking and Eric Barrs
+- __Tutor:__ 
 - __Class Time:__ 
-- __Session Dates:__ 
+- __Session Dates:__ June 24 - Sept 4, 2019
 - __Text Book:__ [Pro MERN Stack](https://drive.google.com/open?id=1gkHFLZhoDJN0kCm2vgA8nkWX-w4zHQtu)
+- __[Daily Student Presentations](https://drive.google.com/open?id=1P6mFxir-UMLNpLPek0Yux9uZdfGyXDCPaBd9lKbqGFk)__
+- __[Weekly Interview Prep Blog Questions](https://drive.google.com/open?id=198765GJSiNc1sn0zt4KATUW_-0aqMpM4tKbt33ZD-Zo)__
 - [__Course Outline__](CourseOutline.md)
 
 -----
