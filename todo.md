@@ -1,5 +1,6 @@
 ### What we need to be doing with our lives
 * Watch online lesson videos and if appropriate follow along doing what is demonstrated. Keep watching over and over and doing until you get it.
+* If you don't get it, research online until you find something that makes you get it.
 * Always be thinking about a project to work on. Final project
 * Always be working on coding challenges on freecodecamp, hacker rank, Code Wars or anything else
 * Read industry articles. Share any that helped you understand something or interest you.
