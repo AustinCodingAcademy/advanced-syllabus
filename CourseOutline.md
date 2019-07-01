@@ -84,54 +84,56 @@
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/6f9b5d30d04129c0ba1f63a2e263f65b)
      + [MongoDB](#mongodb)
+     
+-----   
+## <a name="day11"></a> Day 11. Authentication
+- :file_folder: __Notes__:
+     + [Notes](https://gist.github.com/jw56578/2bf5e0fef752bf3884d6916d1020a22d)
+     + [Authentication](#authentication)
 -----   
 
-## <a name="day11"></a> Day 11. React
+## <a name="day12"></a> Day 12. React
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/2f6eadf5bac3f90b102e67a5c97f33f9)
      + [React](#react)
 -----   
 
-## <a name="day12"></a> Day 12. React II
+## <a name="day13"></a> Day 13. React II
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/a1c47c1dc111900b8c4891c9c0a11ae9)
      + [React](#react2)
 -----   
 
-## <a name="day13"></a> Day 13. React III
+## <a name="day14"></a> Day 14. React III
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/be26d758fe130237176f9c5c0bb38ad0)
      + [React](#react3)
 -----   
-## <a name="day14"></a> Day 14. Webpack/create-react-app
+## <a name="day15"></a> Day 15. Webpack/create-react-app
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/5e8ab4ba1ad3e60f613bb60e3ac14193)
      + [Webpack](#webpack)
 -----   
-## <a name="day16"></a> Day 15. Redux
+## <a name="day16"></a> Day 16. Redux
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/c0943055ed5ebc06bd131252d3d0391e)    
      + [redux](#redux)
 -----   
-## <a name="day17"></a> Day 16. React Redux
+## <a name="day17"></a> Day 17. React Redux
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/21233e46a39f434d6cb63a84344960aa)  
      + [redux](#redux)
 -----   
-## <a name="day18"></a> Day 17. React Redux Actions
+## <a name="day18"></a> Day 18. React Redux Actions
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/4ace42830072c7c9f8290f38e8131a29)  
      + [redux](#redux)
 -----   
-## <a name="day15"></a> Day 18. Client Side Routing
+## <a name="day19"></a> Day 19. Client Side Routing
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/838eb54eed02a88797d7181f5fbfb403)
      + [Testing](#testing)    
------   
-## <a name="day19"></a> Day 19. Authentication
-- :file_folder: __Notes__:
-     + [Notes](https://gist.github.com/jw56578/2bf5e0fef752bf3884d6916d1020a22d)
-     + [Authentication](#authentication)
+
 -----   
 ## <a name="day20"></a> Day 20. Deployment
 - :file_folder: __Notes__:
