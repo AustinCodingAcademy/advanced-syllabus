@@ -12,11 +12,11 @@
 
 | ||||
 | ------------- |-------------| -----|------|
-| [Day 1. Intro](#day1)      | [Day 6. Servers II](#day6) | [Day 11. React ](#day11) |[Day 16. react-redux](#day16)
+| [Day 1. Intro](#day1)      | [Day 6. Servers](#day6) | [Day 11. React ](#day11) |[Day 16. react-redux](#day16)
 | [Day 2. Software Systems](#day2)| [Day 7. MVC](#day7)      |   [Day 12. React II  ](#day12) |[Day 17. react-redux II ](#day17)
 | [Day 3. Modules](#day3) | [Day 8. lab](#day8)       |    [Day 13. React III](#day13) |[Day 18. Client Side Routing](#day18)
 | [Day 4. Debugging](#day4) | [Day 9. MongoDB](#day9)       |    [Day 14. Webpack](#day14) |[Day 19. Authentication](#day19)
-| [Day 5. Server I ](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. Redux ](#day15) |[Day 20. Deployment](#day20)
+| [Day 5. The Internet ](#day5) | [Day 10. Mongoose](#day10)       |   [Day 15. Redux ](#day15) |[Day 20. Deployment](#day20)
 ||||
 
 
@@ -43,7 +43,7 @@
      + [npm](#npm)
   
 -----  
-## <a name="day5"></a> Day 5. Server
+## <a name="day5"></a> Day 5. The Internet
 - :file_folder: __Notes__:
      + [Notes](https://gist.github.com/jw56578/7c6c59a55b9a4a1744c4bba2103a3a11)
      + [Server I](#server1)
